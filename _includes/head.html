@@ -15,4 +15,12 @@
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
+
+  {% if site.google_calendar_id and site.google_calendar_id != "" and site.google_calendar_api_key and site.google_calendar_api_key != "" %}
+  <script>
+    window.GCAL = { id: {{ site.google_calendar_id | jsonify }}, key: {{ site.google_calendar_api_key | jsonify }} };
+    window.SITE_BASEURL = {{ site.baseurl | jsonify }};
+  </script>
+  <script defer src="{{ '/assets/js/calendar.js' | relative_url }}"></script>
+  {% endif %}
 </head>

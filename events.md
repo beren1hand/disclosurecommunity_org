@@ -10,18 +10,11 @@ folks farther afield. Most gatherings are small, low-pressure, and
 discussion-based. If a particular event has a different format
 &mdash; a talk, a book club, a film viewing &mdash; the listing will say so.
 
-{% if site.google_calendar_id and site.google_calendar_id != "" %}
-<div class="gcal-embed">
-  <iframe
-    src="https://calendar.google.com/calendar/embed?src={{ site.google_calendar_id | url_encode }}&ctz=America%2FNew_York&mode=AGENDA&showPrint=0&showCalendars=0&showTabs=0&showNav=1&showTz=0"
-    title="Disclosure Community calendar"
-    loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{% endif %}
-
 ## Upcoming
 
+<div id="gcal-upcoming" hidden></div>
+
+<div id="file-upcoming" markdown="1">
 {% assign upcoming = site.events | where_exp: "e", "e.date >= site.time" | sort: "date" %}
 {% if upcoming.size > 0 %}
 <ul class="entry-list">
@@ -42,6 +35,7 @@ discussion-based. If a particular event has a different format
 Check back soon &mdash; or <a href="{{ '/contact/' | relative_url }}">let us know</a>
 you&rsquo;d like a heads up when the next one is set.</p>
 {% endif %}
+</div>
 
 ## Past
 

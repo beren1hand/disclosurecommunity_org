@@ -33,6 +33,7 @@ title: Home
 
   <div class="home-card">
     <p class="home-card-meta">Next gathering</p>
+    <div id="home-next">
     {% assign upcoming = site.events | where_exp: "e", "e.date >= site.time" | sort: "date" %}
     {% if upcoming.size > 0 %}
       {% assign next = upcoming.first %}
@@ -48,6 +49,7 @@ title: Home
       <a href="{{ '/contact/' | relative_url }}">drop us a note</a> and we&rsquo;ll
       let you know when the next one is set.</p>
     {% endif %}
+    </div>
   </div>
 
   <div class="home-card">

@@ -13,10 +13,16 @@ location: Columbus, Ohio
 email: hello@disclosurecommunity.org
 github_username: disclosurecommunity
 
-# Google Calendar embed
-# Replace with the calendar's public ID once one is set up. Until then
-# the Events page shows only the file-based event list.
+# Google Calendar (native event cards)
+# 1. google_calendar_id: the PUBLIC calendar's ID — use a dedicated
+#    calendar (e.g. c_xxxx@group.calendar.google.com), never a
+#    personal primary calendar.
+# 2. google_calendar_api_key: a Google Cloud API key restricted to
+#    the Calendar API and to this site's domains (HTTP referrers).
+# When both are set, /events/ and the home "Next gathering" card pull
+# live from the calendar; the file-based _events/ list is the fallback.
 google_calendar_id: ""
+google_calendar_api_key: ""
 
 # Build settings
 markdown: kramdown
