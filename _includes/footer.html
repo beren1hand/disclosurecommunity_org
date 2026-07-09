@@ -1,0 +1,19 @@
+<footer class="site-footer">
+  <div class="container">
+    <p class="footer-lead">
+      <span aria-hidden="true">✦</span>
+      Curious, humane inquiry &mdash; {{ site.location }}
+      <span aria-hidden="true">✦</span>
+    </p>
+    <p class="footer-meta">
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      &nbsp;&middot;&nbsp;
+      <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+      &nbsp;&middot;&nbsp;
+      <a href="{{ '/assets/open-letter.pdf' | relative_url }}">Open Letter</a>
+    </p>
+    <p class="footer-fineprint">
+      &copy; {{ 'now' | date: "%Y" }} Disclosure Community. Be patient with yourselves and with one another.
+    </p>
+  </div>
+</footer>

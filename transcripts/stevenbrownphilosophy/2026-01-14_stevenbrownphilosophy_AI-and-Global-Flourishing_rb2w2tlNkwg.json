@@ -1,0 +1,2069 @@
+{
+  "schema": "yt_transcripts/v2",
+  "video_id": "rb2w2tlNkwg",
+  "url": "https://www.youtube.com/watch?v=rb2w2tlNkwg",
+  "channel": "stevenbrownphilosophy",
+  "channel_id": "UCvVEkqbBZRoPzYurExuasLw",
+  "title": "AI and Global Flourishing",
+  "description": "My serious and sober attempt to justify and direct optimism about AI.\n\nArticles and Videos Referenced:\n- *Protein Folding:* https://interestingengineering.com/science/deepmind-alphafold-protein-engineering\n- *Animal Language:* https://www.nature.com/articles/d41586-025-02917-9\n- *Climate Crisis:* https://www.foodandwaterwatch.org/2025/04/09/artificial-intelligence-water-climate/\n- *Efficent Grids:* https://spectrum.ieee.org/ai-water-usage\n- *Efficient Water:* https://www.analyticsinsight.net/artificial-intelligence/ai-in-smart-irrigation-and-water-management-systems\n- *Fusion:* https://www.weforum.org/stories/2025/12/how-ai-will-help-get-fusion-from-lab-to-grid-by-the-2030s/\n- *Space Datacenters:* https://fortune.com/2025/12/01/google-ceo-sundar-pichai-project-suncatcher-extraterrestrial-data-centers-environment/\n- *Asteroid Mining:* https://spacenews.com/uks-asteroid-mining-corp-unveils-scar-e-robot/\n- *Unemployment:* https://futurism.com/former-google-ai-exec-law-medicine\n- *Universal Basic Income:* https://www.foxbusiness.com/economy/musk-predicts-ai-create-universal-high-income-make-saving-money-unnecessary\n- *Trump's AI Czar:* https://www.businessinsider.com/trump-ai-czar-david-sacks-universal-basic-income-ai-jobs-2025-6\n- *Oligarchy:* https://blogs.lse.ac.uk/businessreview/2025/09/15/seven-ceos-in-trumps-ai-dinner-shape-americas-tech-destiny/\n- *Democratic Reform:* https://youtu.be/3eFMcPVfbdI\n- *New Economic Systems:* https://blog.samaltman.com/three-observations\n- *Algorithmic Bias:* https://medcitynews.com/2025/12/ai-decides-who-gets-care-algorithmic-bias-in-post-acute-care-decisions/\n- *Better Data Sets:* https://theconversation.com/far-fewer-americans-support-political-violence-than-recent-polls-suggest-266113\n- *Deskilling:* https://www.businessinsider.com/anthropic-ceo-ai-90-percent-code-3-to-6-months-2025-3\n- *Automation:* https://www.transformernews.ai/p/claude-code-is-about-so-much-more\n- *Loss of Trust:* https://www.nytimes.com/2026/01/05/technology/nicolas-maduro-ai-images-deepfakes.html",
+  "upload_date": "20260114",
+  "duration_seconds": 940,
+  "view_count": 198,
+  "uploader": "Steven Brown Philosophy",
+  "extracted_at": "2026-05-20T15:37:16.611582+00:00",
+  "segment_count": 410,
+  "transcript": [
+    {
+      "text": "Okay, so I'm calling this AI and global",
+      "start": 2.47,
+      "duration": 0.009999999999999787
+    },
+    {
+      "text": "flourishing an optimistic road map. And",
+      "start": 2.48,
+      "duration": 2.39
+    },
+    {
+      "text": "I want to start with a bit of pessimism.",
+      "start": 4.88,
+      "duration": 1.5899999999999999
+    },
+    {
+      "text": "So this is a quote from Dune. Thou shalt",
+      "start": 6.48,
+      "duration": 2.789999999999999
+    },
+    {
+      "text": "not make a machine in the likeness of a",
+      "start": 9.28,
+      "duration": 2.389000000000001
+    },
+    {
+      "text": "human mind. And in the Dune cannon, we",
+      "start": 11.679,
+      "duration": 2.869999999999999
+    },
+    {
+      "text": "get a justification for this. Once men",
+      "start": 14.559,
+      "duration": 2.8710000000000004
+    },
+    {
+      "text": "turned their thinking over to machines",
+      "start": 17.44,
+      "duration": 1.5889999999999986
+    },
+    {
+      "text": "in the hope that this would set them",
+      "start": 19.039,
+      "duration": 1.5109999999999992
+    },
+    {
+      "text": "free, but that only permitted other men",
+      "start": 20.56,
+      "duration": 2.3100000000000023
+    },
+    {
+      "text": "with machines to enslave them. So I want",
+      "start": 22.88,
+      "duration": 3.1900000000000013
+    },
+    {
+      "text": "to make a couple of bold claims. So",
+      "start": 26.08,
+      "duration": 1.6700000000000017
+    },
+    {
+      "text": "whenever I try to make a bold claim, I",
+      "start": 27.76,
+      "duration": 1.5089999999999968
+    },
+    {
+      "text": "put it in yellow and so it's easy to",
+      "start": 29.279,
+      "duration": 1.8300000000000018
+    },
+    {
+      "text": "identify. I know I'm being controversial",
+      "start": 31.119,
+      "duration": 1.6709999999999994
+    },
+    {
+      "text": "when I say this, but I stand by my",
+      "start": 32.8,
+      "duration": 1.6700000000000017
+    },
+    {
+      "text": "yellow claims here. Relatively soon, AI",
+      "start": 34.48,
+      "duration": 2.7900000000000063
+    },
+    {
+      "text": "will get so good at so many tasks that",
+      "start": 37.28,
+      "duration": 2.3900000000000006
+    },
+    {
+      "text": "it will become almost universally",
+      "start": 39.68,
+      "duration": 1.990000000000002
+    },
+    {
+      "text": "disruptive. Um, there are two types of",
+      "start": 41.68,
+      "duration": 2.8689999999999998
+    },
+    {
+      "text": "risk that we need to be paying attention",
+      "start": 44.559,
+      "duration": 1.7510000000000048
+    },
+    {
+      "text": "to in this moment. Making things worse,",
+      "start": 46.32,
+      "duration": 3.1899999999999977
+    },
+    {
+      "text": "but also failing to make things better",
+      "start": 49.52,
+      "duration": 2.229999999999997
+    },
+    {
+      "text": "because the status quo is pretty bad",
+      "start": 51.76,
+      "duration": 3.6700000000000017
+    },
+    {
+      "text": "right now. Um, we know because of work",
+      "start": 55.44,
+      "duration": 3.2690000000000055
+    },
+    {
+      "text": "done by people at like our bird research",
+      "start": 58.719,
+      "duration": 2.469999999999999
+    },
+    {
+      "text": "center here at Ohio State that the",
+      "start": 61.199,
+      "duration": 2.2310000000000016
+    },
+    {
+      "text": "glaciers are melting. We know that the",
+      "start": 63.44,
+      "duration": 2.230000000000004
+    },
+    {
+      "text": "coral reefs are dying. We know that our",
+      "start": 65.68,
+      "duration": 2.1499999999999915
+    },
+    {
+      "text": "best attempts to create sustainable",
+      "start": 67.84,
+      "duration": 1.5889999999999986
+    },
+    {
+      "text": "technologies still require exploitative",
+      "start": 69.439,
+      "duration": 2.1510000000000105
+    },
+    {
+      "text": "mineral extraction. Um, we know that",
+      "start": 71.6,
+      "duration": 2.3100000000000023
+    },
+    {
+      "text": "although we can feed most the people on",
+      "start": 73.92,
+      "duration": 2.228999999999999
+    },
+    {
+      "text": "the earth, that a lot of that is being",
+      "start": 76.15899999999999,
+      "duration": 1.831000000000003
+    },
+    {
+      "text": "done through um really horrific",
+      "start": 78.0,
+      "duration": 1.9099999999999966
+    },
+    {
+      "text": "conditions for our farming animals. We",
+      "start": 79.92,
+      "duration": 2.5489999999999924
+    },
+    {
+      "text": "know that the benefits of uh increased",
+      "start": 82.479,
+      "duration": 2.551000000000002
+    },
+    {
+      "text": "technology and wealth are nowhere near",
+      "start": 85.03999999999999,
+      "duration": 2.230000000000004
+    },
+    {
+      "text": "equally distributed across the planet.",
+      "start": 87.28,
+      "duration": 2.3100000000000023
+    },
+    {
+      "text": "We know that our democratic institutions",
+      "start": 89.6,
+      "duration": 1.8290000000000077
+    },
+    {
+      "text": "are deeply in trouble. I'm going to try",
+      "start": 91.439,
+      "duration": 1.9110000000000014
+    },
+    {
+      "text": "to stay relatively apolitical as far as",
+      "start": 93.36,
+      "duration": 3.1089999999999947
+    },
+    {
+      "text": "uh right versus left, red versus blue,",
+      "start": 96.479,
+      "duration": 2.870999999999995
+    },
+    {
+      "text": "but all of us should be concerned about",
+      "start": 99.36,
+      "duration": 1.6700000000000017
+    },
+    {
+      "text": "gerrymandering wars like what's been",
+      "start": 101.03999999999999,
+      "duration": 2.1500000000000057
+    },
+    {
+      "text": "going on between Texas and California.",
+      "start": 103.2,
+      "duration": 2.3900000000000006
+    },
+    {
+      "text": "This is parties trying to stay in powder",
+      "start": 105.6,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "regardless of what the populace thinks.",
+      "start": 107.6,
+      "duration": 2.0700000000000074
+    },
+    {
+      "text": "And that's just very bad. Um, we need to",
+      "start": 109.68,
+      "duration": 3.030000000000001
+    },
+    {
+      "text": "stop thinking in terms of red versus",
+      "start": 112.72,
+      "duration": 1.6690000000000111
+    },
+    {
+      "text": "blue and we need to start thinking in",
+      "start": 114.399,
+      "duration": 2.1509999999999962
+    },
+    {
+      "text": "terms of one pale blue dot or one big",
+      "start": 116.56,
+      "duration": 3.269999999999996
+    },
+    {
+      "text": "blue marble. Used correctly, AI could",
+      "start": 119.84,
+      "duration": 3.1899999999999977
+    },
+    {
+      "text": "substantially improve global flourishing",
+      "start": 123.04,
+      "duration": 1.9099999999999966
+    },
+    {
+      "text": "in truly unprecedented ways. Um, we've",
+      "start": 124.96,
+      "duration": 3.190000000000012
+    },
+    {
+      "text": "already seen some early successes here.",
+      "start": 128.16,
+      "duration": 2.469999999999999
+    },
+    {
+      "text": "Alphafold managed to crack protein",
+      "start": 130.64,
+      "duration": 2.0700000000000216
+    },
+    {
+      "text": "structure, which means we'll get some",
+      "start": 132.72,
+      "duration": 1.9099999999999966
+    },
+    {
+      "text": "really revolutionary medical",
+      "start": 134.64,
+      "duration": 1.75
+    },
+    {
+      "text": "technologies on the near horizon. AI is",
+      "start": 136.4,
+      "duration": 2.789999999999992
+    },
+    {
+      "text": "helping decode animal speech. It might",
+      "start": 139.2,
+      "duration": 2.0700000000000216
+    },
+    {
+      "text": "even be possible that we can talk to",
+      "start": 141.28,
+      "duration": 1.9099999999999966
+    },
+    {
+      "text": "non-human animals, at least some like",
+      "start": 143.2,
+      "duration": 2.38900000000001
+    },
+    {
+      "text": "dolphins and whales. Um, and this might",
+      "start": 145.599,
+      "duration": 3.9110000000000014
+    },
+    {
+      "text": "fundamentally transform the way that we",
+      "start": 149.52,
+      "duration": 1.9099999999999966
+    },
+    {
+      "text": "think about our non-human animal",
+      "start": 151.44,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "colleagues.",
+      "start": 153.68,
+      "duration": 1.5900000000000034
+    },
+    {
+      "text": "But what about all the bad stuff? Um,",
+      "start": 155.28,
+      "duration": 2.1500000000000057
+    },
+    {
+      "text": "and I I don't want to be optimistic in a",
+      "start": 157.44,
+      "duration": 1.8300000000000125
+    },
+    {
+      "text": "way that is naive. So, um, I want to",
+      "start": 159.28,
+      "duration": 3.1899999999999977
+    },
+    {
+      "text": "admit that the rapid disruption caused",
+      "start": 162.48,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "by AI is already creating a whole host",
+      "start": 164.72,
+      "duration": 2.710000000000008
+    },
+    {
+      "text": "of extremely difficult problems. And",
+      "start": 167.44,
+      "duration": 1.9099999999999966
+    },
+    {
+      "text": "there's every reason to think that",
+      "start": 169.36,
+      "duration": 1.5889999999999986
+    },
+    {
+      "text": "things will get worse before they get",
+      "start": 170.959,
+      "duration": 2.070999999999998
+    },
+    {
+      "text": "better. Um, but with sufficient",
+      "start": 173.04,
+      "duration": 2.0700000000000216
+    },
+    {
+      "text": "intention and political will, all of",
+      "start": 175.12,
+      "duration": 2.5500000000000114
+    },
+    {
+      "text": "them are in my view solvable. And in",
+      "start": 177.68,
+      "duration": 2.7099999999999795
+    },
+    {
+      "text": "general, the AI itself can help us find",
+      "start": 180.4,
+      "duration": 2.3100000000000023
+    },
+    {
+      "text": "the solutions. Um, I want to make a",
+      "start": 182.72,
+      "duration": 2.710000000000008
+    },
+    {
+      "text": "philosophical distinction between",
+      "start": 185.44,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "extrinsic versus intrinsic problems.",
+      "start": 187.44,
+      "duration": 3.1899999999999977
+    },
+    {
+      "text": "Extrinsic problems are not built into",
+      "start": 190.64,
+      "duration": 1.910000000000025
+    },
+    {
+      "text": "the nature of AI itself. They're just",
+      "start": 192.56,
+      "duration": 2.3089999999999975
+    },
+    {
+      "text": "features of the rest of the world around",
+      "start": 194.879,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "us. as AI begins to emerge and then",
+      "start": 196.879,
+      "duration": 3.031000000000006
+    },
+    {
+      "text": "there will be intrinsic problems which",
+      "start": 199.92000000000002,
+      "duration": 1.4299999999999784
+    },
+    {
+      "text": "seem to be built into the nature of AI",
+      "start": 201.36,
+      "duration": 2.7099999999999795
+    },
+    {
+      "text": "itself. Um, let's start with the",
+      "start": 204.07999999999998,
+      "duration": 2.149000000000001
+    },
+    {
+      "text": "extrinsic problems. And I'm going to",
+      "start": 206.239,
+      "duration": 1.5109999999999957
+    },
+    {
+      "text": "start the one that everybody talks about",
+      "start": 207.76,
+      "duration": 1.670000000000016
+    },
+    {
+      "text": "the most, it seems, which is the",
+      "start": 209.44,
+      "duration": 1.5900000000000034
+    },
+    {
+      "text": "environmental impacts. You see all over",
+      "start": 211.04,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "the internet articles like this",
+      "start": 213.04,
+      "duration": 1.670000000000016
+    },
+    {
+      "text": "artificial intelligence threatening our",
+      "start": 214.72,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "water and climate. And I want to take",
+      "start": 216.72,
+      "duration": 2.469999999999999
+    },
+    {
+      "text": "this very seriously. Um, but there are",
+      "start": 219.2,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "reasons to think that we can solve these",
+      "start": 221.44,
+      "duration": 1.75
+    },
+    {
+      "text": "problems. There's efficiency uh",
+      "start": 223.2,
+      "duration": 1.910000000000025
+    },
+    {
+      "text": "solutions both in terms of making AI",
+      "start": 225.12,
+      "duration": 2.7099999999999795
+    },
+    {
+      "text": "itself require less cooling, have less",
+      "start": 227.84,
+      "duration": 3.430000000000007
+    },
+    {
+      "text": "water demanding energy grids. We could",
+      "start": 231.28,
+      "duration": 2.948999999999984
+    },
+    {
+      "text": "also be better at using the water that",
+      "start": 234.239,
+      "duration": 2.2309999999999945
+    },
+    {
+      "text": "we already use for irrigation and things",
+      "start": 236.48,
+      "duration": 2.710000000000008
+    },
+    {
+      "text": "like that if we do that more",
+      "start": 239.2,
+      "duration": 1.910000000000025
+    },
+    {
+      "text": "efficiently. Um I one of the things I'm",
+      "start": 241.12,
+      "duration": 3.188999999999993
+    },
+    {
+      "text": "personally most excited about is AI is",
+      "start": 244.319,
+      "duration": 2.231000000000023
+    },
+    {
+      "text": "enabling us to make rapid progress on",
+      "start": 246.56,
+      "duration": 2.1500000000000057
+    },
+    {
+      "text": "fusion energy. Um we know that we can",
+      "start": 248.72,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "make um essentially unlimited energy by",
+      "start": 251.36,
+      "duration": 3.1899999999999977
+    },
+    {
+      "text": "creating super hot plasmas inside of",
+      "start": 254.56,
+      "duration": 2.069000000000017
+    },
+    {
+      "text": "electromagnets. It's just very difficult",
+      "start": 256.639,
+      "duration": 1.9110000000000014
+    },
+    {
+      "text": "to do that and regulate those things",
+      "start": 258.56,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "fast enough. and our AIs are getting",
+      "start": 260.56,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "better and better at helping us do that.",
+      "start": 262.56,
+      "duration": 1.9089999999999918
+    },
+    {
+      "text": "If we solve that problem soon, then we",
+      "start": 264.479,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "can essentially flip over from fossil",
+      "start": 266.479,
+      "duration": 1.8310000000000173
+    },
+    {
+      "text": "fuels overnight. Um, and a lot of the",
+      "start": 268.32,
+      "duration": 3.75
+    },
+    {
+      "text": "pollution, as we all know, is from the",
+      "start": 272.08,
+      "duration": 1.8290000000000077
+    },
+    {
+      "text": "industrial side of the world. Um, and we",
+      "start": 273.919,
+      "duration": 2.2309999999999945
+    },
+    {
+      "text": "could push a lot of that into space. And",
+      "start": 276.15999999999997,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "I know that sounds science fiction-y,",
+      "start": 278.4,
+      "duration": 1.830000000000041
+    },
+    {
+      "text": "but we live in an emergent science",
+      "start": 280.24,
+      "duration": 1.9099999999999682
+    },
+    {
+      "text": "fiction reality. Um, and there's every",
+      "start": 282.15999999999997,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "reason to think that this will happen",
+      "start": 284.15999999999997,
+      "duration": 1.670000000000016
+    },
+    {
+      "text": "because the CEOs are already talking",
+      "start": 285.84000000000003,
+      "duration": 1.9089999999999918
+    },
+    {
+      "text": "about it. Google among others are",
+      "start": 287.759,
+      "duration": 2.4710000000000036
+    },
+    {
+      "text": "talking about moving the data centers,",
+      "start": 290.24,
+      "duration": 2.1499999999999773
+    },
+    {
+      "text": "the compute that we need to continue",
+      "start": 292.4,
+      "duration": 1.75
+    },
+    {
+      "text": "developing AI into space. And if you",
+      "start": 294.15999999999997,
+      "duration": 2.6300000000000523
+    },
+    {
+      "text": "think, well, gosh, then that just means",
+      "start": 296.8,
+      "duration": 1.589999999999975
+    },
+    {
+      "text": "we have to build more rockets and launch",
+      "start": 298.4,
+      "duration": 1.5900000000000318
+    },
+    {
+      "text": "them into space. That's not true. We can",
+      "start": 300.0,
+      "duration": 2.468999999999994
+    },
+    {
+      "text": "just mine all the minerals and construct",
+      "start": 302.479,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "everything, all of it, in space. We",
+      "start": 304.479,
+      "duration": 2.6310000000000286
+    },
+    {
+      "text": "don't even have to do that uh by",
+      "start": 307.12,
+      "duration": 1.670000000000016
+    },
+    {
+      "text": "ourselves. The robots can do that for us",
+      "start": 308.8,
+      "duration": 2.069999999999993
+    },
+    {
+      "text": "if they're sufficiently welldeveloped.",
+      "start": 310.88,
+      "duration": 3.7490000000000236
+    },
+    {
+      "text": "Well, what about all this unemployment",
+      "start": 314.639,
+      "duration": 1.5109999999999673
+    },
+    {
+      "text": "and poverty that's going to get created",
+      "start": 316.16,
+      "duration": 1.5889999999999986
+    },
+    {
+      "text": "as we eliminate jobs? This is a very",
+      "start": 317.759,
+      "duration": 1.9110000000000014
+    },
+    {
+      "text": "serious concern again from the Google",
+      "start": 319.68,
+      "duration": 1.670000000000016
+    },
+    {
+      "text": "CEO, right? Uh he says, \"Don't even",
+      "start": 321.36,
+      "duration": 2.1499999999999773
+    },
+    {
+      "text": "bother getting a law or medical degree",
+      "start": 323.52,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "because AI is going to destroy both of",
+      "start": 325.52,
+      "duration": 2.069999999999993
+    },
+    {
+      "text": "those careers before you can even",
+      "start": 327.6,
+      "duration": 2.3899999999999864
+    },
+    {
+      "text": "graduate.\" Uh what should we think about",
+      "start": 330.0,
+      "duration": 2.1499999999999773
+    },
+    {
+      "text": "this? Well, there is a solution. It's",
+      "start": 332.15999999999997,
+      "duration": 1.7490000000000236
+    },
+    {
+      "text": "actually a fairly well explored solution",
+      "start": 333.919,
+      "duration": 1.9110000000000014
+    },
+    {
+      "text": "which is called universal basic income.",
+      "start": 335.84000000000003,
+      "duration": 1.9089999999999918
+    },
+    {
+      "text": "In as much as we can generate all of",
+      "start": 337.759,
+      "duration": 2.3909999999999627
+    },
+    {
+      "text": "this wealth, we can just give people",
+      "start": 340.15999999999997,
+      "duration": 1.670000000000016
+    },
+    {
+      "text": "their basic needs. no strings attached.",
+      "start": 341.84000000000003,
+      "duration": 3.109999999999957
+    },
+    {
+      "text": "Um, again, there's reasons to be",
+      "start": 344.96,
+      "duration": 1.6690000000000396
+    },
+    {
+      "text": "optimistic that this really could",
+      "start": 346.639,
+      "duration": 1.350999999999999
+    },
+    {
+      "text": "happen. People like Elon Musk talk about",
+      "start": 348.0,
+      "duration": 1.829999999999984
+    },
+    {
+      "text": "it all the time. There will be universal",
+      "start": 349.84000000000003,
+      "duration": 2.06899999999996
+    },
+    {
+      "text": "bas universal high income, not merely",
+      "start": 351.919,
+      "duration": 2.1510000000000105
+    },
+    {
+      "text": "basic income. Everyone will have the",
+      "start": 354.08,
+      "duration": 1.8290000000000077
+    },
+    {
+      "text": "best medical care, food, home,",
+      "start": 355.919,
+      "duration": 1.511000000000024
+    },
+    {
+      "text": "transport, everything else. Sustainable",
+      "start": 357.44,
+      "duration": 2.3899999999999864
+    },
+    {
+      "text": "abundance. And you can see from the",
+      "start": 359.84000000000003,
+      "duration": 1.9089999999999918
+    },
+    {
+      "text": "previous slides that there really is",
+      "start": 361.759,
+      "duration": 1.5109999999999673
+    },
+    {
+      "text": "some reason to think that we could pull",
+      "start": 363.28,
+      "duration": 1.830000000000041
+    },
+    {
+      "text": "this off again if we had the political",
+      "start": 365.12,
+      "duration": 2.3899999999999864
+    },
+    {
+      "text": "will. And I don't want to pretend that",
+      "start": 367.52,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "this is easy. It's not easy. uh Trump's",
+      "start": 369.52,
+      "duration": 2.5500000000000114
+    },
+    {
+      "text": "AISAR has specifically said that UBI",
+      "start": 372.08,
+      "duration": 2.150000000000034
+    },
+    {
+      "text": "style payments aren't going to happen.",
+      "start": 374.24,
+      "duration": 1.75
+    },
+    {
+      "text": "So, you know, we have to be able to um",
+      "start": 376.0,
+      "duration": 3.0289999999999964
+    },
+    {
+      "text": "actually try to change these",
+      "start": 379.039,
+      "duration": 1.2700000000000387
+    },
+    {
+      "text": "institutions and make that kind of stuff",
+      "start": 380.319,
+      "duration": 2.7099999999999795
+    },
+    {
+      "text": "actually happen. There's a big worry",
+      "start": 383.039,
+      "duration": 2.5509999999999877
+    },
+    {
+      "text": "about oligarchy, right? um the more",
+      "start": 385.6,
+      "duration": 2.069999999999993
+    },
+    {
+      "text": "these AI uh models get more and more",
+      "start": 387.68,
+      "duration": 3.430000000000007
+    },
+    {
+      "text": "sophisticated, they develop new math,",
+      "start": 391.12,
+      "duration": 2.3100000000000023
+    },
+    {
+      "text": "new science, new technology, and then",
+      "start": 393.44,
+      "duration": 2.309000000000026
+    },
+    {
+      "text": "all of that is presumably under the way",
+      "start": 395.759,
+      "duration": 1.8310000000000173
+    },
+    {
+      "text": "that we run things now owned by the tech",
+      "start": 397.6,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "CEOs. And and that means that we start",
+      "start": 400.15999999999997,
+      "duration": 2.869000000000028
+    },
+    {
+      "text": "treating our tech CEOs like heads of",
+      "start": 403.039,
+      "duration": 2.3110000000000355
+    },
+    {
+      "text": "state. Um and we should be concerned",
+      "start": 405.36,
+      "duration": 2.9489999999999554
+    },
+    {
+      "text": "about this. What do we need to do about",
+      "start": 408.319,
+      "duration": 2.0709999999999695
+    },
+    {
+      "text": "this? We need robust democratic reform",
+      "start": 410.4,
+      "duration": 2.629000000000019
+    },
+    {
+      "text": "at a scale that we've never seen, at a",
+      "start": 413.039,
+      "duration": 2.2309999999999945
+    },
+    {
+      "text": "planetary scale. um that actually",
+      "start": 415.28,
+      "duration": 2.7900000000000205
+    },
+    {
+      "text": "provides a distributed network of uh",
+      "start": 418.08,
+      "duration": 3.2700000000000387
+    },
+    {
+      "text": "democratic institutions that can work on",
+      "start": 421.36,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "these problems together. Um here at Ohio",
+      "start": 424.0,
+      "duration": 2.7099999999999795
+    },
+    {
+      "text": "State, uh if you haven't watched Michael",
+      "start": 426.72,
+      "duration": 1.5889999999999986
+    },
+    {
+      "text": "Nebau's talk on uh town halls and",
+      "start": 428.319,
+      "duration": 2.5509999999999877
+    },
+    {
+      "text": "democracy, I strongly recommend that you",
+      "start": 430.88,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "do it. I know for a fact that Michael",
+      "start": 433.52,
+      "duration": 2.069000000000017
+    },
+    {
+      "text": "Nebau is doing very smart work on",
+      "start": 435.599,
+      "duration": 2.0710000000000264
+    },
+    {
+      "text": "democratic stuff and AI because I'm",
+      "start": 437.68,
+      "duration": 2.4699999999999704
+    },
+    {
+      "text": "working with him on a couple of it",
+      "start": 440.16,
+      "duration": 1.7489999999999668
+    },
+    {
+      "text": "couple of those projects.",
+      "start": 441.919,
+      "duration": 3.1100000000000136
+    },
+    {
+      "text": "Um, we also will need new economic",
+      "start": 445.039,
+      "duration": 2.6310000000000286
+    },
+    {
+      "text": "systems. And the science fiction world",
+      "start": 447.68,
+      "duration": 2.3899999999999864
+    },
+    {
+      "text": "of Star Trek, there's this replicator",
+      "start": 450.08,
+      "duration": 2.150000000000034
+    },
+    {
+      "text": "technology. You can just make anything",
+      "start": 452.24,
+      "duration": 2.228999999999985
+    },
+    {
+      "text": "by just zapping it into existence. And",
+      "start": 454.479,
+      "duration": 2.8710000000000377
+    },
+    {
+      "text": "this eliminates the need for money. And",
+      "start": 457.36,
+      "duration": 2.7899999999999636
+    },
+    {
+      "text": "um, that is admittedly a science fiction",
+      "start": 460.15999999999997,
+      "duration": 2.390000000000043
+    },
+    {
+      "text": "scenario, but again, there's reasons to",
+      "start": 462.56,
+      "duration": 2.3100000000000023
+    },
+    {
+      "text": "think that something like this is in",
+      "start": 464.88,
+      "duration": 1.4289999999999736
+    },
+    {
+      "text": "fact on the horizon. Here's Sam Alman.",
+      "start": 466.319,
+      "duration": 2.4710000000000036
+    },
+    {
+      "text": "Um, ensuring that the benefits of",
+      "start": 468.8,
+      "duration": 1.589999999999975
+    },
+    {
+      "text": "artificial general intelligence are",
+      "start": 470.4,
+      "duration": 2.069000000000017
+    },
+    {
+      "text": "broadly distributed is critical. The",
+      "start": 472.479,
+      "duration": 2.150000000000034
+    },
+    {
+      "text": "historical impact of technological",
+      "start": 474.639,
+      "duration": 1.7509999999999764
+    },
+    {
+      "text": "progress suggests that most of the",
+      "start": 476.4,
+      "duration": 1.75
+    },
+    {
+      "text": "metrics we care about, health outcomes,",
+      "start": 478.15999999999997,
+      "duration": 2.07000000000005
+    },
+    {
+      "text": "economic prosperity, etc. get better on",
+      "start": 480.24,
+      "duration": 3.430000000000007
+    },
+    {
+      "text": "average and over the long term. But",
+      "start": 483.68,
+      "duration": 2.4699999999999704
+    },
+    {
+      "text": "increasingly increasing equality does",
+      "start": 486.16,
+      "duration": 2.2299999999999613
+    },
+    {
+      "text": "not seem technologically determined and",
+      "start": 488.4,
+      "duration": 2.229000000000042
+    },
+    {
+      "text": "getting this right may require new",
+      "start": 490.639,
+      "duration": 1.5910000000000082
+    },
+    {
+      "text": "ideas. In particular, it does seem like",
+      "start": 492.24,
+      "duration": 2.7889999999999873
+    },
+    {
+      "text": "the balance of power between capital and",
+      "start": 495.039,
+      "duration": 2.0710000000000264
+    },
+    {
+      "text": "labor could easily get messed up and",
+      "start": 497.12,
+      "duration": 2.468999999999994
+    },
+    {
+      "text": "this may require early intervention.",
+      "start": 499.599,
+      "duration": 2.3910000000000196
+    },
+    {
+      "text": "This, if you're not familiar, is the CEO",
+      "start": 502.0,
+      "duration": 1.829999999999984
+    },
+    {
+      "text": "of OpenAI.",
+      "start": 503.84,
+      "duration": 2.7100000000000364
+    },
+    {
+      "text": "There's a worry about algorithmic bias.",
+      "start": 506.56,
+      "duration": 2.069000000000017
+    },
+    {
+      "text": "For instance, um in medical care",
+      "start": 508.639,
+      "duration": 2.1510000000000105
+    },
+    {
+      "text": "decisions, we know that medical care",
+      "start": 510.8,
+      "duration": 1.7499999999999432
+    },
+    {
+      "text": "data is disproportionately male and",
+      "start": 512.56,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "white. Uh and and that's causes medical",
+      "start": 514.8,
+      "duration": 2.310000000000059
+    },
+    {
+      "text": "problems because the AI models don't uh",
+      "start": 517.12,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "know how to distribute things",
+      "start": 519.68,
+      "duration": 1.8290000000000646
+    },
+    {
+      "text": "accordingly. Um but there is a solution",
+      "start": 521.519,
+      "duration": 2.4710000000000036
+    },
+    {
+      "text": "to this, which is just better data sets.",
+      "start": 524.0,
+      "duration": 1.8289999999999509
+    },
+    {
+      "text": "And again, we're already seeing some",
+      "start": 525.8389999999999,
+      "duration": 1.75100000000009
+    },
+    {
+      "text": "early progress here. Here's Ryan",
+      "start": 527.6,
+      "duration": 1.509999999999991
+    },
+    {
+      "text": "Kennedy, also over in political science,",
+      "start": 529.12,
+      "duration": 3.0299999999999727
+    },
+    {
+      "text": "doing some really fascinating work on",
+      "start": 532.16,
+      "duration": 1.5900000000000318
+    },
+    {
+      "text": "political polling where instead of just",
+      "start": 533.76,
+      "duration": 2.06899999999996
+    },
+    {
+      "text": "using ordinary multiplechoice um",
+      "start": 535.8389999999999,
+      "duration": 2.550000000000068
+    },
+    {
+      "text": "political polls after they gather that",
+      "start": 538.399,
+      "duration": 2.2309999999999945
+    },
+    {
+      "text": "data, they have an AI chatbot converse",
+      "start": 540.64,
+      "duration": 2.629000000000019
+    },
+    {
+      "text": "with the respondents and ask what do you",
+      "start": 543.279,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "mean by that and why do you think that?",
+      "start": 545.279,
+      "duration": 1.8310000000000173
+    },
+    {
+      "text": "And this is producing much richer data.",
+      "start": 547.12,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "You could imagine scaling that up to a",
+      "start": 549.36,
+      "duration": 2.149000000000001
+    },
+    {
+      "text": "global scale and having a much better",
+      "start": 551.519,
+      "duration": 1.8310000000000173
+    },
+    {
+      "text": "view of what the populace of planet",
+      "start": 553.36,
+      "duration": 1.5889999999999418
+    },
+    {
+      "text": "Earth wants all across all of the",
+      "start": 554.959,
+      "duration": 2.550000000000068
+    },
+    {
+      "text": "relevant diversities.",
+      "start": 557.519,
+      "duration": 2.3909999999999627
+    },
+    {
+      "text": "There's a desking problem. Um,",
+      "start": 559.92,
+      "duration": 2.550000000000068
+    },
+    {
+      "text": "anthropics CEO says that in 3 to 6",
+      "start": 562.48,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "months AI will be writing 90% of the",
+      "start": 565.04,
+      "duration": 2.150000000000091
+    },
+    {
+      "text": "code software developers were in charge",
+      "start": 567.2,
+      "duration": 1.8299999999999272
+    },
+    {
+      "text": "of. Um, you might worry, I'm worried",
+      "start": 569.04,
+      "duration": 2.3899999999999864
+    },
+    {
+      "text": "that we will never be able to build",
+      "start": 571.44,
+      "duration": 1.42999999999995
+    },
+    {
+      "text": "software developers again because it's",
+      "start": 572.88,
+      "duration": 2.7899999999999636
+    },
+    {
+      "text": "just too easy to not write any of the",
+      "start": 575.68,
+      "duration": 2.07000000000005
+    },
+    {
+      "text": "code. By the way, this article is at",
+      "start": 577.76,
+      "duration": 2.06899999999996
+    },
+    {
+      "text": "least 3 to six months old. So, um, how",
+      "start": 579.8389999999999,
+      "duration": 2.7110000000000127
+    },
+    {
+      "text": "do we solve these problems? Well, we can",
+      "start": 582.56,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "solve them through automation.",
+      "start": 584.56,
+      "duration": 2.7900000000000773
+    },
+    {
+      "text": "This is one of the developers at, uh,",
+      "start": 587.36,
+      "duration": 2.149000000000001
+    },
+    {
+      "text": "Anthropic, and he just said, this is",
+      "start": 589.519,
+      "duration": 2.3909999999999627
+    },
+    {
+      "text": "December 27th, just a week or so ago, in",
+      "start": 591.92,
+      "duration": 3.2700000000000955
+    },
+    {
+      "text": "the last 30 days, 100% of my",
+      "start": 595.2,
+      "duration": 3.1099999999999
+    },
+    {
+      "text": "contributions to Claude Code were",
+      "start": 598.32,
+      "duration": 2.06899999999996
+    },
+    {
+      "text": "written by Claw Code. It's already true",
+      "start": 600.399,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "that the AI software is writing the next",
+      "start": 602.959,
+      "duration": 2.3910000000000764
+    },
+    {
+      "text": "generation of AI software. So maybe we",
+      "start": 605.36,
+      "duration": 3.1100000000000136
+    },
+    {
+      "text": "don't need programmers anymore. Maybe we",
+      "start": 608.48,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "can just automate all of that. But then",
+      "start": 611.04,
+      "duration": 4.07000000000005
+    },
+    {
+      "text": "what's left for the humans to do? You",
+      "start": 615.12,
+      "duration": 2.7089999999999463
+    },
+    {
+      "text": "might think. And this gets us into the",
+      "start": 617.8389999999999,
+      "duration": 2.550000000000068
+    },
+    {
+      "text": "intrinsic problems which is the problems",
+      "start": 620.399,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "that are built into the nature of AI",
+      "start": 622.399,
+      "duration": 2.3909999999999627
+    },
+    {
+      "text": "itself. This is not just the social and",
+      "start": 624.8,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "economic and political and",
+      "start": 627.04,
+      "duration": 1.509999999999991
+    },
+    {
+      "text": "sustainability uh stuff that's happening",
+      "start": 628.56,
+      "duration": 2.550000000000068
+    },
+    {
+      "text": "around AI. This is stuff built into the",
+      "start": 631.12,
+      "duration": 2.8700000000000045
+    },
+    {
+      "text": "nature of AI.",
+      "start": 634.0,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "You might worry about a loss of meaning",
+      "start": 636.56,
+      "duration": 1.6700000000000728
+    },
+    {
+      "text": "that we're all going to end up like the",
+      "start": 638.24,
+      "duration": 1.5889999999999418
+    },
+    {
+      "text": "people in Wall-E, just sitting sucking",
+      "start": 639.8389999999999,
+      "duration": 2.0710000000000264
+    },
+    {
+      "text": "down milkshakes and watching TV while",
+      "start": 641.92,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "the robots take care of us. You might",
+      "start": 643.92,
+      "duration": 2.3899999999999864
+    },
+    {
+      "text": "worry about a loss of relationship like",
+      "start": 646.32,
+      "duration": 1.9899999999998954
+    },
+    {
+      "text": "in her where um we substitute meaningful",
+      "start": 648.32,
+      "duration": 3.74899999999991
+    },
+    {
+      "text": "interpersonal relationships with our",
+      "start": 652.079,
+      "duration": 1.9110000000000582
+    },
+    {
+      "text": "fellow humans with uh kind of candied",
+      "start": 654.0,
+      "duration": 3.0299999999999727
+    },
+    {
+      "text": "socially initially satisfying",
+      "start": 657.04,
+      "duration": 3.0289999999999964
+    },
+    {
+      "text": "um uh relationships with AI that maybe",
+      "start": 660.079,
+      "duration": 2.7110000000000127
+    },
+    {
+      "text": "doesn't even have emotional states,",
+      "start": 662.8,
+      "duration": 1.5890000000000555
+    },
+    {
+      "text": "doesn't actually care about us. Uh and",
+      "start": 664.399,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "and that of course would not be good.",
+      "start": 666.959,
+      "duration": 3.191000000000031
+    },
+    {
+      "text": "There could be a loss of identity in",
+      "start": 670.16,
+      "duration": 1.9089999999999918
+    },
+    {
+      "text": "ways that are pretty complicated.",
+      "start": 672.079,
+      "duration": 2.3910000000000764
+    },
+    {
+      "text": "the in the Star Trek world there's this",
+      "start": 674.48,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "uh race of beings or a group of beings",
+      "start": 676.72,
+      "duration": 2.3099999999999454
+    },
+    {
+      "text": "called the Borg. They're a bunch of uh",
+      "start": 679.04,
+      "duration": 2.310000000000059
+    },
+    {
+      "text": "humanoid type entities who have become",
+      "start": 681.36,
+      "duration": 2.149000000000001
+    },
+    {
+      "text": "mentally connected to each other through",
+      "start": 683.519,
+      "duration": 2.3099999999999454
+    },
+    {
+      "text": "technology. I think this is something we",
+      "start": 685.8389999999999,
+      "duration": 1.9110000000000582
+    },
+    {
+      "text": "really need to take seriously as we have",
+      "start": 687.76,
+      "duration": 2.1499999999999773
+    },
+    {
+      "text": "neurolink technology already in",
+      "start": 689.92,
+      "duration": 1.9089999999999918
+    },
+    {
+      "text": "development. We could hook together in a",
+      "start": 691.8389999999999,
+      "duration": 2.3110000000000355
+    },
+    {
+      "text": "way where we lose our individual",
+      "start": 694.16,
+      "duration": 2.1499999999999773
+    },
+    {
+      "text": "identity and that's something that we",
+      "start": 696.32,
+      "duration": 1.42999999999995
+    },
+    {
+      "text": "need to be careful and thoughtful about.",
+      "start": 697.76,
+      "duration": 3.269999999999982
+    },
+    {
+      "text": "You could have a loss of agency if we",
+      "start": 701.04,
+      "duration": 1.830000000000041
+    },
+    {
+      "text": "really have super intelligent AI. Like,",
+      "start": 702.88,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "who's to say that they don't just run",
+      "start": 705.12,
+      "duration": 1.75
+    },
+    {
+      "text": "the world however they want to run them",
+      "start": 706.88,
+      "duration": 1.5090000000000146
+    },
+    {
+      "text": "and we end up in little bundles of pink",
+      "start": 708.399,
+      "duration": 2.3110000000000355
+    },
+    {
+      "text": "goo with wires in the back of our heads?",
+      "start": 710.72,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "Um, because they don't need us anymore,",
+      "start": 713.36,
+      "duration": 2.949999999999932
+    },
+    {
+      "text": "and we just are extraneous to what their",
+      "start": 716.32,
+      "duration": 2.7899999999999636
+    },
+    {
+      "text": "powers are.",
+      "start": 719.12,
+      "duration": 2.149000000000001
+    },
+    {
+      "text": "And there is already emerging a loss of",
+      "start": 721.279,
+      "duration": 2.0710000000000264
+    },
+    {
+      "text": "trust. I need to admit that the other",
+      "start": 723.36,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "day when Maduro was taken, I saw this",
+      "start": 725.36,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "photograph and I formed this belief. Oh,",
+      "start": 727.92,
+      "duration": 2.149000000000001
+    },
+    {
+      "text": "I guess the DEA was involved somehow.",
+      "start": 730.079,
+      "duration": 2.951000000000022
+    },
+    {
+      "text": "But this photograph is not real. It's",
+      "start": 733.04,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "generated by AI and it's already true",
+      "start": 735.68,
+      "duration": 3.1900000000000546
+    },
+    {
+      "text": "that the details of news at least and",
+      "start": 738.88,
+      "duration": 2.310000000000059
+    },
+    {
+      "text": "soon the news itself will be something",
+      "start": 741.2,
+      "duration": 1.9099999999999682
+    },
+    {
+      "text": "that maybe we don't know how to trust",
+      "start": 743.12,
+      "duration": 1.8289999999999509
+    },
+    {
+      "text": "anymore or who to trust anymore. And",
+      "start": 744.959,
+      "duration": 1.8310000000000173
+    },
+    {
+      "text": "it's hard to see how if we can't build",
+      "start": 746.8,
+      "duration": 2.469000000000051
+    },
+    {
+      "text": "trust using evidence like photographs",
+      "start": 749.279,
+      "duration": 2.0710000000000264
+    },
+    {
+      "text": "and videos, how we ever build trust at",
+      "start": 751.36,
+      "duration": 2.8700000000000045
+    },
+    {
+      "text": "large scale again. I don't want to",
+      "start": 754.24,
+      "duration": 2.8700000000000045
+    },
+    {
+      "text": "diminish these problems. They're very,",
+      "start": 757.12,
+      "duration": 3.2690000000000055
+    },
+    {
+      "text": "very big, very, very hard problems. But",
+      "start": 760.399,
+      "duration": 3.591000000000008
+    },
+    {
+      "text": "there is a common solution to at least",
+      "start": 764.0,
+      "duration": 1.75
+    },
+    {
+      "text": "many of the intrinsic problems, which",
+      "start": 765.76,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "that each of us must identify and",
+      "start": 768.32,
+      "duration": 2.7099999999999227
+    },
+    {
+      "text": "develop the skills we need to do the",
+      "start": 771.04,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "work we value for its own sake. I want",
+      "start": 773.04,
+      "duration": 3.1100000000000136
+    },
+    {
+      "text": "us to think about scenes like this.",
+      "start": 776.16,
+      "duration": 2.8700000000000045
+    },
+    {
+      "text": "Here's two kids playing chess, eating",
+      "start": 779.04,
+      "duration": 2.7100000000000364
+    },
+    {
+      "text": "ice cream outside in the park on a",
+      "start": 781.76,
+      "duration": 2.3899999999999864
+    },
+    {
+      "text": "beautiful day. Um, why are they doing",
+      "start": 784.16,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "this? Don't they know that computers are",
+      "start": 786.8,
+      "duration": 2.9500000000000455
+    },
+    {
+      "text": "better at chess than humans? They've",
+      "start": 789.76,
+      "duration": 2.1499999999999773
+    },
+    {
+      "text": "been that way for a long time. We're",
+      "start": 791.92,
+      "duration": 1.9089999999999918
+    },
+    {
+      "text": "never going to catch up. Yeah, of course",
+      "start": 793.839,
+      "duration": 2.2299999999999045
+    },
+    {
+      "text": "they know that. Why do humans still play",
+      "start": 796.079,
+      "duration": 1.9110000000000582
+    },
+    {
+      "text": "chess? Because chess is fun. We enjoy",
+      "start": 798.0,
+      "duration": 3.42999999999995
+    },
+    {
+      "text": "playing games like this for their own",
+      "start": 801.44,
+      "duration": 1.75
+    },
+    {
+      "text": "sake, even though we know that the",
+      "start": 803.2,
+      "duration": 1.74899999999991
+    },
+    {
+      "text": "robots can do it better. And this is the",
+      "start": 804.959,
+      "duration": 3.0310000000000628
+    },
+    {
+      "text": "sort of thing that we need to think",
+      "start": 808.0,
+      "duration": 1.2690000000000055
+    },
+    {
+      "text": "about as we think about labor, jobs,",
+      "start": 809.279,
+      "duration": 2.3110000000000355
+    },
+    {
+      "text": "work. and I've been doing informal",
+      "start": 811.6,
+      "duration": 2.3099999999999454
+    },
+    {
+      "text": "polling among my students. So, this is",
+      "start": 813.92,
+      "duration": 2.310000000000059
+    },
+    {
+      "text": "not like robustly researched data. Um,",
+      "start": 816.24,
+      "duration": 3.509999999999991
+    },
+    {
+      "text": "but there's basically two types of jobs",
+      "start": 819.76,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "that we need to think about. Work you do",
+      "start": 821.76,
+      "duration": 2.4700000000000273
+    },
+    {
+      "text": "only because you'll get paid. Things",
+      "start": 824.24,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "like, according to my students,",
+      "start": 826.24,
+      "duration": 1.509999999999991
+    },
+    {
+      "text": "accounting, being a fast food server,",
+      "start": 827.76,
+      "duration": 2.7100000000000364
+    },
+    {
+      "text": "working in retail sales, garbage",
+      "start": 830.48,
+      "duration": 1.669999999999959
+    },
+    {
+      "text": "collection, or work that you would do",
+      "start": 832.16,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "for free or even pay someone to do.",
+      "start": 834.8,
+      "duration": 3.910000000000082
+    },
+    {
+      "text": "Sports is work. Exercise is work.",
+      "start": 838.72,
+      "duration": 2.3899999999999864
+    },
+    {
+      "text": "Singing, dancing, playing musical",
+      "start": 841.12,
+      "duration": 1.42999999999995
+    },
+    {
+      "text": "instruments, all kinds of art, helping",
+      "start": 842.56,
+      "duration": 2.38900000000001
+    },
+    {
+      "text": "other people, being involved in",
+      "start": 844.959,
+      "duration": 1.6700000000000728
+    },
+    {
+      "text": "political engagement, political reform,",
+      "start": 846.639,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "religious organizations, being a parent,",
+      "start": 849.199,
+      "duration": 2.1510000000000673
+    },
+    {
+      "text": "and going to school.",
+      "start": 851.36,
+      "duration": 2.4689999999999372
+    },
+    {
+      "text": "Um, we at academic institutions really",
+      "start": 853.839,
+      "duration": 2.710999999999899
+    },
+    {
+      "text": "need to be thinking about the role of",
+      "start": 856.56,
+      "duration": 1.75
+    },
+    {
+      "text": "education in the emergent world. And one",
+      "start": 858.32,
+      "duration": 1.9099999999999682
+    },
+    {
+      "text": "of the places I think we especially at",
+      "start": 860.24,
+      "duration": 1.5889999999999418
+    },
+    {
+      "text": "Ohio State should be looking is at our",
+      "start": 861.8389999999999,
+      "duration": 1.4300000000000637
+    },
+    {
+      "text": "program 60 students, right? these",
+      "start": 863.279,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "students over the age of 60 who are",
+      "start": 865.519,
+      "duration": 2.7110000000000127
+    },
+    {
+      "text": "coming to classes for free just because",
+      "start": 868.24,
+      "duration": 2.7899999999999636
+    },
+    {
+      "text": "they want to, just because they enjoy",
+      "start": 871.04,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "learning, they enjoy thinking, they",
+      "start": 873.68,
+      "duration": 1.4300000000000637
+    },
+    {
+      "text": "enjoy expanding their horizons. This is",
+      "start": 875.12,
+      "duration": 1.75
+    },
+    {
+      "text": "something that we all can do in a world",
+      "start": 876.88,
+      "duration": 3.909999999999968
+    },
+    {
+      "text": "properly orchestrated.",
+      "start": 880.8,
+      "duration": 2.310000000000059
+    },
+    {
+      "text": "Basically, we all need to learn to do",
+      "start": 883.12,
+      "duration": 1.669999999999959
+    },
+    {
+      "text": "what the wealthy have always done. When",
+      "start": 884.8,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "you have enough money and you have your",
+      "start": 887.04,
+      "duration": 2.310000000000059
+    },
+    {
+      "text": "basic needs met, what do you do? You",
+      "start": 889.36,
+      "duration": 4.389999999999986
+    },
+    {
+      "text": "learn how to cook.",
+      "start": 893.76,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "You start a little hobby farm and raise",
+      "start": 896.0,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "cute little animals that aren't factory",
+      "start": 898.24,
+      "duration": 1.8289999999999509
+    },
+    {
+      "text": "farmed. You work in your garden. You",
+      "start": 900.079,
+      "duration": 3.1900000000000546
+    },
+    {
+      "text": "learn how to paint. You get really",
+      "start": 903.279,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "ripped.",
+      "start": 905.519,
+      "duration": 2.1509999999999536
+    },
+    {
+      "text": "So, the road ahead of us, I think, is",
+      "start": 907.68,
+      "duration": 2.07000000000005
+    },
+    {
+      "text": "actually pretty clear, but it doesn't",
+      "start": 909.76,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "look like this. It's not a railroad",
+      "start": 912.32,
+      "duration": 1.9899999999998954
+    },
+    {
+      "text": "where you could just sit back and let it",
+      "start": 914.32,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "happen. It's a clear road, but it looks",
+      "start": 916.88,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "more like this.",
+      "start": 919.44,
+      "duration": 1.9099999999999682
+    },
+    {
+      "text": "It's very windy. It's going to be really",
+      "start": 921.36,
+      "duration": 2.3099999999999454
+    },
+    {
+      "text": "tricky. There's a lot of obstacles to",
+      "start": 923.68,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "avoid. It's going to take a lot of",
+      "start": 925.92,
+      "duration": 1.830000000000041
+    },
+    {
+      "text": "planning. It's going to take a lot of",
+      "start": 927.76,
+      "duration": 1.2699999999999818
+    },
+    {
+      "text": "intent. It's going to take a lot of",
+      "start": 929.04,
+      "duration": 1.2699999999999818
+    },
+    {
+      "text": "effort. We need all hands on deck. So,",
+      "start": 930.32,
+      "duration": 2.9489999999999554
+    },
+    {
+      "text": "there is room for optimism, but it's a",
+      "start": 933.279,
+      "duration": 2.630999999999972
+    },
+    {
+      "text": "hands-on optimism. And uh we need to get",
+      "start": 935.92,
+      "duration": 3.1100000000000136
+    },
+    {
+      "text": "to work.",
+      "start": 939.04,
+      "duration": 2.6399999999999864
+    }
+  ],
+  "transcript_text": "Okay, so I'm calling this AI and global flourishing an optimistic road map. And I want to start with a bit of pessimism. So this is a quote from Dune. Thou shalt not make a machine in the likeness of a human mind. And in the Dune cannon, we get a justification for this. Once men turned their thinking over to machines in the hope that this would set them free, but that only permitted other men with machines to enslave them. So I want to make a couple of bold claims. So whenever I try to make a bold claim, I put it in yellow and so it's easy to identify. I know I'm being controversial when I say this, but I stand by my yellow claims here. Relatively soon, AI will get so good at so many tasks that it will become almost universally disruptive. Um, there are two types of risk that we need to be paying attention to in this moment. Making things worse, but also failing to make things better because the status quo is pretty bad right now. Um, we know because of work done by people at like our bird research center here at Ohio State that the glaciers are melting. We know that the coral reefs are dying. We know that our best attempts to create sustainable technologies still require exploitative mineral extraction. Um, we know that although we can feed most the people on the earth, that a lot of that is being done through um really horrific conditions for our farming animals. We know that the benefits of uh increased technology and wealth are nowhere near equally distributed across the planet. We know that our democratic institutions are deeply in trouble. I'm going to try to stay relatively apolitical as far as uh right versus left, red versus blue, but all of us should be concerned about gerrymandering wars like what's been going on between Texas and California. This is parties trying to stay in powder regardless of what the populace thinks. And that's just very bad. Um, we need to stop thinking in terms of red versus blue and we need to start thinking in terms of one pale blue dot or one big blue marble. Used correctly, AI could substantially improve global flourishing in truly unprecedented ways. Um, we've already seen some early successes here. Alphafold managed to crack protein structure, which means we'll get some really revolutionary medical technologies on the near horizon. AI is helping decode animal speech. It might even be possible that we can talk to non-human animals, at least some like dolphins and whales. Um, and this might fundamentally transform the way that we think about our non-human animal colleagues. But what about all the bad stuff? Um, and I I don't want to be optimistic in a way that is naive. So, um, I want to admit that the rapid disruption caused by AI is already creating a whole host of extremely difficult problems. And there's every reason to think that things will get worse before they get better. Um, but with sufficient intention and political will, all of them are in my view solvable. And in general, the AI itself can help us find the solutions. Um, I want to make a philosophical distinction between extrinsic versus intrinsic problems. Extrinsic problems are not built into the nature of AI itself. They're just features of the rest of the world around us. as AI begins to emerge and then there will be intrinsic problems which seem to be built into the nature of AI itself. Um, let's start with the extrinsic problems. And I'm going to start the one that everybody talks about the most, it seems, which is the environmental impacts. You see all over the internet articles like this artificial intelligence threatening our water and climate. And I want to take this very seriously. Um, but there are reasons to think that we can solve these problems. There's efficiency uh solutions both in terms of making AI itself require less cooling, have less water demanding energy grids. We could also be better at using the water that we already use for irrigation and things like that if we do that more efficiently. Um I one of the things I'm personally most excited about is AI is enabling us to make rapid progress on fusion energy. Um we know that we can make um essentially unlimited energy by creating super hot plasmas inside of electromagnets. It's just very difficult to do that and regulate those things fast enough. and our AIs are getting better and better at helping us do that. If we solve that problem soon, then we can essentially flip over from fossil fuels overnight. Um, and a lot of the pollution, as we all know, is from the industrial side of the world. Um, and we could push a lot of that into space. And I know that sounds science fiction-y, but we live in an emergent science fiction reality. Um, and there's every reason to think that this will happen because the CEOs are already talking about it. Google among others are talking about moving the data centers, the compute that we need to continue developing AI into space. And if you think, well, gosh, then that just means we have to build more rockets and launch them into space. That's not true. We can just mine all the minerals and construct everything, all of it, in space. We don't even have to do that uh by ourselves. The robots can do that for us if they're sufficiently welldeveloped. Well, what about all this unemployment and poverty that's going to get created as we eliminate jobs? This is a very serious concern again from the Google CEO, right? Uh he says, \"Don't even bother getting a law or medical degree because AI is going to destroy both of those careers before you can even graduate.\" Uh what should we think about this? Well, there is a solution. It's actually a fairly well explored solution which is called universal basic income. In as much as we can generate all of this wealth, we can just give people their basic needs. no strings attached. Um, again, there's reasons to be optimistic that this really could happen. People like Elon Musk talk about it all the time. There will be universal bas universal high income, not merely basic income. Everyone will have the best medical care, food, home, transport, everything else. Sustainable abundance. And you can see from the previous slides that there really is some reason to think that we could pull this off again if we had the political will. And I don't want to pretend that this is easy. It's not easy. uh Trump's AISAR has specifically said that UBI style payments aren't going to happen. So, you know, we have to be able to um actually try to change these institutions and make that kind of stuff actually happen. There's a big worry about oligarchy, right? um the more these AI uh models get more and more sophisticated, they develop new math, new science, new technology, and then all of that is presumably under the way that we run things now owned by the tech CEOs. And and that means that we start treating our tech CEOs like heads of state. Um and we should be concerned about this. What do we need to do about this? We need robust democratic reform at a scale that we've never seen, at a planetary scale. um that actually provides a distributed network of uh democratic institutions that can work on these problems together. Um here at Ohio State, uh if you haven't watched Michael Nebau's talk on uh town halls and democracy, I strongly recommend that you do it. I know for a fact that Michael Nebau is doing very smart work on democratic stuff and AI because I'm working with him on a couple of it couple of those projects. Um, we also will need new economic systems. And the science fiction world of Star Trek, there's this replicator technology. You can just make anything by just zapping it into existence. And this eliminates the need for money. And um, that is admittedly a science fiction scenario, but again, there's reasons to think that something like this is in fact on the horizon. Here's Sam Alman. Um, ensuring that the benefits of artificial general intelligence are broadly distributed is critical. The historical impact of technological progress suggests that most of the metrics we care about, health outcomes, economic prosperity, etc. get better on average and over the long term. But increasingly increasing equality does not seem technologically determined and getting this right may require new ideas. In particular, it does seem like the balance of power between capital and labor could easily get messed up and this may require early intervention. This, if you're not familiar, is the CEO of OpenAI. There's a worry about algorithmic bias. For instance, um in medical care decisions, we know that medical care data is disproportionately male and white. Uh and and that's causes medical problems because the AI models don't uh know how to distribute things accordingly. Um but there is a solution to this, which is just better data sets. And again, we're already seeing some early progress here. Here's Ryan Kennedy, also over in political science, doing some really fascinating work on political polling where instead of just using ordinary multiplechoice um political polls after they gather that data, they have an AI chatbot converse with the respondents and ask what do you mean by that and why do you think that? And this is producing much richer data. You could imagine scaling that up to a global scale and having a much better view of what the populace of planet Earth wants all across all of the relevant diversities. There's a desking problem. Um, anthropics CEO says that in 3 to 6 months AI will be writing 90% of the code software developers were in charge of. Um, you might worry, I'm worried that we will never be able to build software developers again because it's just too easy to not write any of the code. By the way, this article is at least 3 to six months old. So, um, how do we solve these problems? Well, we can solve them through automation. This is one of the developers at, uh, Anthropic, and he just said, this is December 27th, just a week or so ago, in the last 30 days, 100% of my contributions to Claude Code were written by Claw Code. It's already true that the AI software is writing the next generation of AI software. So maybe we don't need programmers anymore. Maybe we can just automate all of that. But then what's left for the humans to do? You might think. And this gets us into the intrinsic problems which is the problems that are built into the nature of AI itself. This is not just the social and economic and political and sustainability uh stuff that's happening around AI. This is stuff built into the nature of AI. You might worry about a loss of meaning that we're all going to end up like the people in Wall-E, just sitting sucking down milkshakes and watching TV while the robots take care of us. You might worry about a loss of relationship like in her where um we substitute meaningful interpersonal relationships with our fellow humans with uh kind of candied socially initially satisfying um uh relationships with AI that maybe doesn't even have emotional states, doesn't actually care about us. Uh and and that of course would not be good. There could be a loss of identity in ways that are pretty complicated. the in the Star Trek world there's this uh race of beings or a group of beings called the Borg. They're a bunch of uh humanoid type entities who have become mentally connected to each other through technology. I think this is something we really need to take seriously as we have neurolink technology already in development. We could hook together in a way where we lose our individual identity and that's something that we need to be careful and thoughtful about. You could have a loss of agency if we really have super intelligent AI. Like, who's to say that they don't just run the world however they want to run them and we end up in little bundles of pink goo with wires in the back of our heads? Um, because they don't need us anymore, and we just are extraneous to what their powers are. And there is already emerging a loss of trust. I need to admit that the other day when Maduro was taken, I saw this photograph and I formed this belief. Oh, I guess the DEA was involved somehow. But this photograph is not real. It's generated by AI and it's already true that the details of news at least and soon the news itself will be something that maybe we don't know how to trust anymore or who to trust anymore. And it's hard to see how if we can't build trust using evidence like photographs and videos, how we ever build trust at large scale again. I don't want to diminish these problems. They're very, very big, very, very hard problems. But there is a common solution to at least many of the intrinsic problems, which that each of us must identify and develop the skills we need to do the work we value for its own sake. I want us to think about scenes like this. Here's two kids playing chess, eating ice cream outside in the park on a beautiful day. Um, why are they doing this? Don't they know that computers are better at chess than humans? They've been that way for a long time. We're never going to catch up. Yeah, of course they know that. Why do humans still play chess? Because chess is fun. We enjoy playing games like this for their own sake, even though we know that the robots can do it better. And this is the sort of thing that we need to think about as we think about labor, jobs, work. and I've been doing informal polling among my students. So, this is not like robustly researched data. Um, but there's basically two types of jobs that we need to think about. Work you do only because you'll get paid. Things like, according to my students, accounting, being a fast food server, working in retail sales, garbage collection, or work that you would do for free or even pay someone to do. Sports is work. Exercise is work. Singing, dancing, playing musical instruments, all kinds of art, helping other people, being involved in political engagement, political reform, religious organizations, being a parent, and going to school. Um, we at academic institutions really need to be thinking about the role of education in the emergent world. And one of the places I think we especially at Ohio State should be looking is at our program 60 students, right? these students over the age of 60 who are coming to classes for free just because they want to, just because they enjoy learning, they enjoy thinking, they enjoy expanding their horizons. This is something that we all can do in a world properly orchestrated. Basically, we all need to learn to do what the wealthy have always done. When you have enough money and you have your basic needs met, what do you do? You learn how to cook. You start a little hobby farm and raise cute little animals that aren't factory farmed. You work in your garden. You learn how to paint. You get really ripped. So, the road ahead of us, I think, is actually pretty clear, but it doesn't look like this. It's not a railroad where you could just sit back and let it happen. It's a clear road, but it looks more like this. It's very windy. It's going to be really tricky. There's a lot of obstacles to avoid. It's going to take a lot of planning. It's going to take a lot of intent. It's going to take a lot of effort. We need all hands on deck. So, there is room for optimism, but it's a hands-on optimism. And uh we need to get to work.",
+  "rebuilt_at": "2026-05-21T07:21:35.771368+00:00"
+}

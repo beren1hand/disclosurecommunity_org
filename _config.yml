@@ -1,0 +1,77 @@
+title: Disclosure Community
+tagline: Columbus, Ohio
+description: >-
+  An emerging community of people in Columbus, Ohio, caring for each
+  other as the UAP disclosure moment unfolds. Open-minded, curious,
+  welcoming, non-dogmatic.
+
+url: https://disclosurecommunity.org
+baseurl: ""
+
+# Site identity
+location: Columbus, Ohio
+email: hello@disclosurecommunity.org
+github_username: disclosurecommunity
+
+# Google Calendar embed
+# Replace with the calendar's public ID once one is set up. Until then
+# the Events page shows only the file-based event list.
+google_calendar_id: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:year/:month/:day/:title/
+timezone: America/New_York
+
+collections:
+  events:
+    output: true
+    permalink: /events/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: event
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - AI.md
+  - README.md
+  - transcripts/
+  - reference/
+  - images/
+  - vendor/
+  - .bundle/
+  - node_modules/
+  - "*.code-workspace"
+
+navigation:
+  - title: About
+    url: /about/
+  - title: Leadership
+    url: /leadership/
+  - title: Events
+    url: /events/
+  - title: Blog
+    url: /blog/
+  - title: Contact
+    url: /contact/

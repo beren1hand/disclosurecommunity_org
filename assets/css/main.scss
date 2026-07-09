@@ -1,0 +1,452 @@
+---
+---
+/* ------------------------------------------------------------------
+ * Disclosure Community — night-sky / observatory theme
+ * ------------------------------------------------------------------ */
+
+/* Palette */
+$bg-deep:      #070d1c;
+$bg-navy:      #0c1530;
+$bg-veil:      rgba(7, 13, 28, 0.65);
+$ink:          #ece6d4;
+$ink-soft:     #c8c1ad;
+$ink-muted:    #8a96a8;
+$rule:         rgba(236, 230, 212, 0.14);
+$rule-strong:  rgba(236, 230, 212, 0.32);
+$gold:         #f3d27a;
+$gold-dim:     #c9a85a;
+$teal:         #7ec0d2;
+
+$serif: "Fraunces", "EB Garamond", Georgia, "Times New Roman", serif;
+$sans:  "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+
+$measure: 50rem;
+$wide:    62rem;
+
+/* Reset */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body, h1, h2, h3, h4, p, ul, ol, figure, blockquote { margin: 0; }
+ul, ol { padding-left: 1.25em; }
+img { max-width: 100%; height: auto; display: block; }
+a { color: $gold; text-decoration: none; border-bottom: 1px solid rgba(243, 210, 122, 0.35); transition: color .15s, border-color .15s; }
+a:hover, a:focus { color: lighten($gold, 8%); border-bottom-color: $gold; }
+hr { border: 0; border-top: 1px solid $rule; margin: 2.5rem 0; }
+
+/* Page base */
+html, body { background: $bg-deep; }
+body {
+  color: $ink;
+  font-family: $sans;
+  font-size: 1.0625rem;
+  line-height: 1.65;
+  min-height: 100vh;
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* Starfield — pure CSS, very subtle */
+.starfield {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background-color: $bg-deep;
+  background-image:
+    radial-gradient(1px 1px at 12% 18%, rgba(255,255,255,0.55), transparent 60%),
+    radial-gradient(1px 1px at 78% 8%,  rgba(255,255,255,0.40), transparent 60%),
+    radial-gradient(1.5px 1.5px at 40% 72%, rgba(243,210,122,0.55), transparent 60%),
+    radial-gradient(1px 1px at 88% 64%, rgba(255,255,255,0.45), transparent 60%),
+    radial-gradient(1px 1px at 22% 88%, rgba(126,192,210,0.55), transparent 60%),
+    radial-gradient(1px 1px at 62% 36%, rgba(255,255,255,0.30), transparent 60%),
+    radial-gradient(1px 1px at 8%  56%, rgba(255,255,255,0.30), transparent 60%),
+    radial-gradient(2px 2px at 92% 32%, rgba(255,255,255,0.40), transparent 60%),
+    radial-gradient(1px 1px at 34% 14%, rgba(255,255,255,0.25), transparent 60%),
+    radial-gradient(1px 1px at 56% 92%, rgba(255,255,255,0.35), transparent 60%),
+    radial-gradient(circle at 70% 20%, rgba(126,192,210,0.07), transparent 55%),
+    radial-gradient(circle at 20% 80%, rgba(243,210,122,0.05), transparent 55%);
+}
+
+/* Container */
+.container {
+  max-width: $wide;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+/* Header */
+.site-header {
+  padding: 3rem 0 1.75rem;
+  border-bottom: 1px solid $rule;
+  text-align: center;
+}
+.site-title {
+  display: inline-block;
+  max-width: 100%;
+  font-family: $serif;
+  font-weight: 500;
+  font-size: clamp(1.6rem, 6vw, 2.6rem);
+  letter-spacing: 0.01em;
+  color: $ink;
+  border: 0;
+  line-height: 1.2;
+}
+.site-title:hover, .site-title:focus { color: $gold; }
+.site-title-mark {
+  color: $gold;
+  font-size: 0.85em;
+  margin-right: 0.4em;
+}
+.site-title-text { /* inline by default — wraps naturally */ }
+.site-title-emoji {
+  font-size: 0.75em;
+  opacity: 0.9;
+  margin-left: 0.4em;
+}
+.site-tagline {
+  margin-top: 0.35rem;
+  font-family: $serif;
+  font-style: italic;
+  font-size: 0.95rem;
+  color: $ink-muted;
+  letter-spacing: 0.02em;
+}
+.site-nav {
+  margin-top: 1.5rem;
+}
+.site-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.25rem 1.5rem;
+}
+.site-nav a {
+  color: $ink-soft;
+  font-family: $sans;
+  font-size: 0.95rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  border: 0;
+  padding: 0.25rem 0;
+  border-bottom: 1px solid transparent;
+}
+.site-nav a:hover, .site-nav a:focus { color: $gold; border-bottom-color: $gold; }
+.site-nav a[aria-current="page"] { color: $gold; border-bottom-color: $gold-dim; }
+
+/* Main */
+.site-main { padding: 3rem 0 4rem; }
+
+/* Pages */
+.page, .post, .event {
+  max-width: $measure;
+}
+.page-header {
+  margin-bottom: 2.25rem;
+}
+.page-title {
+  font-family: $serif;
+  font-weight: 500;
+  font-size: clamp(2rem, 5vw, 2.9rem);
+  line-height: 1.15;
+  letter-spacing: -0.005em;
+  color: $ink;
+}
+.page-subtitle {
+  margin-top: 0.6rem;
+  font-family: $serif;
+  font-style: italic;
+  font-size: 1.15rem;
+  color: $ink-soft;
+}
+.post-meta, .event-when {
+  font-family: $sans;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $ink-muted;
+  margin-bottom: 0.5rem;
+}
+.event-where {
+  margin-top: 0.4rem;
+  font-family: $serif;
+  font-style: italic;
+  color: $ink-soft;
+}
+
+/* Prose */
+.prose {
+  font-size: 1.075rem;
+  line-height: 1.7;
+}
+.prose h2 {
+  font-family: $serif;
+  font-weight: 500;
+  font-size: 1.65rem;
+  margin: 2.5rem 0 0.85rem;
+  color: $ink;
+  letter-spacing: -0.005em;
+}
+.prose h3 {
+  font-family: $serif;
+  font-weight: 500;
+  font-size: 1.25rem;
+  margin: 1.85rem 0 0.6rem;
+  color: $ink;
+}
+.prose p, .prose ul, .prose ol { margin: 0 0 1.15rem; }
+.prose ul, .prose ol { padding-left: 1.4em; }
+.prose li { margin-bottom: 0.35rem; }
+.prose blockquote {
+  margin: 1.5rem 0;
+  padding: 0.25rem 1.25rem;
+  border-left: 2px solid $gold-dim;
+  color: $ink-soft;
+  font-style: italic;
+  font-family: $serif;
+  font-size: 1.1rem;
+}
+.prose img {
+  margin: 1.75rem auto;
+  border-radius: 2px;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.55), 0 0 0 1px $rule;
+}
+.prose figure { margin: 1.75rem 0; }
+.prose figcaption {
+  font-family: $sans;
+  font-size: 0.85rem;
+  color: $ink-muted;
+  text-align: center;
+  margin-top: 0.6rem;
+}
+.prose code {
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  font-size: 0.92em;
+  background: rgba(236,230,212,0.08);
+  padding: 0.08em 0.35em;
+  border-radius: 3px;
+}
+
+.back-link {
+  margin-top: 3rem;
+  font-size: 0.95rem;
+}
+.back-link a { color: $ink-soft; border-bottom-color: $rule-strong; }
+.back-link a:hover { color: $gold; }
+
+/* ------------------------------------------------------------------
+ * Home page
+ * ------------------------------------------------------------------ */
+.hero {
+  max-width: $wide;
+  margin: 0 auto 3.5rem;
+}
+.hero-image {
+  margin: 0 auto 2rem;
+  width: 100%;
+  max-width: 540px;
+  height: auto;
+  border-radius: 2px;
+  box-shadow: 0 18px 60px rgba(0,0,0,0.65), 0 0 0 1px $rule-strong;
+  filter: contrast(1.02);
+}
+.hero-image-caption {
+  margin-top: 0.75rem;
+  font-family: $sans;
+  font-size: 0.8rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: $ink-muted;
+}
+.hero-lede {
+  font-family: $serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: clamp(1.35rem, 2.6vw, 1.7rem);
+  line-height: 1.45;
+  color: $ink;
+  max-width: $measure;
+  margin: 1.5rem auto 0;
+}
+.hero-emoji { font-style: normal; }
+
+.home-sections {
+  display: grid;
+  gap: 2.5rem;
+  grid-template-columns: 1fr;
+  max-width: $measure;
+  margin: 0 auto;
+}
+@media (min-width: 720px) {
+  .home-sections { grid-template-columns: 1fr 1fr; max-width: $wide; }
+}
+.home-card {
+  border: 1px solid $rule;
+  border-radius: 4px;
+  padding: 1.75rem;
+  background: $bg-veil;
+  backdrop-filter: blur(4px);
+}
+.home-card h2 {
+  font-family: $serif;
+  font-weight: 500;
+  font-size: 1.4rem;
+  margin: 0 0 0.6rem;
+}
+.home-card .home-card-meta {
+  font-family: $sans;
+  font-size: 0.82rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: $ink-muted;
+  margin-bottom: 0.4rem;
+}
+.home-card p { color: $ink-soft; }
+.home-card .home-card-more {
+  display: inline-block;
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+  color: $gold;
+  border-bottom-color: rgba(243,210,122,0.35);
+}
+
+/* ------------------------------------------------------------------
+ * Lists (blog / events) — extra specificity to override .prose styles
+ * ------------------------------------------------------------------ */
+.prose ul.entry-list,
+ul.entry-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.prose .entry-list li,
+.entry-list li {
+  padding: 1.5rem 0;
+  margin: 0;
+  border-bottom: 1px solid $rule;
+}
+.entry-list li:last-child { border-bottom: 0; }
+.prose .entry-list .entry-title,
+.entry-list .entry-title {
+  font-family: $serif;
+  font-weight: 500;
+  font-size: 1.45rem;
+  margin: 0 0 0.4rem;
+  line-height: 1.25;
+}
+.entry-title a { color: $ink; border: 0; }
+.entry-title a:hover, .entry-title a:focus { color: $gold; }
+.prose .entry-list .entry-meta,
+.entry-list .entry-meta {
+  font-family: $sans;
+  font-size: 0.82rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: $ink-muted;
+  margin: 0 0 0.45rem;
+}
+.prose .entry-list .entry-excerpt,
+.entry-list .entry-excerpt {
+  color: $ink-soft;
+  margin: 0;
+}
+
+.prose .empty-state,
+.empty-state {
+  font-style: italic;
+  color: $ink-muted;
+  padding: 1.25rem 0;
+  margin: 0;
+}
+
+/* ------------------------------------------------------------------
+ * Leadership
+ * ------------------------------------------------------------------ */
+.leaders {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: 1fr;
+  margin-top: 2rem;
+}
+@media (min-width: 720px) {
+  .leaders { grid-template-columns: 1fr 1fr 1fr; max-width: $wide; margin-left: auto; margin-right: auto; }
+}
+.leader {
+  border: 1px solid $rule;
+  border-radius: 4px;
+  padding: 1.5rem;
+  background: $bg-veil;
+}
+.leader h2 {
+  font-family: $serif;
+  font-weight: 500;
+  font-size: 1.3rem;
+  margin: 0 0 0.25rem;
+}
+.leader .leader-role {
+  font-family: $sans;
+  font-size: 0.82rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: $ink-muted;
+  margin-bottom: 0.85rem;
+}
+.leader ul { list-style: none; padding: 0; margin: 0; }
+.leader li { margin: 0 0 0.4rem; font-size: 0.95rem; }
+
+/* ------------------------------------------------------------------
+ * Events calendar embed
+ * ------------------------------------------------------------------ */
+.gcal-embed {
+  width: 100%;
+  max-width: $wide;
+  margin: 2.5rem auto 1rem;
+  aspect-ratio: 16 / 10;
+  border: 1px solid $rule;
+  border-radius: 4px;
+  overflow: hidden;
+  background: $bg-veil;
+}
+.gcal-embed iframe { width: 100%; height: 100%; border: 0; display: block; }
+
+/* ------------------------------------------------------------------
+ * Footer
+ * ------------------------------------------------------------------ */
+.site-footer {
+  border-top: 1px solid $rule;
+  padding: 2.5rem 0 3rem;
+  color: $ink-muted;
+}
+.footer-lead {
+  font-family: $serif;
+  font-style: italic;
+  font-size: 1rem;
+  color: $ink-soft;
+  margin-bottom: 0.65rem;
+}
+.footer-lead span { color: $gold; margin: 0 0.4rem; }
+.footer-meta {
+  font-size: 0.9rem;
+  margin-bottom: 0.65rem;
+}
+.footer-meta a {
+  color: $ink-soft;
+  border-bottom-color: $rule-strong;
+}
+.footer-meta a:hover, .footer-meta a:focus { color: $gold; border-bottom-color: $gold; }
+.footer-fineprint {
+  font-size: 0.82rem;
+  color: $ink-muted;
+}
+
+/* Selection */
+::selection { background: rgba(243,210,122,0.35); color: $ink; }
+
+/* Focus visibility */
+a:focus-visible, button:focus-visible {
+  outline: 2px solid $gold;
+  outline-offset: 3px;
+  border-radius: 2px;
+}

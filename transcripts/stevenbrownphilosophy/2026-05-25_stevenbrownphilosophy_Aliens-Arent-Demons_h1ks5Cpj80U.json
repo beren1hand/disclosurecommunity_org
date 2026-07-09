@@ -1,0 +1,3213 @@
+{
+  "schema": "yt_transcripts/v2",
+  "video_id": "h1ks5Cpj80U",
+  "url": "https://www.youtube.com/watch?v=h1ks5Cpj80U",
+  "channel": "stevenbrownphilosophy",
+  "channel_id": "UCvVEkqbBZRoPzYurExuasLw",
+  "title": "Aliens Aren't Demons",
+  "description": "In this talk, Steven Brown and Grant Eckhart explore the theological implications of UFOs, non-human intelligences, and recent disclosure-related developments. Rather than reducing the phenomenon to a single explanation, such as “aliens” or “demons,” they argue for a more careful, nuanced approach rooted in both critical inquiry and theological imagination.\n\nThe discussion examines biblical imagery, angels and demons, Origen and early Christian metaphysics, spiritual discernment, government disclosure, deception, and the possibility that emerging evidence may challenge inherited theological assumptions. Brown and Eckhart invite viewers to “think impossibly” while remaining cautious, intellectually honest, and open to complexity.",
+  "upload_date": "20260525",
+  "duration_seconds": 1588,
+  "view_count": 52,
+  "uploader": "Steven Brown Philosophy",
+  "extracted_at": "2026-05-26T01:17:51.334575+00:00",
+  "segment_count": 639,
+  "transcript": [
+    {
+      "text": "All right, everybody. Hello. Um, I'm",
+      "start": 2.47,
+      "duration": 0.009999999999999787
+    },
+    {
+      "text": "Stephen Brown and I'm Grant Heckart. Uh,",
+      "start": 2.48,
+      "duration": 3.19
+    },
+    {
+      "text": "Grant and I have been talking about",
+      "start": 5.68,
+      "duration": 3.2699999999999996
+    },
+    {
+      "text": "theological implications of, uh,",
+      "start": 8.96,
+      "duration": 3.1099999999999994
+    },
+    {
+      "text": "non-human intelligences, aliens,",
+      "start": 12.08,
+      "duration": 3.1899999999999995
+    },
+    {
+      "text": "um, religious implications, the kinds of",
+      "start": 15.28,
+      "duration": 1.9090000000000007
+    },
+    {
+      "text": "entities that show up in scriptures, um,",
+      "start": 17.199,
+      "duration": 2.6309999999999967
+    },
+    {
+      "text": "complexities in theology. the past few",
+      "start": 19.84,
+      "duration": 2.5500000000000007
+    },
+    {
+      "text": "years. We've been friends for longer",
+      "start": 22.4,
+      "duration": 1.2700000000000031
+    },
+    {
+      "text": "than that, but",
+      "start": 23.68,
+      "duration": 0.7899999999999991
+    },
+    {
+      "text": "&gt;&gt; y",
+      "start": 24.48,
+      "duration": 1.2699999999999996
+    },
+    {
+      "text": "&gt;&gt; uh Grant's been with me on my journey",
+      "start": 25.76,
+      "duration": 1.7489999999999988
+    },
+    {
+      "text": "essentially since I converted to",
+      "start": 27.519,
+      "duration": 1.9100000000000001
+    },
+    {
+      "text": "starting to pay attention to this stuff.",
+      "start": 29.439,
+      "duration": 2.311
+    },
+    {
+      "text": "Um so, a lot has happened in the past",
+      "start": 31.76,
+      "duration": 2.9490000000000016
+    },
+    {
+      "text": "couple of days. We wanted to get",
+      "start": 34.719,
+      "duration": 1.509999999999998
+    },
+    {
+      "text": "together and uh give a kind of response",
+      "start": 36.239,
+      "duration": 2.871000000000002
+    },
+    {
+      "text": "to some of it. So, we're going to tag",
+      "start": 39.12,
+      "duration": 2.0700000000000003
+    },
+    {
+      "text": "team a little presentation here um and",
+      "start": 41.2,
+      "duration": 3.0289999999999964
+    },
+    {
+      "text": "then we can have conversation with",
+      "start": 44.239,
+      "duration": 1.591000000000001
+    },
+    {
+      "text": "whoever is available to converse with",
+      "start": 45.84,
+      "duration": 2.309999999999995
+    },
+    {
+      "text": "us. So, uh, yeah, I'm calling this",
+      "start": 48.16,
+      "duration": 2.869000000000007
+    },
+    {
+      "text": "angels aren't demons. Theological",
+      "start": 51.039,
+      "duration": 2.1499999999999986
+    },
+    {
+      "text": "complexity about the weird stuff. Uh,",
+      "start": 53.199,
+      "duration": 3.8300000000000054
+    },
+    {
+      "text": "okay. So, yesterday, uh, the Department",
+      "start": 57.039,
+      "duration": 3.271000000000001
+    },
+    {
+      "text": "of Defense, which likes to call itself",
+      "start": 60.32,
+      "duration": 1.5899999999999963
+    },
+    {
+      "text": "the Department of War, um, released a,",
+      "start": 61.92,
+      "duration": 3.2689999999999912
+    },
+    {
+      "text": "uh, a page on UFOs. Uh, and there was a",
+      "start": 65.199,
+      "duration": 4.150999999999996
+    },
+    {
+      "text": "number of interesting things in there.",
+      "start": 69.36,
+      "duration": 2.950000000000003
+    },
+    {
+      "text": "Uh, it's not super interesting. There's",
+      "start": 72.32,
+      "duration": 3.190000000000012
+    },
+    {
+      "text": "not anything in there that is surprising",
+      "start": 75.52,
+      "duration": 3.190000000000012
+    },
+    {
+      "text": "to those of us who've been paying",
+      "start": 78.72,
+      "duration": 1.5900000000000034
+    },
+    {
+      "text": "attention for a while. Um, but there is",
+      "start": 80.32,
+      "duration": 2.7890000000000157
+    },
+    {
+      "text": "some nice new information in there. Uh,",
+      "start": 83.119,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "if you're interested in kind of getting",
+      "start": 85.119,
+      "duration": 1.6700000000000017
+    },
+    {
+      "text": "caught up, uh, Richard Dolan just",
+      "start": 86.799,
+      "duration": 2.5509999999999877
+    },
+    {
+      "text": "released a video. Um, he's one of the",
+      "start": 89.36,
+      "duration": 2.1500000000000057
+    },
+    {
+      "text": "best UFO historians. Um, and he kind of",
+      "start": 91.52,
+      "duration": 4.390000000000001
+    },
+    {
+      "text": "summarizes what's in there. So, that's a",
+      "start": 95.92,
+      "duration": 1.75
+    },
+    {
+      "text": "good thing to do. As far as things that",
+      "start": 97.68,
+      "duration": 2.7889999999999873
+    },
+    {
+      "text": "have gotten newsworthy attention, a lot",
+      "start": 100.479,
+      "duration": 2.950000000000003
+    },
+    {
+      "text": "of people have been talking about this",
+      "start": 103.439,
+      "duration": 2.710000000000008
+    },
+    {
+      "text": "video. Um, this uh looks like some kind",
+      "start": 106.15899999999999,
+      "duration": 4.63000000000001
+    },
+    {
+      "text": "of a star-shaped UAP, unidentified",
+      "start": 110.799,
+      "duration": 3.5109999999999957
+    },
+    {
+      "text": "anomalous phenomena, UFO. Um, but uh",
+      "start": 114.32,
+      "duration": 4.310000000000002
+    },
+    {
+      "text": "this video is problematic for uh the",
+      "start": 118.64,
+      "duration": 2.950000000000003
+    },
+    {
+      "text": "following reason. Uh, it looks pretty",
+      "start": 121.6,
+      "duration": 1.75
+    },
+    {
+      "text": "Oh, sorry. Um, I must admit that I was",
+      "start": 123.36,
+      "duration": 2.8700000000000045
+    },
+    {
+      "text": "excited about this video, um, because",
+      "start": 126.24,
+      "duration": 2.549999999999997
+    },
+    {
+      "text": "there have been a couple of leaked",
+      "start": 128.8,
+      "duration": 1.75
+    },
+    {
+      "text": "photographs, uh, which look like this,",
+      "start": 130.56,
+      "duration": 2.789999999999992
+    },
+    {
+      "text": "these kind of strange star-shaped",
+      "start": 133.36,
+      "duration": 2.1499999999999773
+    },
+    {
+      "text": "entities. And obviously, if we did have",
+      "start": 135.52,
+      "duration": 2.2299999999999898
+    },
+    {
+      "text": "reliable evidence that these things",
+      "start": 137.76,
+      "duration": 2.8700000000000045
+    },
+    {
+      "text": "existed and are hovering around, then",
+      "start": 140.64,
+      "duration": 3.0300000000000296
+    },
+    {
+      "text": "those would be anomalous. Like, there's",
+      "start": 143.68,
+      "duration": 1.6699999999999875
+    },
+    {
+      "text": "nothing about a star-shaped entity like",
+      "start": 145.36,
+      "duration": 2.4699999999999704
+    },
+    {
+      "text": "this that fits with the way we think",
+      "start": 147.84,
+      "duration": 1.8300000000000125
+    },
+    {
+      "text": "about um, aircraft, right? So, um I was",
+      "start": 149.68,
+      "duration": 3.430000000000007
+    },
+    {
+      "text": "pretty optimistic at first. Uh but, uh",
+      "start": 153.12,
+      "duration": 3.030000000000001
+    },
+    {
+      "text": "one thing that people should understand",
+      "start": 156.16,
+      "duration": 1.6699999999999875
+    },
+    {
+      "text": "about the UFO community is we are",
+      "start": 157.84,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "actually pretty picky about our",
+      "start": 160.48,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "evidence. And although we might get",
+      "start": 162.48,
+      "duration": 1.4300000000000068
+    },
+    {
+      "text": "excited about a piece of evidence at",
+      "start": 163.92000000000002,
+      "duration": 1.5889999999999986
+    },
+    {
+      "text": "first, it might turn out not to pan out.",
+      "start": 165.519,
+      "duration": 2.069999999999993
+    },
+    {
+      "text": "And this seems like one of those",
+      "start": 167.599,
+      "duration": 1.1110000000000184
+    },
+    {
+      "text": "situations. So, um uh on uh Reddit uh r/",
+      "start": 168.72,
+      "duration": 4.950000000000017
+    },
+    {
+      "text": "UFOs, this debunk came up pretty",
+      "start": 173.68,
+      "duration": 2.6289999999999907
+    },
+    {
+      "text": "quickly. Um I at least am convinced that",
+      "start": 176.31900000000002,
+      "duration": 2.470999999999975
+    },
+    {
+      "text": "this debunk is correct. So that this is",
+      "start": 178.8,
+      "duration": 2.0689999999999884
+    },
+    {
+      "text": "not an anomalous object. The claim is",
+      "start": 180.879,
+      "duration": 2.551000000000016
+    },
+    {
+      "text": "that uh this strange shaped pattern is",
+      "start": 183.44,
+      "duration": 4.149000000000001
+    },
+    {
+      "text": "actually a defraction pattern that's",
+      "start": 187.599,
+      "duration": 2.070999999999998
+    },
+    {
+      "text": "happening because of the way that the",
+      "start": 189.68,
+      "duration": 2.3899999999999864
+    },
+    {
+      "text": "sensor is uh these little crisscross",
+      "start": 192.08,
+      "duration": 3.269999999999982
+    },
+    {
+      "text": "things on the sensor are generating",
+      "start": 195.36,
+      "duration": 1.75
+    },
+    {
+      "text": "that. And up in the right there you can",
+      "start": 197.12,
+      "duration": 2.1500000000000057
+    },
+    {
+      "text": "see a bright object um uh being",
+      "start": 199.28,
+      "duration": 2.710000000000008
+    },
+    {
+      "text": "perceived through a similar device. Um",
+      "start": 202.0,
+      "duration": 3.670000000000016
+    },
+    {
+      "text": "and uh that then leads to this question.",
+      "start": 205.68,
+      "duration": 2.3899999999999864
+    },
+    {
+      "text": "Well, what exactly is this object? It",
+      "start": 208.07999999999998,
+      "duration": 2.149000000000001
+    },
+    {
+      "text": "would then be a very bright object of",
+      "start": 210.239,
+      "duration": 1.6709999999999923
+    },
+    {
+      "text": "some kind. Uh, and the proposal, the",
+      "start": 211.92000000000002,
+      "duration": 2.4699999999999704
+    },
+    {
+      "text": "hypothesis is that it is a flare. So, a",
+      "start": 214.4,
+      "duration": 2.8700000000000045
+    },
+    {
+      "text": "flare suspended from uh from a",
+      "start": 217.28,
+      "duration": 3.990000000000009
+    },
+    {
+      "text": "parachute. And if you watch this portion",
+      "start": 221.28,
+      "duration": 2.789999999999992
+    },
+    {
+      "text": "of the video, I have no idea why it",
+      "start": 224.07999999999998,
+      "duration": 2.950000000000017
+    },
+    {
+      "text": "keeps doing this.",
+      "start": 227.04,
+      "duration": 3.2690000000000055
+    },
+    {
+      "text": "Uh, you can see the parachute uh off to",
+      "start": 230.31900000000002,
+      "duration": 4.549999999999983
+    },
+    {
+      "text": "the side and up at the top. So that is a",
+      "start": 234.879,
+      "duration": 2.8710000000000093
+    },
+    {
+      "text": "flare suspended from uh parachute. Um",
+      "start": 237.76,
+      "duration": 4.6299999999999955
+    },
+    {
+      "text": "that being said, there's other reasons",
+      "start": 242.4,
+      "duration": 2.3889999999999816
+    },
+    {
+      "text": "why this is in the news and grants up.",
+      "start": 244.799,
+      "duration": 3.4299999999999784
+    },
+    {
+      "text": "&gt;&gt; Yeah, pretty quick. Thanks. I think the",
+      "start": 248.239,
+      "duration": 1.5910000000000082
+    },
+    {
+      "text": "overall",
+      "start": 249.84,
+      "duration": 2.1500000000000057
+    },
+    {
+      "text": "take that Steve and I have and want to",
+      "start": 252.0,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "communicate with this presentation",
+      "start": 254.64,
+      "duration": 2.3899999999999864
+    },
+    {
+      "text": "is that there are very strong frames",
+      "start": 257.04,
+      "duration": 2.308999999999969
+    },
+    {
+      "text": "that are being put out um in terms of",
+      "start": 259.359,
+      "duration": 4.071000000000026
+    },
+    {
+      "text": "what this phenomena is. And we want to",
+      "start": 263.44,
+      "duration": 3.990000000000009
+    },
+    {
+      "text": "commend to you not to fall into the trap",
+      "start": 267.44,
+      "duration": 2.7099999999999795
+    },
+    {
+      "text": "of just going right into a strong frame",
+      "start": 270.16,
+      "duration": 2.308999999999969
+    },
+    {
+      "text": "like everything's demons or um all of",
+      "start": 272.479,
+      "duration": 3.591000000000008
+    },
+    {
+      "text": "it, you know, a cover up for that. you",
+      "start": 276.08,
+      "duration": 1.8290000000000077
+    },
+    {
+      "text": "know, there's there's strong frames",
+      "start": 277.919,
+      "duration": 1.350999999999999
+    },
+    {
+      "text": "coming out. And so our work and our job",
+      "start": 279.28,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "together is, you know, look at every",
+      "start": 281.52,
+      "duration": 2.8700000000000045
+    },
+    {
+      "text": "data piece of data critically. You don't",
+      "start": 284.4,
+      "duration": 2.3100000000000023
+    },
+    {
+      "text": "have to kind of lump everything into",
+      "start": 286.72,
+      "duration": 1.9899999999999523
+    },
+    {
+      "text": "one. Um like our vice president seems to",
+      "start": 288.72,
+      "duration": 3.589999999999975
+    },
+    {
+      "text": "be doing um by saying that all of this",
+      "start": 292.32,
+      "duration": 4.230000000000018
+    },
+    {
+      "text": "is demons. It's not a very helpful way",
+      "start": 296.56,
+      "duration": 3.0300000000000296
+    },
+    {
+      "text": "to proceed. Now, some of them may be",
+      "start": 299.6,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "demons, but we just have to be very very",
+      "start": 302.24,
+      "duration": 1.9099999999999682
+    },
+    {
+      "text": "careful on terminology and context.",
+      "start": 304.16,
+      "duration": 5.109999999999957
+    },
+    {
+      "text": "And even you know just briefly in",
+      "start": 317.59,
+      "duration": 0.010000000000047748
+    },
+    {
+      "text": "biblical times in the Bible itself there",
+      "start": 317.6,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "are many unidentified objects. How maybe",
+      "start": 320.24,
+      "duration": 3.5090000000000146
+    },
+    {
+      "text": "the the the is the the Hebrew people",
+      "start": 323.759,
+      "duration": 2.1499999999999773
+    },
+    {
+      "text": "here could identify uh you know the the",
+      "start": 325.919,
+      "duration": 3.2700000000000387
+    },
+    {
+      "text": "pillar of cloud by day and fire by",
+      "start": 329.199,
+      "duration": 3.190999999999974
+    },
+    {
+      "text": "night. They knew what it was because God",
+      "start": 332.4,
+      "duration": 2.150000000000034
+    },
+    {
+      "text": "told them. But somebody else coming in,",
+      "start": 334.56,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "that would have been an unidentified",
+      "start": 336.56,
+      "duration": 1.829999999999984
+    },
+    {
+      "text": "flying object. Um, also,",
+      "start": 338.4,
+      "duration": 3.670000000000016
+    },
+    {
+      "text": "yeah, a reminder, aliens aren't demons.",
+      "start": 342.08,
+      "duration": 2.38900000000001
+    },
+    {
+      "text": "Here, you know, this is a famous one in",
+      "start": 344.479,
+      "duration": 1.6709999999999923
+    },
+    {
+      "text": "UFO lore from the book of Ezekiel, the",
+      "start": 346.15999999999997,
+      "duration": 2.309000000000026
+    },
+    {
+      "text": "ofanim, which means wheels. Um, as the",
+      "start": 348.479,
+      "duration": 3.990000000000009
+    },
+    {
+      "text": "the chariot wheels for the throne of",
+      "start": 352.479,
+      "duration": 1.7510000000000332
+    },
+    {
+      "text": "God, which also has some eyes on it. Um,",
+      "start": 354.24,
+      "duration": 3.3500000000000227
+    },
+    {
+      "text": "this is an unidentified flying object,",
+      "start": 357.6,
+      "duration": 3.4289999999999736
+    },
+    {
+      "text": "and it's not a demon. uh it's doing",
+      "start": 361.039,
+      "duration": 3.350999999999999
+    },
+    {
+      "text": "destructive things in this particular",
+      "start": 364.4,
+      "duration": 1.75
+    },
+    {
+      "text": "story, Ezekiel, but it's not a demon. So",
+      "start": 366.16,
+      "duration": 3.509999999999991
+    },
+    {
+      "text": "even from a Christian biblical",
+      "start": 369.68,
+      "duration": 1.5090000000000146
+    },
+    {
+      "text": "perspective, to say everything is",
+      "start": 371.199,
+      "duration": 2.3109999999999786
+    },
+    {
+      "text": "demons, everything in the air we don't",
+      "start": 373.52,
+      "duration": 1.4300000000000068
+    },
+    {
+      "text": "recognize indeed as demons is just not",
+      "start": 374.96,
+      "duration": 3.430000000000007
+    },
+    {
+      "text": "uh coherent. That's just not the case um",
+      "start": 378.4,
+      "duration": 2.9500000000000455
+    },
+    {
+      "text": "at all in scripture.",
+      "start": 381.36,
+      "duration": 4.38900000000001
+    },
+    {
+      "text": "But some maybe dance. And this will kind",
+      "start": 388.79,
+      "duration": 0.009999999999990905
+    },
+    {
+      "text": "of transition us. Uh well, here's here's",
+      "start": 388.8,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "a on the right you have a picture from",
+      "start": 391.44,
+      "duration": 2.7900000000000205
+    },
+    {
+      "text": "Whitney Streamer's famous book called",
+      "start": 394.24,
+      "duration": 1.4300000000000068
+    },
+    {
+      "text": "Communion. And on the left here you have",
+      "start": 395.68,
+      "duration": 3.430000000000007
+    },
+    {
+      "text": "uh a drawing of Lamb uh the Alistister",
+      "start": 399.12,
+      "duration": 3.5090000000000146
+    },
+    {
+      "text": "Crowley demon. That could be a demon.",
+      "start": 402.639,
+      "duration": 2.2309999999999945
+    },
+    {
+      "text": "That could be real. They look kind of",
+      "start": 404.88,
+      "duration": 1.829999999999984
+    },
+    {
+      "text": "similar. So we don't want to rule that",
+      "start": 406.72,
+      "duration": 2.7099999999999795
+    },
+    {
+      "text": "out. But we're also not saying it's a",
+      "start": 409.44,
+      "duration": 1.829999999999984
+    },
+    {
+      "text": "closed set that everything is one thing.",
+      "start": 411.28,
+      "duration": 2.390000000000043
+    },
+    {
+      "text": "Let me jump in here too that um another",
+      "start": 413.68,
+      "duration": 3.430000000000007
+    },
+    {
+      "text": "reason why we wanted this slide in here",
+      "start": 417.12,
+      "duration": 2.3100000000000023
+    },
+    {
+      "text": "is to indicate that the fact that these",
+      "start": 419.44,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "two look like each other doesn't mean",
+      "start": 422.08,
+      "duration": 2.549000000000035
+    },
+    {
+      "text": "that they are both demons. Right? Uh",
+      "start": 424.639,
+      "duration": 2.1510000000000105
+    },
+    {
+      "text": "especially in Christian theology, a",
+      "start": 426.8,
+      "duration": 1.5090000000000146
+    },
+    {
+      "text": "demon is is a bad version of something",
+      "start": 428.319,
+      "duration": 2.8700000000000045
+    },
+    {
+      "text": "else. Right? So you can't determine",
+      "start": 431.199,
+      "duration": 2.2309999999999945
+    },
+    {
+      "text": "whether something is good or bad by",
+      "start": 433.44,
+      "duration": 2.5500000000000114
+    },
+    {
+      "text": "looking at its external shape.",
+      "start": 436.0,
+      "duration": 7.509999999999991
+    },
+    {
+      "text": "I like Steve's kind of phrase here that",
+      "start": 446.629,
+      "duration": 0.009999999999990905
+    },
+    {
+      "text": "demon is a mortal alignment. Um, it's a",
+      "start": 446.639,
+      "duration": 2.870999999999981
+    },
+    {
+      "text": "faction, not a species. If people have",
+      "start": 449.52,
+      "duration": 2.38900000000001
+    },
+    {
+      "text": "questions about that, um, we can talk",
+      "start": 451.919,
+      "duration": 2.1510000000000105
+    },
+    {
+      "text": "more about that. There's lots of ways to",
+      "start": 454.08,
+      "duration": 3.1899999999999977
+    },
+    {
+      "text": "slice and dice demonology and",
+      "start": 457.28,
+      "duration": 1.670000000000016
+    },
+    {
+      "text": "angelology. Uh, we do a whole seminar on",
+      "start": 458.96,
+      "duration": 2.7100000000000364
+    },
+    {
+      "text": "that, but generally it is kind of an",
+      "start": 461.68,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "orientation towards God or away from",
+      "start": 463.68,
+      "duration": 2.3100000000000023
+    },
+    {
+      "text": "God. one that's a messenger from God or",
+      "start": 466.0,
+      "duration": 3.0289999999999964
+    },
+    {
+      "text": "one that is uh fallen and betraying God",
+      "start": 469.039,
+      "duration": 3.590000000000032
+    },
+    {
+      "text": "to put it in probably two simplistic",
+      "start": 472.639,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "terms uh but that you know these are",
+      "start": 474.879,
+      "duration": 2.3909999999999627
+    },
+    {
+      "text": "categories not and and moral alignments.",
+      "start": 477.28,
+      "duration": 4.390000000000043
+    },
+    {
+      "text": "So that brings us to uh this uh",
+      "start": 481.68,
+      "duration": 3.908999999999992
+    },
+    {
+      "text": "situation that happened that we wanted",
+      "start": 485.599,
+      "duration": 1.6709999999999923
+    },
+    {
+      "text": "to talk about. Um, in fact, this",
+      "start": 487.28,
+      "duration": 2.629000000000019
+    },
+    {
+      "text": "happened before the release of the files",
+      "start": 489.919,
+      "duration": 3.031000000000006
+    },
+    {
+      "text": "and what this is was a uh meeting of uh",
+      "start": 492.96,
+      "duration": 5.270000000000039
+    },
+    {
+      "text": "of clergy and I will describe I've",
+      "start": 498.24,
+      "duration": 3.990000000000009
+    },
+    {
+      "text": "watched a lot of videos on this. So, let",
+      "start": 502.24,
+      "duration": 1.6689999999999827
+    },
+    {
+      "text": "me tell you what happened. Maybe you've",
+      "start": 503.919,
+      "duration": 1.7510000000000332
+    },
+    {
+      "text": "seen uh some information about this. It",
+      "start": 505.68,
+      "duration": 2.7889999999999873
+    },
+    {
+      "text": "kicked off with uh Pastor Perry Stone uh",
+      "start": 508.479,
+      "duration": 3.910000000000025
+    },
+    {
+      "text": "who was not at this meeting uh relaying",
+      "start": 512.399,
+      "duration": 2.7910000000000537
+    },
+    {
+      "text": "what he had heard from a friend who",
+      "start": 515.2,
+      "duration": 2.308999999999969
+    },
+    {
+      "text": "presumably was at the meeting. Perry",
+      "start": 517.519,
+      "duration": 2.4710000000000036
+    },
+    {
+      "text": "Stone comes from uh one of the old",
+      "start": 520.0,
+      "duration": 2.469000000000051
+    },
+    {
+      "text": "school Pentecostal denominations uh the",
+      "start": 522.479,
+      "duration": 2.3909999999999627
+    },
+    {
+      "text": "Church of God, Cleveland, Tennessee.",
+      "start": 524.88,
+      "duration": 1.830000000000041
+    },
+    {
+      "text": "He's at very kind of Messianic Zionist",
+      "start": 526.72,
+      "duration": 3.0299999999999727
+    },
+    {
+      "text": "Pentecostal. Some prosperity gospel in",
+      "start": 529.76,
+      "duration": 2.4700000000000273
+    },
+    {
+      "text": "there. That's kind of the the group he",
+      "start": 532.24,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "comes from. and he came out talking",
+      "start": 534.24,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "about there's this meeting this happened",
+      "start": 536.48,
+      "duration": 1.75
+    },
+    {
+      "text": "something about reptilians um all this",
+      "start": 538.24,
+      "duration": 2.7089999999999463
+    },
+    {
+      "text": "kind of really wild stuff and then later",
+      "start": 540.959,
+      "duration": 3.990000000000009
+    },
+    {
+      "text": "people from the meeting as this was",
+      "start": 544.959,
+      "duration": 2.0710000000000264
+    },
+    {
+      "text": "leaking and spreading with hundreds of",
+      "start": 547.04,
+      "duration": 1.4300000000000637
+    },
+    {
+      "text": "millions of views um on social media",
+      "start": 548.48,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "pastors that were at the meeting started",
+      "start": 551.12,
+      "duration": 1.75
+    },
+    {
+      "text": "to come out and share their own story",
+      "start": 552.88,
+      "duration": 2.1499999999999773
+    },
+    {
+      "text": "and then ultimately these six pastors I",
+      "start": 555.04,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "hadn't heard of any of them before um",
+      "start": 557.68,
+      "duration": 2.3900000000001
+    },
+    {
+      "text": "had a a meeting where they discussed",
+      "start": 560.08,
+      "duration": 2.3899999999999864
+    },
+    {
+      "text": "what what what happened to them so first",
+      "start": 562.48,
+      "duration": 2.1499999999999773
+    },
+    {
+      "text": "of all these uh pastors, I think most of",
+      "start": 564.64,
+      "duration": 2.629000000000019
+    },
+    {
+      "text": "them were the Pentecostal uh genre, and",
+      "start": 567.279,
+      "duration": 2.630999999999972
+    },
+    {
+      "text": "they were all at a media conference",
+      "start": 569.92,
+      "duration": 1.509999999999991
+    },
+    {
+      "text": "because they're all um do a lot with uh",
+      "start": 571.44,
+      "duration": 3.0299999999999727
+    },
+    {
+      "text": "media. And they were invited to a a",
+      "start": 574.48,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "bread and breakfast in Tennessee by some",
+      "start": 577.04,
+      "duration": 2.9500000000000455
+    },
+    {
+      "text": "unnamed people who knew one of these men",
+      "start": 580.0,
+      "duration": 2.7100000000000364
+    },
+    {
+      "text": "and said, \"Come back. We have some",
+      "start": 582.72,
+      "duration": 1.42999999999995
+    },
+    {
+      "text": "things to disclose.\" They describe them",
+      "start": 584.16,
+      "duration": 1.5900000000000318
+    },
+    {
+      "text": "as operators",
+      "start": 585.76,
+      "duration": 2.3899999999999864
+    },
+    {
+      "text": "uh or intelligence operators who are",
+      "start": 588.16,
+      "duration": 2.7889999999999873
+    },
+    {
+      "text": "Christians and they were Christian",
+      "start": 590.9590000000001,
+      "duration": 2.2309999999999945
+    },
+    {
+      "text": "intelligence or some kind of operator",
+      "start": 593.2,
+      "duration": 2.3899999999999864
+    },
+    {
+      "text": "coming to talk to Christian pastors",
+      "start": 595.6,
+      "duration": 2.228999999999928
+    },
+    {
+      "text": "about things they had seen and um a lot",
+      "start": 597.8389999999999,
+      "duration": 3.75100000000009
+    },
+    {
+      "text": "of information went out um from this.",
+      "start": 601.6,
+      "duration": 4.6299999999999955
+    },
+    {
+      "text": "Um, I'll just focus on the one main",
+      "start": 606.24,
+      "duration": 2.7089999999999463
+    },
+    {
+      "text": "point they they mention again and again",
+      "start": 608.959,
+      "duration": 2.0710000000000264
+    },
+    {
+      "text": "is again that these all of these things",
+      "start": 611.04,
+      "duration": 2.3899999999999864
+    },
+    {
+      "text": "are demons. Now, I can appreciate as a",
+      "start": 613.44,
+      "duration": 2.7899999999999636
+    },
+    {
+      "text": "pastor some of the things they said.",
+      "start": 616.24,
+      "duration": 1.42999999999995
+    },
+    {
+      "text": "They said, you know, we have to stand",
+      "start": 617.68,
+      "duration": 2.149000000000001
+    },
+    {
+      "text": "uh, you know, stand for God um, you",
+      "start": 619.8389999999999,
+      "duration": 3.1100000000000136
+    },
+    {
+      "text": "know, against all wickedness. Okay, I",
+      "start": 622.959,
+      "duration": 1.6710000000000491
+    },
+    {
+      "text": "can get behind that. U, but they're",
+      "start": 624.64,
+      "duration": 1.9099999999999682
+    },
+    {
+      "text": "classifying all of these things um, as",
+      "start": 626.56,
+      "duration": 3.1100000000000136
+    },
+    {
+      "text": "demons. And one of them, a gentleman",
+      "start": 629.68,
+      "duration": 1.8290000000000646
+    },
+    {
+      "text": "named Pastor Ragland said um you know he",
+      "start": 631.519,
+      "duration": 3.42999999999995
+    },
+    {
+      "text": "specifically said that Congressman Eric",
+      "start": 634.9590000000001,
+      "duration": 2.47099999999989
+    },
+    {
+      "text": "Burchett said you must stand firm um in",
+      "start": 637.44,
+      "duration": 3.909999999999968
+    },
+    {
+      "text": "you know read the book of Noah. We are",
+      "start": 641.36,
+      "duration": 2.0699999999999363
+    },
+    {
+      "text": "in the time of Noah. Now pastor Raglin",
+      "start": 643.44,
+      "duration": 1.8289999999999509
+    },
+    {
+      "text": "had just written a huge book on the",
+      "start": 645.279,
+      "duration": 1.7509999999999764
+    },
+    {
+      "text": "flood with a lot of the pro prophetic",
+      "start": 647.04,
+      "duration": 2.229000000000042
+    },
+    {
+      "text": "Pentecostal kind of things. Um and so",
+      "start": 649.279,
+      "duration": 2.7899999999999636
+    },
+    {
+      "text": "that went out while wow the government",
+      "start": 652.079,
+      "duration": 1.6710000000000491
+    },
+    {
+      "text": "congress people are saying these are all",
+      "start": 653.76,
+      "duration": 1.5900000000000318
+    },
+    {
+      "text": "demons. We have to we're standing in the",
+      "start": 655.36,
+      "duration": 1.830000000000041
+    },
+    {
+      "text": "time of nowhere. We have to be faithful",
+      "start": 657.2,
+      "duration": 1.74899999999991
+    },
+    {
+      "text": "to the covenant against all the",
+      "start": 658.9590000000001,
+      "duration": 1.8309999999999036
+    },
+    {
+      "text": "wickedness in the world that will be",
+      "start": 660.8,
+      "duration": 1.4300000000000637
+    },
+    {
+      "text": "destroyed. That's the frame they're",
+      "start": 662.24,
+      "duration": 1.5889999999999418
+    },
+    {
+      "text": "using. He put that on Congressman Berles",
+      "start": 663.839,
+      "duration": 3.1099999999999
+    },
+    {
+      "text": "who later retracted it um and said",
+      "start": 666.959,
+      "duration": 2.951000000000022
+    },
+    {
+      "text": "that's not what I said. You can read",
+      "start": 669.92,
+      "duration": 2.149000000000001
+    },
+    {
+      "text": "through this. He's like what I said was",
+      "start": 672.079,
+      "duration": 2.7110000000000127
+    },
+    {
+      "text": "read your Bibles um and be sure that you",
+      "start": 674.8,
+      "duration": 4.07000000000005
+    },
+    {
+      "text": "uh you know you're reading what's in",
+      "start": 678.88,
+      "duration": 2.310000000000059
+    },
+    {
+      "text": "there but maybe not what you think is in",
+      "start": 681.2,
+      "duration": 1.5899999999999181
+    },
+    {
+      "text": "there. Uh you can do it. You can read",
+      "start": 682.8,
+      "duration": 1.9100000000000819
+    },
+    {
+      "text": "this yourself of what uh what he said.",
+      "start": 684.72,
+      "duration": 2.3099999999999454
+    },
+    {
+      "text": "Then he kind of ended it with how",
+      "start": 687.04,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "President Trump often ends his tweets",
+      "start": 689.68,
+      "duration": 2.310000000000059
+    },
+    {
+      "text": "with, \"Thank you for your attention to",
+      "start": 692.0,
+      "duration": 1.5900000000000318
+    },
+    {
+      "text": "this matter.\" So right away, Brison's",
+      "start": 693.6,
+      "duration": 2.3099999999999454
+    },
+    {
+      "text": "like, \"Wow, these people are already",
+      "start": 695.92,
+      "duration": 1.3490000000000464
+    },
+    {
+      "text": "setting another strong friend. They're",
+      "start": 697.279,
+      "duration": 1.43100000000004
+    },
+    {
+      "text": "all demons and we're in the time of Noah",
+      "start": 698.72,
+      "duration": 2.1499999999999773
+    },
+    {
+      "text": "and that's what's going on.\" And that",
+      "start": 700.88,
+      "duration": 1.42999999999995
+    },
+    {
+      "text": "might not mean a lot to non-Christians",
+      "start": 702.32,
+      "duration": 2.2299999999999045
+    },
+    {
+      "text": "or people that aren't in that particular",
+      "start": 704.56,
+      "duration": 1.9100000000000819
+    },
+    {
+      "text": "kind of very kind of conservative",
+      "start": 706.48,
+      "duration": 1.5889999999999418
+    },
+    {
+      "text": "Pentecostal Christianity. But that is a",
+      "start": 708.079,
+      "duration": 2.6310000000000855
+    },
+    {
+      "text": "very strong frame to set. And once you",
+      "start": 710.72,
+      "duration": 2.7889999999999873
+    },
+    {
+      "text": "do that, then everything else falls from",
+      "start": 713.519,
+      "duration": 1.75
+    },
+    {
+      "text": "there. everything else you see the rest",
+      "start": 715.279,
+      "duration": 1.350999999999999
+    },
+    {
+      "text": "of disclosure all of it is going to be",
+      "start": 716.64,
+      "duration": 2.550000000000068
+    },
+    {
+      "text": "that. So, I find that humorous, the",
+      "start": 719.2,
+      "duration": 1.349999999999909
+    },
+    {
+      "text": "proist was like, \"That's not what I",
+      "start": 720.56,
+      "duration": 1.5900000000000318
+    },
+    {
+      "text": "said. I wasn't even there. I phoned in.",
+      "start": 722.16,
+      "duration": 1.6689999999999827
+    },
+    {
+      "text": "I don't know what they talked about.\"",
+      "start": 723.839,
+      "duration": 2.7899999999999636
+    },
+    {
+      "text": "So, you got a couple frames here. You",
+      "start": 726.639,
+      "duration": 1.5109999999999673
+    },
+    {
+      "text": "got the aller demons. Then, you kind of",
+      "start": 728.16,
+      "duration": 2.229000000000042
+    },
+    {
+      "text": "got the uh it's not quite the all",
+      "start": 730.399,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "archangels, but if you've been following",
+      "start": 732.639,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "the Chris Bledo story, which I found",
+      "start": 734.639,
+      "duration": 2.0710000000000264
+    },
+    {
+      "text": "this story very fascinating, um he",
+      "start": 736.72,
+      "duration": 2.8700000000000045
+    },
+    {
+      "text": "presumes to have uh he he he speaks",
+      "start": 739.6,
+      "duration": 2.4689999999999372
+    },
+    {
+      "text": "about meeting with um angelic orblike uh",
+      "start": 742.079,
+      "duration": 4.711000000000013
+    },
+    {
+      "text": "beings. uh even going to Capitol Hill uh",
+      "start": 746.8,
+      "duration": 4.07000000000005
+    },
+    {
+      "text": "with Eric Berles and and other people",
+      "start": 750.88,
+      "duration": 2.8700000000000045
+    },
+    {
+      "text": "from Congress where they said, \"Can you",
+      "start": 753.76,
+      "duration": 1.2699999999999818
+    },
+    {
+      "text": "go out and summon these angels? We can",
+      "start": 755.04,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "see these UFOs.\" And he said, \"Well, I",
+      "start": 757.04,
+      "duration": 1.830000000000041
+    },
+    {
+      "text": "don't like to I don't summon them. I",
+      "start": 758.88,
+      "duration": 2.310000000000059
+    },
+    {
+      "text": "pray I think this is the Holy Spirit or",
+      "start": 761.2,
+      "duration": 2.06899999999996
+    },
+    {
+      "text": "angels.\" Or he has got other names for",
+      "start": 763.279,
+      "duration": 1.669999999999959
+    },
+    {
+      "text": "these things are, but he says, \"They're",
+      "start": 764.9590000000001,
+      "duration": 1.669999999999959
+    },
+    {
+      "text": "very good. They're very benevolent.\" And",
+      "start": 766.639,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "he actually um wrote on social media",
+      "start": 769.279,
+      "duration": 2.7110000000000127
+    },
+    {
+      "text": "today against these other pastors saying",
+      "start": 772.0,
+      "duration": 3.42999999999995
+    },
+    {
+      "text": "um we are for the light. these beings",
+      "start": 775.44,
+      "duration": 2.2299999999999045
+    },
+    {
+      "text": "are for the light and we resist the",
+      "start": 777.68,
+      "duration": 2.38900000000001
+    },
+    {
+      "text": "darkness. Um, so again, another strong",
+      "start": 780.079,
+      "duration": 3.671000000000049
+    },
+    {
+      "text": "phrase, not saying what's right or",
+      "start": 783.76,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "wrong, but these things are being set uh",
+      "start": 785.76,
+      "duration": 3.1100000000000136
+    },
+    {
+      "text": "and are circulating in the tens of",
+      "start": 788.88,
+      "duration": 2.06899999999996
+    },
+    {
+      "text": "millions of views online. And you can",
+      "start": 790.959,
+      "duration": 3.0310000000000628
+    },
+    {
+      "text": "read more about the Chris Bledsoe story.",
+      "start": 794.0,
+      "duration": 1.669999999999959
+    },
+    {
+      "text": "Lots of stuff online. I find that",
+      "start": 795.68,
+      "duration": 1.75
+    },
+    {
+      "text": "fascinating. And this is his book that",
+      "start": 797.44,
+      "duration": 1.669999999999959
+    },
+    {
+      "text": "he wrote in 2012 called UFO God.",
+      "start": 799.12,
+      "duration": 7.5090000000000146
+    },
+    {
+      "text": "Um so uh I want to say a few things here",
+      "start": 809.91,
+      "duration": 0.009999999999990905
+    },
+    {
+      "text": "uh before I get into this point about",
+      "start": 809.92,
+      "duration": 1.9089999999999918
+    },
+    {
+      "text": "early Christian theology being uh more",
+      "start": 811.8389999999999,
+      "duration": 2.1510000000000673
+    },
+    {
+      "text": "diverse than it is now. Uh in fact let",
+      "start": 814.0,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "me just go back quickly to this Burles",
+      "start": 816.24,
+      "duration": 2.3099999999999454
+    },
+    {
+      "text": "slide and read just a portion of it.",
+      "start": 818.56,
+      "duration": 1.8290000000000646
+    },
+    {
+      "text": "Right. So um uh Burles says I express my",
+      "start": 820.399,
+      "duration": 5.270999999999958
+    },
+    {
+      "text": "views which is that Christians tend to",
+      "start": 825.68,
+      "duration": 1.8290000000000646
+    },
+    {
+      "text": "get dug into our personal worldviews",
+      "start": 827.519,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "even if they have nothing to do with",
+      "start": 830.079,
+      "duration": 1.75
+    },
+    {
+      "text": "what's actually been written in the",
+      "start": 831.8389999999999,
+      "duration": 1.3510000000001128
+    },
+    {
+      "text": "Bible. Um, and this is something that",
+      "start": 833.2,
+      "duration": 3.349999999999909
+    },
+    {
+      "text": "I've been concerned about for quite some",
+      "start": 836.56,
+      "duration": 1.5900000000000318
+    },
+    {
+      "text": "time because uh I think there's a number",
+      "start": 838.16,
+      "duration": 3.1900000000000546
+    },
+    {
+      "text": "of reasons to believe that the UFO and",
+      "start": 841.36,
+      "duration": 3.189999999999941
+    },
+    {
+      "text": "related phenomena are parallel uh echo a",
+      "start": 844.56,
+      "duration": 4.38900000000001
+    },
+    {
+      "text": "lot of things that we see in scriptural",
+      "start": 848.959,
+      "duration": 1.9110000000000582
+    },
+    {
+      "text": "accounts. Um, you know, people being",
+      "start": 850.88,
+      "duration": 2.7899999999999636
+    },
+    {
+      "text": "mysteriously healed, even uh uh virgin",
+      "start": 853.68,
+      "duration": 3.1100000000000136
+    },
+    {
+      "text": "births and mysterious pregnancies and",
+      "start": 856.8,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "things like that. Um, they come up in",
+      "start": 859.44,
+      "duration": 2.3889999999998963
+    },
+    {
+      "text": "this lore. um and you know people",
+      "start": 861.8389999999999,
+      "duration": 3.511000000000081
+    },
+    {
+      "text": "levitating uh uh people being able to do",
+      "start": 865.36,
+      "duration": 2.7899999999999636
+    },
+    {
+      "text": "very unusual things or beings being able",
+      "start": 868.16,
+      "duration": 2.07000000000005
+    },
+    {
+      "text": "to do very unusual things and um you",
+      "start": 870.24,
+      "duration": 3.990000000000009
+    },
+    {
+      "text": "know I've expressed this concern that uh",
+      "start": 874.24,
+      "duration": 3.509999999999991
+    },
+    {
+      "text": "that there's a kind of rigidity in",
+      "start": 877.76,
+      "duration": 2.4700000000000273
+    },
+    {
+      "text": "Christian theology sometimes that we",
+      "start": 880.24,
+      "duration": 2.9489999999999554
+    },
+    {
+      "text": "understand exactly who Jesus is and how",
+      "start": 883.199,
+      "duration": 2.7910000000000537
+    },
+    {
+      "text": "he relates to God and what these other",
+      "start": 886.0,
+      "duration": 2.4700000000000273
+    },
+    {
+      "text": "kinds of entities are and these ones are",
+      "start": 888.48,
+      "duration": 1.8299999999999272
+    },
+    {
+      "text": "good and those ones are bad and I I",
+      "start": 890.32,
+      "duration": 2.7899999999999636
+    },
+    {
+      "text": "really appreciated Berles calling our",
+      "start": 893.12,
+      "duration": 1.9099999999999682
+    },
+    {
+      "text": "attention to the fact that we are we are",
+      "start": 895.04,
+      "duration": 2.149000000000001
+    },
+    {
+      "text": "bringing theology to the scriptural",
+      "start": 897.199,
+      "duration": 2.951000000000022
+    },
+    {
+      "text": "texts. Um and we need to be careful. So",
+      "start": 900.16,
+      "duration": 2.9500000000000455
+    },
+    {
+      "text": "if it turns out that something that is",
+      "start": 903.12,
+      "duration": 2.6299999999999955
+    },
+    {
+      "text": "revealed",
+      "start": 905.76,
+      "duration": 1.5090000000000146
+    },
+    {
+      "text": "contradicts what we think of as",
+      "start": 907.279,
+      "duration": 1.5910000000000082
+    },
+    {
+      "text": "Christianity, it might not actually",
+      "start": 908.88,
+      "duration": 2.4700000000000273
+    },
+    {
+      "text": "contradict what's in the scriptures. It",
+      "start": 911.36,
+      "duration": 2.149000000000001
+    },
+    {
+      "text": "might it contradict things that we have",
+      "start": 913.519,
+      "duration": 2.0710000000000264
+    },
+    {
+      "text": "add to the scriptures or our attempts to",
+      "start": 915.6,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "understand the scriptures, which doesn't",
+      "start": 918.16,
+      "duration": 1.5900000000000318
+    },
+    {
+      "text": "need to be anything conspiratorial.",
+      "start": 919.76,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "We've all been trying to understand",
+      "start": 921.76,
+      "duration": 1.4289999999999736
+    },
+    {
+      "text": "these texts and what they mean. We might",
+      "start": 923.199,
+      "duration": 2.2309999999999945
+    },
+    {
+      "text": "be making some mistakes and we might be",
+      "start": 925.44,
+      "duration": 1.8289999999999509
+    },
+    {
+      "text": "about to learn some new information",
+      "start": 927.279,
+      "duration": 2.3909999999999627
+    },
+    {
+      "text": "which might help us uh understand how to",
+      "start": 929.68,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "read the texts more accurately. And",
+      "start": 931.92,
+      "duration": 1.830000000000041
+    },
+    {
+      "text": "that's one reason why we're doing this",
+      "start": 933.76,
+      "duration": 1.7490000000000236
+    },
+    {
+      "text": "presentation is we hope people can be",
+      "start": 935.519,
+      "duration": 2.2309999999999945
+    },
+    {
+      "text": "responsive and not reactionary. when you",
+      "start": 937.76,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "get headlines or if there's more tanches",
+      "start": 940.32,
+      "duration": 2.6289999999999054
+    },
+    {
+      "text": "of UFO uh UAP related things that are",
+      "start": 942.9590000000001,
+      "duration": 2.869999999999891
+    },
+    {
+      "text": "released, um the questions can hit us",
+      "start": 945.8389999999999,
+      "duration": 3.1100000000000136
+    },
+    {
+      "text": "hard or people can react and then you",
+      "start": 948.9590000000001,
+      "duration": 1.5909999999998945
+    },
+    {
+      "text": "cling hard to something maybe that is",
+      "start": 950.56,
+      "duration": 2.550000000000068
+    },
+    {
+      "text": "more comfortable. And I think we're just",
+      "start": 953.12,
+      "duration": 1.8289999999999509
+    },
+    {
+      "text": "saying just, you know, take a deep",
+      "start": 954.9590000000001,
+      "duration": 1.9109999999999445
+    },
+    {
+      "text": "breath, look into what you want to look",
+      "start": 956.88,
+      "duration": 1.9099999999999682
+    },
+    {
+      "text": "into. You don't have to change your",
+      "start": 958.8,
+      "duration": 1.5890000000000555
+    },
+    {
+      "text": "whole world future night. You may never",
+      "start": 960.399,
+      "duration": 1.669999999999959
+    },
+    {
+      "text": "have to just kind of, you know, do your",
+      "start": 962.079,
+      "duration": 3.1100000000000136
+    },
+    {
+      "text": "own deep dessert. Uh I do have another I",
+      "start": 965.199,
+      "duration": 3.990000000000009
+    },
+    {
+      "text": "have a video on my YouTube channel",
+      "start": 969.199,
+      "duration": 1.511000000000081
+    },
+    {
+      "text": "called Embracing the Paranormal. And in",
+      "start": 970.72,
+      "duration": 1.75
+    },
+    {
+      "text": "there I talk a little bit about how",
+      "start": 972.48,
+      "duration": 2.149000000000001
+    },
+    {
+      "text": "historically Christianity became as",
+      "start": 974.639,
+      "duration": 2.4710000000000036
+    },
+    {
+      "text": "homogeneous as it is. It seems like it's",
+      "start": 977.12,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "not homogeneous because there are many",
+      "start": 979.36,
+      "duration": 2.0699999999999363
+    },
+    {
+      "text": "many many thousands of forms of",
+      "start": 981.44,
+      "duration": 1.669999999999959
+    },
+    {
+      "text": "Christianity at this point but they have",
+      "start": 983.12,
+      "duration": 2.3099999999999454
+    },
+    {
+      "text": "have all kind of converged around this",
+      "start": 985.44,
+      "duration": 2.06899999999996
+    },
+    {
+      "text": "this theology that emerges especially um",
+      "start": 987.519,
+      "duration": 3.030999999999949
+    },
+    {
+      "text": "after Constantine converts and calls",
+      "start": 990.56,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "together the ecumenical councils and but",
+      "start": 992.56,
+      "duration": 2.310000000000059
+    },
+    {
+      "text": "there was theology prior to that and and",
+      "start": 994.88,
+      "duration": 1.9099999999999682
+    },
+    {
+      "text": "I just want to talk about one theologian",
+      "start": 996.8,
+      "duration": 2.469000000000051
+    },
+    {
+      "text": "um or origin of Alexandria who uh",
+      "start": 999.279,
+      "duration": 3.7509999999999764
+    },
+    {
+      "text": "predates the council of na by 150 years",
+      "start": 1003.04,
+      "duration": 3.4300000000000637
+    },
+    {
+      "text": "or so 150 heroes Yeah. Um and was a bit",
+      "start": 1006.48,
+      "duration": 3.990000000000009
+    },
+    {
+      "text": "like extremely influential uh",
+      "start": 1010.48,
+      "duration": 2.149000000000001
+    },
+    {
+      "text": "theologian. He's sort of in the lineage",
+      "start": 1012.639,
+      "duration": 1.8310000000000173
+    },
+    {
+      "text": "of Plato and the Neoplat uh Neoplatonic",
+      "start": 1014.48,
+      "duration": 3.0289999999999964
+    },
+    {
+      "text": "philosophers",
+      "start": 1017.519,
+      "duration": 1.5109999999999673
+    },
+    {
+      "text": "very much a Christian. Um but he's",
+      "start": 1019.04,
+      "duration": 2.310000000000059
+    },
+    {
+      "text": "articulating a view that to post Nyian",
+      "start": 1021.36,
+      "duration": 4.069000000000074
+    },
+    {
+      "text": "Christians uh and and modern Christians",
+      "start": 1025.439,
+      "duration": 2.6299999999998818
+    },
+    {
+      "text": "would sound very very strange and would",
+      "start": 1028.079,
+      "duration": 2.5510000000001583
+    },
+    {
+      "text": "sound not like Christianity at all. So",
+      "start": 1030.64,
+      "duration": 3.0289999999999964
+    },
+    {
+      "text": "this is a Christian, undisputably a",
+      "start": 1033.679,
+      "duration": 2.3899999999998727
+    },
+    {
+      "text": "Christian, uh, one of the most serious",
+      "start": 1036.079,
+      "duration": 1.75
+    },
+    {
+      "text": "theologians that existed at the time.",
+      "start": 1037.839,
+      "duration": 2.1510000000000673
+    },
+    {
+      "text": "Arguably the most serious theologian",
+      "start": 1040.0,
+      "duration": 1.8289999999999509
+    },
+    {
+      "text": "that existed at the time. Um, and he's",
+      "start": 1041.839,
+      "duration": 2.7910000000001673
+    },
+    {
+      "text": "saying things which sound very strange",
+      "start": 1044.64,
+      "duration": 1.5899999999999181
+    },
+    {
+      "text": "to modern Christians. And I just want to",
+      "start": 1046.24,
+      "duration": 1.509999999999991
+    },
+    {
+      "text": "talk briefly about a few of these",
+      "start": 1047.76,
+      "duration": 1.8299999999999272
+    },
+    {
+      "text": "points. Um, so he he believed in the",
+      "start": 1049.6,
+      "duration": 2.790000000000191
+    },
+    {
+      "text": "pre-existence of souls that that the my",
+      "start": 1052.4,
+      "duration": 3.349999999999909
+    },
+    {
+      "text": "soul was once not in this body. Um, and",
+      "start": 1055.76,
+      "duration": 4.5499999999999545
+    },
+    {
+      "text": "if you it's it's this is an old text.",
+      "start": 1060.32,
+      "duration": 2.3900000000001
+    },
+    {
+      "text": "There's not a whole lot of detail in",
+      "start": 1062.72,
+      "duration": 1.4300000000000637
+    },
+    {
+      "text": "here, right? But but actually this does",
+      "start": 1064.16,
+      "duration": 1.5090000000000146
+    },
+    {
+      "text": "look like he believes in some kind of",
+      "start": 1065.679,
+      "duration": 1.5909999999998945
+    },
+    {
+      "text": "cycle of death and rebirth,",
+      "start": 1067.28,
+      "duration": 1.2690000000000055
+    },
+    {
+      "text": "reincarnation, that that I my soul was",
+      "start": 1068.559,
+      "duration": 2.7110000000000127
+    },
+    {
+      "text": "once in a different body. Um, he also",
+      "start": 1071.28,
+      "duration": 2.629000000000133
+    },
+    {
+      "text": "seems to believe that angels and demonic",
+      "start": 1073.919,
+      "duration": 3.1909999999998035
+    },
+    {
+      "text": "forces, which again are like not",
+      "start": 1077.12,
+      "duration": 2.150000000000091
+    },
+    {
+      "text": "species, right? These are types of",
+      "start": 1079.28,
+      "duration": 2.3890000000001237
+    },
+    {
+      "text": "beings that have um become especially",
+      "start": 1081.679,
+      "duration": 4.230000000000018
+    },
+    {
+      "text": "good and aligned with God on the one",
+      "start": 1085.919,
+      "duration": 2.390999999999849
+    },
+    {
+      "text": "end, become especially bad and filled",
+      "start": 1088.32,
+      "duration": 2.3900000000001
+    },
+    {
+      "text": "with wickedness and rejecting God on the",
+      "start": 1090.72,
+      "duration": 1.9100000000000819
+    },
+    {
+      "text": "other end. Um that they are beings uh",
+      "start": 1092.64,
+      "duration": 3.908999999999878
+    },
+    {
+      "text": "who have beings like us who have",
+      "start": 1096.559,
+      "duration": 2.07100000000014
+    },
+    {
+      "text": "ascended or descended that once upon a",
+      "start": 1098.64,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "time they were embodied entities that",
+      "start": 1101.2,
+      "duration": 3.828999999999951
+    },
+    {
+      "text": "lived lives like we live lives, morally",
+      "start": 1105.039,
+      "duration": 2.3910000000000764
+    },
+    {
+      "text": "complex lives. And some of them became",
+      "start": 1107.44,
+      "duration": 2.3099999999999454
+    },
+    {
+      "text": "really good and they've moved on to this",
+      "start": 1109.76,
+      "duration": 1.6700000000000728
+    },
+    {
+      "text": "higher state. Some of them became really",
+      "start": 1111.44,
+      "duration": 1.5889999999999418
+    },
+    {
+      "text": "bad and they've moved on to this lower",
+      "start": 1113.039,
+      "duration": 1.5910000000001219
+    },
+    {
+      "text": "state. Well, if that's true, then",
+      "start": 1114.64,
+      "duration": 1.75
+    },
+    {
+      "text": "they're aliens, right? That that then",
+      "start": 1116.4,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "angels are aliens. They are entities who",
+      "start": 1118.96,
+      "duration": 3.349999999999909
+    },
+    {
+      "text": "were once embodied beings like us and",
+      "start": 1122.32,
+      "duration": 2.630000000000109
+    },
+    {
+      "text": "have now moved into some other kind of",
+      "start": 1124.96,
+      "duration": 1.9099999999998545
+    },
+    {
+      "text": "estate that you might call",
+      "start": 1126.88,
+      "duration": 1.9899999999997817
+    },
+    {
+      "text": "interdimensional. that they they relate",
+      "start": 1128.88,
+      "duration": 1.9899999999997817
+    },
+    {
+      "text": "to the physical world that the world",
+      "start": 1130.88,
+      "duration": 1.8299999999999272
+    },
+    {
+      "text": "that we occupy the world of three",
+      "start": 1132.72,
+      "duration": 1.75
+    },
+    {
+      "text": "dimensions of time and one dimension",
+      "start": 1134.48,
+      "duration": 1.8299999999999272
+    },
+    {
+      "text": "three dimensions of space and one",
+      "start": 1136.32,
+      "duration": 1.2699999999999818
+    },
+    {
+      "text": "dimension of time. They don't relate to",
+      "start": 1137.6,
+      "duration": 2.150000000000091
+    },
+    {
+      "text": "the world that way. Maybe they can move",
+      "start": 1139.76,
+      "duration": 2.3099999999999454
+    },
+    {
+      "text": "through walls and they can show up",
+      "start": 1142.08,
+      "duration": 2.0700000000001637
+    },
+    {
+      "text": "mysteriously and they can levitate and",
+      "start": 1144.16,
+      "duration": 2.1499999999998636
+    },
+    {
+      "text": "they can heal beings and you know um",
+      "start": 1146.32,
+      "duration": 2.70900000000006
+    },
+    {
+      "text": "that might all fit quite nicely into",
+      "start": 1149.039,
+      "duration": 2.310999999999922
+    },
+    {
+      "text": "origins theology even if it doesn't fit",
+      "start": 1151.36,
+      "duration": 2.3090000000001965
+    },
+    {
+      "text": "very nicely into more contemporary",
+      "start": 1153.679,
+      "duration": 2.390999999999849
+    },
+    {
+      "text": "Christians theology. And I have to at",
+      "start": 1156.08,
+      "duration": 1.8290000000001783
+    },
+    {
+      "text": "least mention right next to this um that",
+      "start": 1157.919,
+      "duration": 2.4710000000000036
+    },
+    {
+      "text": "the stars and the planets in his view",
+      "start": 1160.4,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "are alive. They're they're real beings.",
+      "start": 1162.64,
+      "duration": 2.3889999999998963
+    },
+    {
+      "text": "He actually speaks about the earth as",
+      "start": 1165.039,
+      "duration": 2.3910000000000764
+    },
+    {
+      "text": "like a very large organism. So he he",
+      "start": 1167.44,
+      "duration": 2.869999999999891
+    },
+    {
+      "text": "seems to believe it's something like a",
+      "start": 1170.32,
+      "duration": 1.509999999999991
+    },
+    {
+      "text": "Gaia consciousness. Um and uh I just",
+      "start": 1171.84,
+      "duration": 3.5900000000001455
+    },
+    {
+      "text": "think this is delightful uh uh that that",
+      "start": 1175.44,
+      "duration": 2.7100000000000364
+    },
+    {
+      "text": "it might turn out that the the",
+      "start": 1178.16,
+      "duration": 2.949999999999818
+    },
+    {
+      "text": "Christianity uh of origin is closer to",
+      "start": 1181.12,
+      "duration": 3.8300000000001546
+    },
+    {
+      "text": "the truth than the origin than the",
+      "start": 1184.96,
+      "duration": 1.6700000000000728
+    },
+    {
+      "text": "Christianities that have sort of uh",
+      "start": 1186.64,
+      "duration": 3.0289999999999964
+    },
+    {
+      "text": "developed after him. Uh and this would",
+      "start": 1189.679,
+      "duration": 2.550999999999931
+    },
+    {
+      "text": "again not be to reject Christianity in",
+      "start": 1192.24,
+      "duration": 2.9500000000000455
+    },
+    {
+      "text": "any way. This would just be to go back",
+      "start": 1195.2,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "and revisit some theology that maybe",
+      "start": 1197.44,
+      "duration": 2.1499999999998636
+    },
+    {
+      "text": "we've lost.",
+      "start": 1199.6,
+      "duration": 3.189000000000078
+    },
+    {
+      "text": "Yeah. And uh you know most of uh what",
+      "start": 1202.799,
+      "duration": 4.310999999999922
+    },
+    {
+      "text": "Steve shared about origins those",
+      "start": 1207.12,
+      "duration": 2.7100000000000364
+    },
+    {
+      "text": "theological points were ana",
+      "start": 1209.84,
+      "duration": 2.230000000000018
+    },
+    {
+      "text": "anathematized meaning the church said",
+      "start": 1212.08,
+      "duration": 1.5890000000001692
+    },
+    {
+      "text": "they were wrong. Uh but I would commend",
+      "start": 1213.679,
+      "duration": 3.7509999999999764
+    },
+    {
+      "text": "origins on first principles to anybody.",
+      "start": 1217.44,
+      "duration": 2.7899999999999636
+    },
+    {
+      "text": "It's a really um important work. Um if",
+      "start": 1220.24,
+      "duration": 4.150000000000091
+    },
+    {
+      "text": "you read father John Bayer who's an",
+      "start": 1224.4,
+      "duration": 1.4299999999998363
+    },
+    {
+      "text": "orthodox theologian I like the analogy",
+      "start": 1225.84,
+      "duration": 1.9100000000000819
+    },
+    {
+      "text": "he uses. He says that uh origin of",
+      "start": 1227.76,
+      "duration": 3.2690000000000055
+    },
+    {
+      "text": "Alexandria, he created the game of",
+      "start": 1231.039,
+      "duration": 2.550999999999931
+    },
+    {
+      "text": "soccer or the game of theology that we",
+      "start": 1233.6,
+      "duration": 2.8700000000001182
+    },
+    {
+      "text": "all play. Um and all of the early church",
+      "start": 1236.48,
+      "duration": 3.349999999999909
+    },
+    {
+      "text": "fathers all were using uh the system",
+      "start": 1239.84,
+      "duration": 3.4300000000000637
+    },
+    {
+      "text": "that he had put together and they change",
+      "start": 1243.28,
+      "duration": 1.9100000000000819
+    },
+    {
+      "text": "it and evolve it over hundreds of years.",
+      "start": 1245.2,
+      "duration": 1.9099999999998545
+    },
+    {
+      "text": "uh that he was the inventor of the game",
+      "start": 1247.12,
+      "duration": 2.150000000000091
+    },
+    {
+      "text": "or like double date to baseball invented",
+      "start": 1249.28,
+      "duration": 2.629000000000133
+    },
+    {
+      "text": "the game and even and then if somebody",
+      "start": 1251.919,
+      "duration": 2.9509999999997945
+    },
+    {
+      "text": "wants to write a good Dainci code kind",
+      "start": 1254.88,
+      "duration": 2.3899999999998727
+    },
+    {
+      "text": "of conspiracy novel the anathematization",
+      "start": 1257.28,
+      "duration": 2.9500000000000455
+    },
+    {
+      "text": "of origin would be a great book because",
+      "start": 1260.24,
+      "duration": 1.8299999999999272
+    },
+    {
+      "text": "there's all kinds of even controversy",
+      "start": 1262.08,
+      "duration": 1.8290000000001783
+    },
+    {
+      "text": "around that where it got condemned at",
+      "start": 1263.919,
+      "duration": 1.3509999999998854
+    },
+    {
+      "text": "the fifth ecumenical council I know we",
+      "start": 1265.28,
+      "duration": 1.9100000000000819
+    },
+    {
+      "text": "didn't go on this let's go on this just",
+      "start": 1267.2,
+      "duration": 2.1499999999998636
+    },
+    {
+      "text": "a little you know he got it gets",
+      "start": 1269.36,
+      "duration": 1.4290000000000873
+    },
+    {
+      "text": "condemned at the fifth ecumenical",
+      "start": 1270.799,
+      "duration": 2.550999999999931
+    },
+    {
+      "text": "council under emperor just uh Justinian",
+      "start": 1273.36,
+      "duration": 3.270000000000209
+    },
+    {
+      "text": "Uh but scholars today are saying that",
+      "start": 1276.64,
+      "duration": 2.869999999999891
+    },
+    {
+      "text": "was added on by him later. They wasn't",
+      "start": 1279.52,
+      "duration": 2.9500000000000455
+    },
+    {
+      "text": "discussed at the council. Um and then",
+      "start": 1282.48,
+      "duration": 2.7100000000000364
+    },
+    {
+      "text": "the author who put the original work on",
+      "start": 1285.2,
+      "duration": 2.7899999999999636
+    },
+    {
+      "text": "first principles together, a guy named",
+      "start": 1288.0,
+      "duration": 1.75
+    },
+    {
+      "text": "Rufinus in the later translations, they",
+      "start": 1289.76,
+      "duration": 3.1900000000000546
+    },
+    {
+      "text": "put all the anata that were at the",
+      "start": 1292.96,
+      "duration": 2.06899999999996
+    },
+    {
+      "text": "council into his original work. So it",
+      "start": 1295.039,
+      "duration": 2.4710000000000036
+    },
+    {
+      "text": "sounded like origin was both saying one",
+      "start": 1297.52,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "thing and the opposite thing. So,",
+      "start": 1299.52,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "there's this great kind of early UFO",
+      "start": 1301.52,
+      "duration": 2.9500000000000455
+    },
+    {
+      "text": "conspiracy stuff around um of of origin,",
+      "start": 1304.48,
+      "duration": 3.269999999999982
+    },
+    {
+      "text": "but a worthwhile thinker. And I'll just",
+      "start": 1307.76,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "bring up one point uh of the stuff that",
+      "start": 1309.76,
+      "duration": 2.3889999999998963
+    },
+    {
+      "text": "wasn't condemned that I think is",
+      "start": 1312.159,
+      "duration": 1.6709999999998217
+    },
+    {
+      "text": "relevant to this conversation is that in",
+      "start": 1313.84,
+      "duration": 1.9100000000000819
+    },
+    {
+      "text": "the the fourth section of that book when",
+      "start": 1315.76,
+      "duration": 2.4700000000000273
+    },
+    {
+      "text": "he's talking about scripture, he uh uses",
+      "start": 1318.24,
+      "duration": 2.7889999999999873
+    },
+    {
+      "text": "a form of scripture that uh later",
+      "start": 1321.039,
+      "duration": 3.1099999999999
+    },
+    {
+      "text": "theologians build on, especially in the",
+      "start": 1324.159,
+      "duration": 1.3509999999998854
+    },
+    {
+      "text": "Eastern Orthodox tradition, they use",
+      "start": 1325.52,
+      "duration": 1.1900000000000546
+    },
+    {
+      "text": "this today where scripture is like our",
+      "start": 1326.72,
+      "duration": 3.0299999999999727
+    },
+    {
+      "text": "body. Our body's in three parts. Body,",
+      "start": 1329.76,
+      "duration": 2.0699999999999363
+    },
+    {
+      "text": "spirit, and the soul. And so scripture",
+      "start": 1331.84,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "is like the same. It's got a body.",
+      "start": 1333.84,
+      "duration": 1.9100000000000819
+    },
+    {
+      "text": "That's the literal reading of scripture.",
+      "start": 1335.76,
+      "duration": 1.509999999999991
+    },
+    {
+      "text": "What actually are we reading? What's the",
+      "start": 1337.28,
+      "duration": 1.5899999999999181
+    },
+    {
+      "text": "story? What's the history? What are the",
+      "start": 1338.88,
+      "duration": 1.8299999999999272
+    },
+    {
+      "text": "details? And then you've got the uh the",
+      "start": 1340.72,
+      "duration": 2.7899999999999636
+    },
+    {
+      "text": "soul reading or the moral reading of",
+      "start": 1343.52,
+      "duration": 2.1490000000001146
+    },
+    {
+      "text": "what does this say about how we should",
+      "start": 1345.679,
+      "duration": 1.4309999999998126
+    },
+    {
+      "text": "live? What is right and what is wrong?",
+      "start": 1347.12,
+      "duration": 1.8300000000001546
+    },
+    {
+      "text": "And then finally, the spiritual reading",
+      "start": 1348.96,
+      "duration": 2.3099999999999454
+    },
+    {
+      "text": "is um that which is going to draw us in",
+      "start": 1351.28,
+      "duration": 3.8299999999999272
+    },
+    {
+      "text": "and form us spiritually. And the main",
+      "start": 1355.12,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "point he makes there is that there's",
+      "start": 1357.12,
+      "duration": 1.4290000000000873
+    },
+    {
+      "text": "many things in the scripture that are",
+      "start": 1358.559,
+      "duration": 2.550999999999931
+    },
+    {
+      "text": "stumbling blocks to men. He uses",
+      "start": 1361.12,
+      "duration": 2.310000000000173
+    },
+    {
+      "text": "examples if I can remember off the top",
+      "start": 1363.44,
+      "duration": 1.5889999999999418
+    },
+    {
+      "text": "of my head of you know God God doesn't",
+      "start": 1365.039,
+      "duration": 2.310999999999922
+    },
+    {
+      "text": "literally have eyes, ears and a hand.",
+      "start": 1367.36,
+      "duration": 1.9100000000000819
+    },
+    {
+      "text": "God has God is spirit father. And so",
+      "start": 1369.28,
+      "duration": 3.910000000000082
+    },
+    {
+      "text": "those can be a stumbling block if we",
+      "start": 1373.2,
+      "duration": 1.509999999999991
+    },
+    {
+      "text": "anthropomorphize God too much. But",
+      "start": 1374.72,
+      "duration": 2.4700000000000273
+    },
+    {
+      "text": "that's not scripture lying. It's",
+      "start": 1377.2,
+      "duration": 1.8289999999999509
+    },
+    {
+      "text": "scripture intentionally being written as",
+      "start": 1379.039,
+      "duration": 2.4710000000000036
+    },
+    {
+      "text": "a stumbling block to draw us deeper into",
+      "start": 1381.52,
+      "duration": 1.75
+    },
+    {
+      "text": "the mystery to work on our soul or where",
+      "start": 1383.28,
+      "duration": 2.3099999999999454
+    },
+    {
+      "text": "God says kill all the Amalachites all",
+      "start": 1385.6,
+      "duration": 1.5900000000001455
+    },
+    {
+      "text": "these terrible things that God says.",
+      "start": 1387.2,
+      "duration": 2.1499999999998636
+    },
+    {
+      "text": "Origin would say this isn't uh you know",
+      "start": 1389.36,
+      "duration": 2.8700000000001182
+    },
+    {
+      "text": "that's not worthy of God for God to do",
+      "start": 1392.24,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "that because God is the good. However,",
+      "start": 1394.24,
+      "duration": 2.7100000000000364
+    },
+    {
+      "text": "this is intentionally in scripture so",
+      "start": 1396.96,
+      "duration": 1.2699999999999818
+    },
+    {
+      "text": "it's the stumbling blocks and we have to",
+      "start": 1398.24,
+      "duration": 1.509999999999991
+    },
+    {
+      "text": "spiritually wrestle with what that means",
+      "start": 1399.76,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "and that helps our deification. So",
+      "start": 1401.76,
+      "duration": 2.1490000000001146
+    },
+    {
+      "text": "origin is an important person and it",
+      "start": 1403.919,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "just shows how differently um they were",
+      "start": 1405.919,
+      "duration": 3.030999999999949
+    },
+    {
+      "text": "thinking then about scripture than what",
+      "start": 1408.96,
+      "duration": 2.06899999999996
+    },
+    {
+      "text": "we think too. Always getting back to",
+      "start": 1411.039,
+      "duration": 2.1510000000000673
+    },
+    {
+      "text": "Berles origin might have liked that of",
+      "start": 1413.2,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "don't just uh presume you know exactly",
+      "start": 1415.76,
+      "duration": 2.8700000000001182
+    },
+    {
+      "text": "what it means you need to revisit",
+      "start": 1418.64,
+      "duration": 2.5499999999999545
+    },
+    {
+      "text": "revisit revisit go back to the sources",
+      "start": 1421.2,
+      "duration": 2.6299999999998818
+    },
+    {
+      "text": "add fontest all the time.",
+      "start": 1423.84,
+      "duration": 3.0299999999999727
+    },
+    {
+      "text": "Um,",
+      "start": 1426.88,
+      "duration": 1.75
+    },
+    {
+      "text": "and then,",
+      "start": 1428.64,
+      "duration": 2.6299999999998818
+    },
+    {
+      "text": "oh yeah, and then we kind of talked",
+      "start": 1431.28,
+      "duration": 1.9100000000000819
+    },
+    {
+      "text": "about, uh, I think we're getting to the",
+      "start": 1433.2,
+      "duration": 2.0699999999999363
+    },
+    {
+      "text": "end of the slides here, but even Jesus",
+      "start": 1435.28,
+      "duration": 2.0699999999999363
+    },
+    {
+      "text": "himself says, um, beloved, do not",
+      "start": 1437.36,
+      "duration": 2.3090000000001965
+    },
+    {
+      "text": "believe every spirit, but test the",
+      "start": 1439.679,
+      "duration": 1.7509999999999764
+    },
+    {
+      "text": "spirits to see whether they are from",
+      "start": 1441.44,
+      "duration": 1.75
+    },
+    {
+      "text": "God. So again, this is John. Oh, this is",
+      "start": 1443.2,
+      "duration": 3.6699999999998454
+    },
+    {
+      "text": "first John. Thank you. The next one is",
+      "start": 1446.88,
+      "duration": 2.4699999999998
+    },
+    {
+      "text": "Thank you. And yeah, and but Jesus",
+      "start": 1449.36,
+      "duration": 1.9090000000001055
+    },
+    {
+      "text": "talked about that, too. Weighing the",
+      "start": 1451.279,
+      "duration": 1.2699999999999818
+    },
+    {
+      "text": "fruits. And so it's kind of like, you",
+      "start": 1452.559,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "know, the the Bible itself is saying",
+      "start": 1454.559,
+      "duration": 1.9110000000000582
+    },
+    {
+      "text": "slow down, test these spirits. Don't a",
+      "start": 1456.48,
+      "duration": 3.589999999999918
+    },
+    {
+      "text": "priority say everything's angels,",
+      "start": 1460.08,
+      "duration": 1.9100000000000819
+    },
+    {
+      "text": "everything's demons. Or even there's",
+      "start": 1462.0,
+      "duration": 1.6690000000000964
+    },
+    {
+      "text": "other frames of there's no spirituality",
+      "start": 1463.679,
+      "duration": 2.4699999999998
+    },
+    {
+      "text": "to this or that's that's all spiritual,",
+      "start": 1466.159,
+      "duration": 3.75
+    },
+    {
+      "text": "you know? Uh we have to think like are",
+      "start": 1469.919,
+      "duration": 1.9109999999998308
+    },
+    {
+      "text": "all the aliens they little green men",
+      "start": 1471.84,
+      "duration": 1.4290000000000873
+    },
+    {
+      "text": "from Mars or is there a spiritual",
+      "start": 1473.279,
+      "duration": 1.43100000000004
+    },
+    {
+      "text": "dimension to this or is it all angels",
+      "start": 1474.72,
+      "duration": 2.06899999999996
+    },
+    {
+      "text": "and they just materialize and form ships",
+      "start": 1476.799,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "to mess with us? We have to start to use",
+      "start": 1478.799,
+      "duration": 2.6310000000000855
+    },
+    {
+      "text": "uh Jeff Krele's uh terminology who we",
+      "start": 1481.44,
+      "duration": 3.1900000000000546
+    },
+    {
+      "text": "had breakfast with recently. We have to",
+      "start": 1484.64,
+      "duration": 1.75
+    },
+    {
+      "text": "start thinking impossibly and especially",
+      "start": 1486.4,
+      "duration": 2.0699999999999363
+    },
+    {
+      "text": "as Christians we've been doing that for",
+      "start": 1488.48,
+      "duration": 1.349999999999909
+    },
+    {
+      "text": "a long time. The resurrection we we",
+      "start": 1489.84,
+      "duration": 1.75
+    },
+    {
+      "text": "think impossibly you know and then we",
+      "start": 1491.6,
+      "duration": 2.3090000000001965
+    },
+    {
+      "text": "make sense out of that and what is",
+      "start": 1493.919,
+      "duration": 1.4309999999998126
+    },
+    {
+      "text": "possible from that initial impossible",
+      "start": 1495.36,
+      "duration": 2.3090000000001965
+    },
+    {
+      "text": "thinking. So I think this is a time to",
+      "start": 1497.679,
+      "duration": 2.79099999999994
+    },
+    {
+      "text": "reclaim that gift of thinking impossibly",
+      "start": 1500.48,
+      "duration": 2.9500000000000455
+    },
+    {
+      "text": "and to move slow and to test spirits if",
+      "start": 1503.44,
+      "duration": 3.0299999999999727
+    },
+    {
+      "text": "you're a Christian. And yes, and here's",
+      "start": 1506.48,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "Matthew 7:15. Uh, beware of false",
+      "start": 1508.48,
+      "duration": 2.6299999999998818
+    },
+    {
+      "text": "prophets who come to you in sheep's",
+      "start": 1511.12,
+      "duration": 1.75
+    },
+    {
+      "text": "clothing, but inwardly are ravenous",
+      "start": 1512.88,
+      "duration": 1.668999999999869
+    },
+    {
+      "text": "wolves. You will know them by their",
+      "start": 1514.559,
+      "duration": 1.9110000000000582
+    },
+    {
+      "text": "fruits. Are grapes gathered from thorns",
+      "start": 1516.48,
+      "duration": 2.308999999999969
+    },
+    {
+      "text": "or figs from thistles? In the same way,",
+      "start": 1518.799,
+      "duration": 2.310999999999922
+    },
+    {
+      "text": "every good tree bears good fruit, but",
+      "start": 1521.12,
+      "duration": 1.6690000000000964
+    },
+    {
+      "text": "the bad tree bears bad fruit and so on.",
+      "start": 1522.799,
+      "duration": 3.270999999999958
+    },
+    {
+      "text": "So again, you know, it might be a while",
+      "start": 1526.08,
+      "duration": 2.70900000000006
+    },
+    {
+      "text": "till we can see what the if these are,",
+      "start": 1528.799,
+      "duration": 2.4700000000000273
+    },
+    {
+      "text": "you know, beings from other dimensions",
+      "start": 1531.279,
+      "duration": 2.3900000000001
+    },
+    {
+      "text": "or planets. It's going to take a little",
+      "start": 1533.679,
+      "duration": 2.550999999999931
+    },
+    {
+      "text": "while to see what their fruits are. But",
+      "start": 1536.24,
+      "duration": 2.9500000000000455
+    },
+    {
+      "text": "why don't we withhold judgment on what",
+      "start": 1539.2,
+      "duration": 1.6699999999998454
+    },
+    {
+      "text": "we think is going on? Begin to think and",
+      "start": 1540.88,
+      "duration": 2.0699999999999363
+    },
+    {
+      "text": "possibly move slow, be discerning, just",
+      "start": 1542.96,
+      "duration": 3.349999999999909
+    },
+    {
+      "text": "like scripture tells us, and ultimately",
+      "start": 1546.32,
+      "duration": 2.70900000000006
+    },
+    {
+      "text": "the fruits uh will come forth. And then",
+      "start": 1549.039,
+      "duration": 2.8700000000001182
+    },
+    {
+      "text": "I'll just end with this. This is the the",
+      "start": 1551.919,
+      "duration": 1.8309999999999036
+    },
+    {
+      "text": "trauma therapist. I thought this was a",
+      "start": 1553.76,
+      "duration": 2.3099999999999454
+    },
+    {
+      "text": "some nice uh nice theological poetic",
+      "start": 1556.08,
+      "duration": 3.8290000000001783
+    },
+    {
+      "text": "language. God is with us. Begin in God's",
+      "start": 1559.919,
+      "duration": 3.1099999999999
+    },
+    {
+      "text": "presence. God intended us for each",
+      "start": 1563.039,
+      "duration": 1.9110000000000582
+    },
+    {
+      "text": "other. Act from God's love. The cosmos",
+      "start": 1564.96,
+      "duration": 3.188999999999851
+    },
+    {
+      "text": "is an open and incomplete system. All",
+      "start": 1568.159,
+      "duration": 2.2309999999999945
+    },
+    {
+      "text": "beings are connected in parallel",
+      "start": 1570.4,
+      "duration": 1.7489999999997963
+    },
+    {
+      "text": "process.",
+      "start": 1572.159,
+      "duration": 1.8309999999999036
+    },
+    {
+      "text": "Arrive, ground, and center. Follow the",
+      "start": 1574.0,
+      "duration": 2.0699999999999363
+    },
+    {
+      "text": "flow. Discern the larger context. Work",
+      "start": 1576.08,
+      "duration": 2.469000000000051
+    },
+    {
+      "text": "in the pause. Hear the story. Tell the",
+      "start": 1578.559,
+      "duration": 1.990000000000009
+    },
+    {
+      "text": "story. Reduce anxiety. Engage existing",
+      "start": 1580.559,
+      "duration": 2.7100000000000364
+    },
+    {
+      "text": "relationships. Get people to the next",
+      "start": 1583.279,
+      "duration": 2.1510000000000673
+    },
+    {
+      "text": "step. Debrief before departing.",
+      "start": 1585.44,
+      "duration": 4.399999999999864
+    }
+  ],
+  "transcript_text": "All right, everybody. Hello. Um, I'm Stephen Brown and I'm Grant Heckart. Uh, Grant and I have been talking about theological implications of, uh, non-human intelligences, aliens, um, religious implications, the kinds of entities that show up in scriptures, um, complexities in theology. the past few years. We've been friends for longer than that, but &gt;&gt; y &gt;&gt; uh Grant's been with me on my journey essentially since I converted to starting to pay attention to this stuff. Um so, a lot has happened in the past couple of days. We wanted to get together and uh give a kind of response to some of it. So, we're going to tag team a little presentation here um and then we can have conversation with whoever is available to converse with us. So, uh, yeah, I'm calling this angels aren't demons. Theological complexity about the weird stuff. Uh, okay. So, yesterday, uh, the Department of Defense, which likes to call itself the Department of War, um, released a, uh, a page on UFOs. Uh, and there was a number of interesting things in there. Uh, it's not super interesting. There's not anything in there that is surprising to those of us who've been paying attention for a while. Um, but there is some nice new information in there. Uh, if you're interested in kind of getting caught up, uh, Richard Dolan just released a video. Um, he's one of the best UFO historians. Um, and he kind of summarizes what's in there. So, that's a good thing to do. As far as things that have gotten newsworthy attention, a lot of people have been talking about this video. Um, this uh looks like some kind of a star-shaped UAP, unidentified anomalous phenomena, UFO. Um, but uh this video is problematic for uh the following reason. Uh, it looks pretty Oh, sorry. Um, I must admit that I was excited about this video, um, because there have been a couple of leaked photographs, uh, which look like this, these kind of strange star-shaped entities. And obviously, if we did have reliable evidence that these things existed and are hovering around, then those would be anomalous. Like, there's nothing about a star-shaped entity like this that fits with the way we think about um, aircraft, right? So, um I was pretty optimistic at first. Uh but, uh one thing that people should understand about the UFO community is we are actually pretty picky about our evidence. And although we might get excited about a piece of evidence at first, it might turn out not to pan out. And this seems like one of those situations. So, um uh on uh Reddit uh r/ UFOs, this debunk came up pretty quickly. Um I at least am convinced that this debunk is correct. So that this is not an anomalous object. The claim is that uh this strange shaped pattern is actually a defraction pattern that's happening because of the way that the sensor is uh these little crisscross things on the sensor are generating that. And up in the right there you can see a bright object um uh being perceived through a similar device. Um and uh that then leads to this question. Well, what exactly is this object? It would then be a very bright object of some kind. Uh, and the proposal, the hypothesis is that it is a flare. So, a flare suspended from uh from a parachute. And if you watch this portion of the video, I have no idea why it keeps doing this. Uh, you can see the parachute uh off to the side and up at the top. So that is a flare suspended from uh parachute. Um that being said, there's other reasons why this is in the news and grants up. &gt;&gt; Yeah, pretty quick. Thanks. I think the overall take that Steve and I have and want to communicate with this presentation is that there are very strong frames that are being put out um in terms of what this phenomena is. And we want to commend to you not to fall into the trap of just going right into a strong frame like everything's demons or um all of it, you know, a cover up for that. you know, there's there's strong frames coming out. And so our work and our job together is, you know, look at every data piece of data critically. You don't have to kind of lump everything into one. Um like our vice president seems to be doing um by saying that all of this is demons. It's not a very helpful way to proceed. Now, some of them may be demons, but we just have to be very very careful on terminology and context. And even you know just briefly in biblical times in the Bible itself there are many unidentified objects. How maybe the the the is the the Hebrew people here could identify uh you know the the pillar of cloud by day and fire by night. They knew what it was because God told them. But somebody else coming in, that would have been an unidentified flying object. Um, also, yeah, a reminder, aliens aren't demons. Here, you know, this is a famous one in UFO lore from the book of Ezekiel, the ofanim, which means wheels. Um, as the the chariot wheels for the throne of God, which also has some eyes on it. Um, this is an unidentified flying object, and it's not a demon. uh it's doing destructive things in this particular story, Ezekiel, but it's not a demon. So even from a Christian biblical perspective, to say everything is demons, everything in the air we don't recognize indeed as demons is just not uh coherent. That's just not the case um at all in scripture. But some maybe dance. And this will kind of transition us. Uh well, here's here's a on the right you have a picture from Whitney Streamer's famous book called Communion. And on the left here you have uh a drawing of Lamb uh the Alistister Crowley demon. That could be a demon. That could be real. They look kind of similar. So we don't want to rule that out. But we're also not saying it's a closed set that everything is one thing. Let me jump in here too that um another reason why we wanted this slide in here is to indicate that the fact that these two look like each other doesn't mean that they are both demons. Right? Uh especially in Christian theology, a demon is is a bad version of something else. Right? So you can't determine whether something is good or bad by looking at its external shape. I like Steve's kind of phrase here that demon is a mortal alignment. Um, it's a faction, not a species. If people have questions about that, um, we can talk more about that. There's lots of ways to slice and dice demonology and angelology. Uh, we do a whole seminar on that, but generally it is kind of an orientation towards God or away from God. one that's a messenger from God or one that is uh fallen and betraying God to put it in probably two simplistic terms uh but that you know these are categories not and and moral alignments. So that brings us to uh this uh situation that happened that we wanted to talk about. Um, in fact, this happened before the release of the files and what this is was a uh meeting of uh of clergy and I will describe I've watched a lot of videos on this. So, let me tell you what happened. Maybe you've seen uh some information about this. It kicked off with uh Pastor Perry Stone uh who was not at this meeting uh relaying what he had heard from a friend who presumably was at the meeting. Perry Stone comes from uh one of the old school Pentecostal denominations uh the Church of God, Cleveland, Tennessee. He's at very kind of Messianic Zionist Pentecostal. Some prosperity gospel in there. That's kind of the the group he comes from. and he came out talking about there's this meeting this happened something about reptilians um all this kind of really wild stuff and then later people from the meeting as this was leaking and spreading with hundreds of millions of views um on social media pastors that were at the meeting started to come out and share their own story and then ultimately these six pastors I hadn't heard of any of them before um had a a meeting where they discussed what what what happened to them so first of all these uh pastors, I think most of them were the Pentecostal uh genre, and they were all at a media conference because they're all um do a lot with uh media. And they were invited to a a bread and breakfast in Tennessee by some unnamed people who knew one of these men and said, \"Come back. We have some things to disclose.\" They describe them as operators uh or intelligence operators who are Christians and they were Christian intelligence or some kind of operator coming to talk to Christian pastors about things they had seen and um a lot of information went out um from this. Um, I'll just focus on the one main point they they mention again and again is again that these all of these things are demons. Now, I can appreciate as a pastor some of the things they said. They said, you know, we have to stand uh, you know, stand for God um, you know, against all wickedness. Okay, I can get behind that. U, but they're classifying all of these things um, as demons. And one of them, a gentleman named Pastor Ragland said um you know he specifically said that Congressman Eric Burchett said you must stand firm um in you know read the book of Noah. We are in the time of Noah. Now pastor Raglin had just written a huge book on the flood with a lot of the pro prophetic Pentecostal kind of things. Um and so that went out while wow the government congress people are saying these are all demons. We have to we're standing in the time of nowhere. We have to be faithful to the covenant against all the wickedness in the world that will be destroyed. That's the frame they're using. He put that on Congressman Berles who later retracted it um and said that's not what I said. You can read through this. He's like what I said was read your Bibles um and be sure that you uh you know you're reading what's in there but maybe not what you think is in there. Uh you can do it. You can read this yourself of what uh what he said. Then he kind of ended it with how President Trump often ends his tweets with, \"Thank you for your attention to this matter.\" So right away, Brison's like, \"Wow, these people are already setting another strong friend. They're all demons and we're in the time of Noah and that's what's going on.\" And that might not mean a lot to non-Christians or people that aren't in that particular kind of very kind of conservative Pentecostal Christianity. But that is a very strong frame to set. And once you do that, then everything else falls from there. everything else you see the rest of disclosure all of it is going to be that. So, I find that humorous, the proist was like, \"That's not what I said. I wasn't even there. I phoned in. I don't know what they talked about.\" So, you got a couple frames here. You got the aller demons. Then, you kind of got the uh it's not quite the all archangels, but if you've been following the Chris Bledo story, which I found this story very fascinating, um he presumes to have uh he he he speaks about meeting with um angelic orblike uh beings. uh even going to Capitol Hill uh with Eric Berles and and other people from Congress where they said, \"Can you go out and summon these angels? We can see these UFOs.\" And he said, \"Well, I don't like to I don't summon them. I pray I think this is the Holy Spirit or angels.\" Or he has got other names for these things are, but he says, \"They're very good. They're very benevolent.\" And he actually um wrote on social media today against these other pastors saying um we are for the light. these beings are for the light and we resist the darkness. Um, so again, another strong phrase, not saying what's right or wrong, but these things are being set uh and are circulating in the tens of millions of views online. And you can read more about the Chris Bledsoe story. Lots of stuff online. I find that fascinating. And this is his book that he wrote in 2012 called UFO God. Um so uh I want to say a few things here uh before I get into this point about early Christian theology being uh more diverse than it is now. Uh in fact let me just go back quickly to this Burles slide and read just a portion of it. Right. So um uh Burles says I express my views which is that Christians tend to get dug into our personal worldviews even if they have nothing to do with what's actually been written in the Bible. Um, and this is something that I've been concerned about for quite some time because uh I think there's a number of reasons to believe that the UFO and related phenomena are parallel uh echo a lot of things that we see in scriptural accounts. Um, you know, people being mysteriously healed, even uh uh virgin births and mysterious pregnancies and things like that. Um, they come up in this lore. um and you know people levitating uh uh people being able to do very unusual things or beings being able to do very unusual things and um you know I've expressed this concern that uh that there's a kind of rigidity in Christian theology sometimes that we understand exactly who Jesus is and how he relates to God and what these other kinds of entities are and these ones are good and those ones are bad and I I really appreciated Berles calling our attention to the fact that we are we are bringing theology to the scriptural texts. Um and we need to be careful. So if it turns out that something that is revealed contradicts what we think of as Christianity, it might not actually contradict what's in the scriptures. It might it contradict things that we have add to the scriptures or our attempts to understand the scriptures, which doesn't need to be anything conspiratorial. We've all been trying to understand these texts and what they mean. We might be making some mistakes and we might be about to learn some new information which might help us uh understand how to read the texts more accurately. And that's one reason why we're doing this presentation is we hope people can be responsive and not reactionary. when you get headlines or if there's more tanches of UFO uh UAP related things that are released, um the questions can hit us hard or people can react and then you cling hard to something maybe that is more comfortable. And I think we're just saying just, you know, take a deep breath, look into what you want to look into. You don't have to change your whole world future night. You may never have to just kind of, you know, do your own deep dessert. Uh I do have another I have a video on my YouTube channel called Embracing the Paranormal. And in there I talk a little bit about how historically Christianity became as homogeneous as it is. It seems like it's not homogeneous because there are many many many thousands of forms of Christianity at this point but they have have all kind of converged around this this theology that emerges especially um after Constantine converts and calls together the ecumenical councils and but there was theology prior to that and and I just want to talk about one theologian um or origin of Alexandria who uh predates the council of na by 150 years or so 150 heroes Yeah. Um and was a bit like extremely influential uh theologian. He's sort of in the lineage of Plato and the Neoplat uh Neoplatonic philosophers very much a Christian. Um but he's articulating a view that to post Nyian Christians uh and and modern Christians would sound very very strange and would sound not like Christianity at all. So this is a Christian, undisputably a Christian, uh, one of the most serious theologians that existed at the time. Arguably the most serious theologian that existed at the time. Um, and he's saying things which sound very strange to modern Christians. And I just want to talk briefly about a few of these points. Um, so he he believed in the pre-existence of souls that that the my soul was once not in this body. Um, and if you it's it's this is an old text. There's not a whole lot of detail in here, right? But but actually this does look like he believes in some kind of cycle of death and rebirth, reincarnation, that that I my soul was once in a different body. Um, he also seems to believe that angels and demonic forces, which again are like not species, right? These are types of beings that have um become especially good and aligned with God on the one end, become especially bad and filled with wickedness and rejecting God on the other end. Um that they are beings uh who have beings like us who have ascended or descended that once upon a time they were embodied entities that lived lives like we live lives, morally complex lives. And some of them became really good and they've moved on to this higher state. Some of them became really bad and they've moved on to this lower state. Well, if that's true, then they're aliens, right? That that then angels are aliens. They are entities who were once embodied beings like us and have now moved into some other kind of estate that you might call interdimensional. that they they relate to the physical world that the world that we occupy the world of three dimensions of time and one dimension three dimensions of space and one dimension of time. They don't relate to the world that way. Maybe they can move through walls and they can show up mysteriously and they can levitate and they can heal beings and you know um that might all fit quite nicely into origins theology even if it doesn't fit very nicely into more contemporary Christians theology. And I have to at least mention right next to this um that the stars and the planets in his view are alive. They're they're real beings. He actually speaks about the earth as like a very large organism. So he he seems to believe it's something like a Gaia consciousness. Um and uh I just think this is delightful uh uh that that it might turn out that the the Christianity uh of origin is closer to the truth than the origin than the Christianities that have sort of uh developed after him. Uh and this would again not be to reject Christianity in any way. This would just be to go back and revisit some theology that maybe we've lost. Yeah. And uh you know most of uh what Steve shared about origins those theological points were ana anathematized meaning the church said they were wrong. Uh but I would commend origins on first principles to anybody. It's a really um important work. Um if you read father John Bayer who's an orthodox theologian I like the analogy he uses. He says that uh origin of Alexandria, he created the game of soccer or the game of theology that we all play. Um and all of the early church fathers all were using uh the system that he had put together and they change it and evolve it over hundreds of years. uh that he was the inventor of the game or like double date to baseball invented the game and even and then if somebody wants to write a good Dainci code kind of conspiracy novel the anathematization of origin would be a great book because there's all kinds of even controversy around that where it got condemned at the fifth ecumenical council I know we didn't go on this let's go on this just a little you know he got it gets condemned at the fifth ecumenical council under emperor just uh Justinian Uh but scholars today are saying that was added on by him later. They wasn't discussed at the council. Um and then the author who put the original work on first principles together, a guy named Rufinus in the later translations, they put all the anata that were at the council into his original work. So it sounded like origin was both saying one thing and the opposite thing. So, there's this great kind of early UFO conspiracy stuff around um of of origin, but a worthwhile thinker. And I'll just bring up one point uh of the stuff that wasn't condemned that I think is relevant to this conversation is that in the the fourth section of that book when he's talking about scripture, he uh uses a form of scripture that uh later theologians build on, especially in the Eastern Orthodox tradition, they use this today where scripture is like our body. Our body's in three parts. Body, spirit, and the soul. And so scripture is like the same. It's got a body. That's the literal reading of scripture. What actually are we reading? What's the story? What's the history? What are the details? And then you've got the uh the soul reading or the moral reading of what does this say about how we should live? What is right and what is wrong? And then finally, the spiritual reading is um that which is going to draw us in and form us spiritually. And the main point he makes there is that there's many things in the scripture that are stumbling blocks to men. He uses examples if I can remember off the top of my head of you know God God doesn't literally have eyes, ears and a hand. God has God is spirit father. And so those can be a stumbling block if we anthropomorphize God too much. But that's not scripture lying. It's scripture intentionally being written as a stumbling block to draw us deeper into the mystery to work on our soul or where God says kill all the Amalachites all these terrible things that God says. Origin would say this isn't uh you know that's not worthy of God for God to do that because God is the good. However, this is intentionally in scripture so it's the stumbling blocks and we have to spiritually wrestle with what that means and that helps our deification. So origin is an important person and it just shows how differently um they were thinking then about scripture than what we think too. Always getting back to Berles origin might have liked that of don't just uh presume you know exactly what it means you need to revisit revisit revisit go back to the sources add fontest all the time. Um, and then, oh yeah, and then we kind of talked about, uh, I think we're getting to the end of the slides here, but even Jesus himself says, um, beloved, do not believe every spirit, but test the spirits to see whether they are from God. So again, this is John. Oh, this is first John. Thank you. The next one is Thank you. And yeah, and but Jesus talked about that, too. Weighing the fruits. And so it's kind of like, you know, the the Bible itself is saying slow down, test these spirits. Don't a priority say everything's angels, everything's demons. Or even there's other frames of there's no spirituality to this or that's that's all spiritual, you know? Uh we have to think like are all the aliens they little green men from Mars or is there a spiritual dimension to this or is it all angels and they just materialize and form ships to mess with us? We have to start to use uh Jeff Krele's uh terminology who we had breakfast with recently. We have to start thinking impossibly and especially as Christians we've been doing that for a long time. The resurrection we we think impossibly you know and then we make sense out of that and what is possible from that initial impossible thinking. So I think this is a time to reclaim that gift of thinking impossibly and to move slow and to test spirits if you're a Christian. And yes, and here's Matthew 7:15. Uh, beware of false prophets who come to you in sheep's clothing, but inwardly are ravenous wolves. You will know them by their fruits. Are grapes gathered from thorns or figs from thistles? In the same way, every good tree bears good fruit, but the bad tree bears bad fruit and so on. So again, you know, it might be a while till we can see what the if these are, you know, beings from other dimensions or planets. It's going to take a little while to see what their fruits are. But why don't we withhold judgment on what we think is going on? Begin to think and possibly move slow, be discerning, just like scripture tells us, and ultimately the fruits uh will come forth. And then I'll just end with this. This is the the trauma therapist. I thought this was a some nice uh nice theological poetic language. God is with us. Begin in God's presence. God intended us for each other. Act from God's love. The cosmos is an open and incomplete system. All beings are connected in parallel process. Arrive, ground, and center. Follow the flow. Discern the larger context. Work in the pause. Hear the story. Tell the story. Reduce anxiety. Engage existing relationships. Get people to the next step. Debrief before departing."
+}
