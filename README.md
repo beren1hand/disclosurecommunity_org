@@ -9,10 +9,28 @@ Requires Ruby (3.x is fine) and Bundler.
 
 ```bash
 bundle install                 # one-time
-bundle exec jekyll serve       # http://127.0.0.1:4000
+./serve.sh                     # http://127.0.0.1:4000
 ```
 
-`--livereload` works if you install `gem "jekyll-livereload"`.
+`serve.sh` uses `bundle exec jekyll serve --livereload` when the gems
+are installed, and falls back to system Jekyll (`apt install jekyll`)
+in environments where rubygems.org is unreachable.
+
+## Branch workflow
+
+GitHub Pages deploys whatever lands on `main`. To keep work-in-progress
+off the live site:
+
+```bash
+git checkout dev               # day-to-day work happens here
+# ...commit changes...
+git push origin dev            # backs up work, does NOT deploy
+
+git checkout main              # when ready to publish
+git merge dev
+git push origin main           # deploys to disclosurecommunity.org
+git checkout dev               # back to work
+```
 
 ## Adding a blog post
 
