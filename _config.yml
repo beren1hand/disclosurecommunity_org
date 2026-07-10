@@ -22,7 +22,7 @@ github_username: disclosurecommunity
 # When both are set, /events/ and the home "Next gathering" card pull
 # live from the calendar; the file-based _events/ list is the fallback.
 google_calendar_id: "c_3438e85d5d7177f626d78291c14b4a1da0681d883cb7846819b9f01f6182430e@group.calendar.google.com"
-google_calendar_api_key: ""
+google_calendar_api_key: "AIzaSyDf_V0pKG6yfkjgk3sBPnFWpIY49zgveoc"
 
 # Build settings
 markdown: kramdown
