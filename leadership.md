@@ -58,7 +58,7 @@ help convene these conversations and keep the gatherings going.
 ---
 
 <div class="leader-profile">
-  <img class="leader-photo" src="{{ '/assets/images/adam-messmer.png' | relative_url }}" alt="Portrait of Adam Messmer." width="1320" height="1304" loading="lazy" decoding="async">
+  <img class="leader-photo" src="{{ '/assets/images/adam-messmer-portrait.png' | relative_url }}" alt="Portrait of Adam Messmer." width="1310" height="1942" loading="lazy" decoding="async">
   <div class="leader-profile-copy">
     <h2 id="adam-messmer">Adam Messmer</h2>
     <p><strong>Communications</strong></p>
