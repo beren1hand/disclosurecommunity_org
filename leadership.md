@@ -38,27 +38,34 @@ what these phenomena ask of practice.
 
 ---
 
-## Steven Brown {#steven-brown}
-
-**Co-lead · Professor · Lecturer**
-
-Professor of philosophy at [The Ohio State University](https://philosophy.osu.edu/people/brown.2703),
-founder of [the Visible College](https://thevisiblecollege.org/),
-and a regular lecturer on [YouTube](https://www.youtube.com/@stevenbrownphilosophy)
-on disclosure, the paranormal, and what philosophy has to say about
-any of it. More at [stevenbrownphilosophy.com](https://stevenbrownphilosophy.com/).
-
----
-
-## Marti Houghton {#marti-houghton}
-
-**Event Coordinator**
+<div class="leader-profile">
+  <img class="leader-photo" src="{{ '/assets/images/steven-brown.png' | relative_url }}" alt="Portrait of Steven Brown." width="1122" height="1495" loading="lazy" decoding="async">
+  <div class="leader-profile-copy">
+    <h2 id="steven-brown">Steven Brown</h2>
+    <p><strong>Co-lead · Professor · Lecturer</strong></p>
+    <p>Professor of philosophy at <a href="https://philosophy.osu.edu/people/brown.2703">The Ohio State University</a>, founder of <a href="https://thevisiblecollege.org/">the Visible College</a>, and a regular lecturer on <a href="https://www.youtube.com/@stevenbrownphilosophy">YouTube</a> on disclosure, the paranormal, and what philosophy has to say about any of it. More at <a href="https://stevenbrownphilosophy.com/">stevenbrownphilosophy.com</a>.</p>
+  </div>
+</div>
 
 ---
 
-## Adam Messmer {#adam-messmer}
+<div class="leader-profile">
+  <img class="leader-photo" src="{{ '/assets/images/marti-houghton.png' | relative_url }}" alt="Portrait of Marti Houghton." width="1305" height="2013" loading="lazy" decoding="async">
+  <div class="leader-profile-copy">
+    <h2 id="marti-houghton">Marti Houghton</h2>
+    <p><strong>Event Coordinator</strong></p>
+  </div>
+</div>
 
-**Communications**
+---
+
+<div class="leader-profile">
+  <img class="leader-photo" src="{{ '/assets/images/adam-messmer.png' | relative_url }}" alt="Portrait of Adam Messmer." width="1320" height="1304" loading="lazy" decoding="async">
+  <div class="leader-profile-copy">
+    <h2 id="adam-messmer">Adam Messmer</h2>
+    <p><strong>Communications</strong></p>
+  </div>
+</div>
 
 ---
 

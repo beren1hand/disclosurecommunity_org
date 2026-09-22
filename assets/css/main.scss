@@ -405,6 +405,40 @@ ul.entry-list {
 /* ------------------------------------------------------------------
  * Leadership
  * ------------------------------------------------------------------ */
+.leader-profile {
+  display: grid;
+  grid-template-columns: minmax(160px, 220px) minmax(0, 1fr);
+  gap: 1.75rem;
+  align-items: start;
+  margin: 2.5rem 0;
+}
+.prose .leader-profile h2 {
+  margin: 0 0 0.25rem;
+}
+.prose .leader-profile p:last-child {
+  margin-bottom: 0;
+}
+.prose .leader-photo {
+  display: block;
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  object-position: center top;
+  margin: 0;
+  border-radius: 4px;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.45), 0 0 0 1px $rule;
+}
+@media (max-width: 600px) {
+  .leader-profile {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+  .prose .leader-photo {
+    max-width: 260px;
+    margin: 0 auto;
+  }
+}
+
 .leaders {
   display: grid;
   gap: 2rem;

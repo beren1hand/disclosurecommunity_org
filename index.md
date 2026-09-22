@@ -58,9 +58,11 @@ title: Home
       {% if next.excerpt %}<p>{{ next.excerpt | strip_html | truncate: 200 }}</p>{% endif %}
       <a class="home-card-more" href="{{ next.url | relative_url }}">Details &rarr;</a>
     {% else %}
-      <p>No gatherings on the calendar just yet. Check back soon, or
-      <a href="{{ '/contact/' | relative_url }}">drop us a note</a> and we&rsquo;ll
-      let you know when the next one is set.</p>
+      <p>We regularly meet on the second Monday of each month. Also, we meet
+      at other times as needed. Sign up for our newsletter to be alerted to
+      those additional gatherings. Our Linktree with links to our Discord,
+      newsletter, et al. can be found
+      <a href="https://linktr.ee/disclosurecommunity">here</a>.</p>
     {% endif %}
   </div>
 
