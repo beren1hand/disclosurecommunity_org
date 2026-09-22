@@ -5,14 +5,27 @@ Columbus, Ohio. Deployed via GitHub Pages.
 
 ## Local development
 
-Requires Ruby (3.x is fine) and Bundler.
+On the configured project machine, start the preview with:
 
 ```bash
-bundle install                 # one-time
-bundle exec jekyll serve       # http://127.0.0.1:4000
+./serve.sh --host 127.0.0.1 --port 4000
 ```
 
-`--livereload` works if you install `gem "jekyll-livereload"`.
+Then open `http://127.0.0.1:4000/`. The server rebuilds after content and
+style changes; refresh the browser to see them. Restart the server after
+editing `_config.yml`.
+
+On a new machine, install Ruby 3.x and Bundler first, then run
+`bundle install`. The same `serve.sh` command will use the standard bundle.
+
+## Routine editing workflow
+
+1. Start the local preview with `./serve.sh --host 127.0.0.1 --port 4000`.
+2. Edit the relevant Markdown, configuration, template, or stylesheet file.
+3. Review the result locally on desktop and mobile.
+4. Check the Git diff and run a Jekyll build.
+5. Commit the intended files and push `main` to `origin` when the changes are
+   ready to publish. GitHub Pages deploys the push automatically.
 
 ## Adding a blog post
 
@@ -76,7 +89,7 @@ _config.yml             site identity, navigation, plugins
 _layouts/               page/post/event/default templates
 _includes/              head, header, footer
 assets/css/main.scss    all styles (night-sky theme)
-assets/images/          favicon + hero photo
+assets/images/          favicon, homepage logo, and historical photos
 _posts/                 blog posts
 _events/                event collection
 *.md                    top-level pages

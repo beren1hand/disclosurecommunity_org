@@ -11,6 +11,7 @@ baseurl: ""
 # Site identity
 location: Columbus, Ohio
 email: hello@disclosurecommunity.org
+admin_email: admin@disclosurecommunity.org
 github_username: disclosurecommunity
 
 # Google Calendar embed
@@ -52,6 +53,7 @@ plugins:
   - jekyll-seo-tag
 
 exclude:
+  - AGENTS.md
   - Gemfile
   - Gemfile.lock
   - AI.md

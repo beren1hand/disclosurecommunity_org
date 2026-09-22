@@ -272,6 +272,47 @@ body {
 }
 .hero-emoji { font-style: normal; }
 
+.gathering-notice {
+  max-width: $measure;
+  margin: 0 auto 3rem;
+  padding: 1.75rem;
+  text-align: center;
+  border: 1px solid $rule-strong;
+  border-radius: 4px;
+  background: $bg-veil;
+  box-shadow: 0 14px 40px rgba(0,0,0,0.2);
+}
+.gathering-notice-label {
+  margin-bottom: 0.4rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $ink-muted;
+}
+.gathering-notice h2 {
+  margin-bottom: 0.75rem;
+  font-family: $serif;
+  font-size: clamp(1.45rem, 3vw, 1.85rem);
+  font-weight: 500;
+  line-height: 1.25;
+  color: $gold;
+}
+.gathering-notice-details {
+  color: $ink;
+  line-height: 1.55;
+}
+.gathering-notice-parking {
+  margin-top: 0.6rem;
+  font-family: $serif;
+  font-style: italic;
+  color: $ink-soft;
+}
+.gathering-notice-contact {
+  margin-top: 0.85rem;
+  font-size: 0.95rem;
+  color: $ink-soft;
+}
+
 .home-sections {
   display: grid;
   gap: 2.5rem;

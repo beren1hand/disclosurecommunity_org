@@ -5,9 +5,8 @@ title: Home
 
 <section class="hero container">
   <img class="hero-image"
-       src="{{ '/assets/images/shell-alpert-1952.png' | relative_url }}"
-       alt="A photograph taken by U.S. Coast Guard photographer Shell R. Alpert on 16 July 1952, showing four bright objects in V formation over the Salem, Massachusetts Air Station.">
-  <p class="hero-image-caption">Salem, Massachusetts &middot; 16 July 1952</p>
+       src="{{ '/assets/images/disclosure-community-logo.jpeg' | relative_url }}"
+       alt="Disclosure Community Columbus, Ohio logo.">
 
   <p class="hero-lede">
     <span class="hero-emoji" aria-hidden="true">👽</span>
@@ -26,6 +25,21 @@ title: Home
   </p>
   <p>
     <a href="{{ '/about/' | relative_url }}">What we&rsquo;re up to &rarr;</a>
+  </p>
+</section>
+
+<section class="gathering-notice container" aria-labelledby="regular-gathering-title">
+  <p class="gathering-notice-label">Regular gathering</p>
+  <h2 id="regular-gathering-title">Second Monday of every month</h2>
+  <p class="gathering-notice-details">
+    <strong>6:30&ndash;8:30 PM</strong><br>
+    Jacob&rsquo;s Porch<br>
+    45 E. 13th Ave., Columbus, Ohio 43201
+  </p>
+  <p class="gathering-notice-parking">Free parking is available.</p>
+  <p class="gathering-notice-contact">
+    For more information, email
+    <a href="mailto:{{ site.admin_email }}">{{ site.admin_email }}</a>.
   </p>
 </section>
 

@@ -4,22 +4,31 @@ We are building a website for an emerging community of people trying to care for
 
 I want you to help me build and maintain a jekyll website hosted on github pages. We want it to be lightweight and easy for now. We can always upgrade to something more substantial later. I think a few pages, a blog, an events calendar. You and I will be the ones maintaining the site.
 
-The current leadership are three people:
-1. Grant Ekhart
-    a. Pastor at Jacob's Porch Lutheran student ministry at OSU (https://www.jacobsporch.com/)
-    b. Author of Ministry in the Weird (https://ministryintheweird.substack.com/)
-2. Patrick Dunn
+The current team includes three co-leads and two coordinators:
+1. Grant Eckhart — Co-lead
+    a. Pastor at Jacob's Porch, the Ecumenical Christian College Ministry at Ohio State (https://www.jacobsporch.com/)
+    b. Ordained minister in the Lutheran tradition for over 20 years
+    c. Author of Ministry in the Weird (https://ministryintheweird.substack.com/)
+2. Patrick Dunn — Co-lead
     a. Priest at Mud Lotus Sangha (https://www.mudlotussangha.org/)
     b. Author of Dharma Between Worlds (https://dharmabetweenworlds.substack.com/)
-3. Steven Brown, 
+3. Steven Brown — Co-lead
     a. Professor at OSU (https://philosophy.osu.edu/people/brown.2703)
     b. Founder of the Visible College (https://thevisiblecollege.org/)
     c. Lecturer on YouTube (https://www.youtube.com/@stevenbrownphilosophy)
     d. Personal website (https://stevenbrownphilosophy.com/)
+4. Marti Houghton — Event Coordinator
+5. Adam Messmer — Communications
+
+The community meets on the second Monday of every month from 6:30–8:30 PM
+at Jacob's Porch, 45 E. 13th Ave., Columbus, Ohio 43201. Free parking is
+available. The public information address is admin@disclosurecommunity.org.
 
 If you read over those sites, you should have a pretty good idea of what we are up to. And I've given you the transcripts of my lectures. That should help too. 
 
-We might want to utilize some historical ufo photos, but we'd have to think about which ones to use. I've given you my favorite one in the images directory. Definitely use that one.
+The homepage currently uses the Disclosure Community logo. A favorite
+historical UFO photograph remains available in the images directory for
+possible future use.
 
 Feel free to throw around some of the standard alien emoji to spice things up and make them feel cute and welcoming. But don't go crazy. We want the site to be fun and welcoming.
 
