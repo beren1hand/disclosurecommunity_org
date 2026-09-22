@@ -309,7 +309,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   http_parser.rb (~> 0.6.0)
-  jekyll-feed
   jekyll-seo-tag
   jekyll-sitemap
   tzinfo (>= 1, < 3)

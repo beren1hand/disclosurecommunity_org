@@ -2,14 +2,17 @@
 layout: default
 ---
 <article class="event container">
-  <header class="page-header">
-    <p class="event-when">
-      <time datetime="{{ page.date | date_to_xmlschema }}">
-        {{ page.date | date: "%A, %B %-d, %Y" }}{% if page.time %} &middot; {{ page.time }}{% endif %}
-      </time>
-    </p>
-    <h1 class="page-title">{{ page.title }}</h1>
-    {% if page.location %}<p class="event-where">{{ page.location }}</p>{% endif %}
+  <header class="page-header page-header-branded">
+    <div class="page-heading-copy">
+      <p class="event-when">
+        <time datetime="{{ page.date | date_to_xmlschema }}">
+          {{ page.date | date: "%A, %B %-d, %Y" }}{% if page.time %} &middot; {{ page.time }}{% endif %}
+        </time>
+      </p>
+      <h1 class="page-title">{{ page.title }}</h1>
+      {% if page.location %}<p class="event-where">{{ page.location }}</p>{% endif %}
+    </div>
+    {% include page-logo.html %}
   </header>
 
   <div class="event-content prose">

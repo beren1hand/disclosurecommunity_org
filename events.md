@@ -22,10 +22,10 @@ discussion-based. If a particular event has a different format
 
 ## Upcoming
 
-We meet the second Monday of each month from 6:30-8:30 pm at Jacob's Porch
-near the Ohio State Campus. Additionally we have other random meetings needed
-and even some field trips. Let us know that you'd like a heads up when the
-next one is set by joining our
+We meet on the second Monday of each month from 6:30&ndash;8:30 PM at
+Jacob&rsquo;s Porch, near the Ohio State campus. We have other random meetings
+as needed and likely even some field trips. Let us know that you&rsquo;d like a
+heads-up when the next one is set by joining our
 [newsletter](https://linktr.ee/disclosurecommunity).
 
 {% assign upcoming = site.events | where_exp: "e", "e.date >= site.time" | sort: "date" %}
@@ -43,10 +43,6 @@ next one is set by joining our
     </li>
   {% endfor %}
 </ul>
-{% else %}
-<p class="empty-state">No gatherings on the calendar at the moment.
-Check back soon &mdash; or <a href="{{ '/contact/' | relative_url }}">let us know</a>
-you&rsquo;d like a heads up when the next one is set.</p>
 {% endif %}
 
 ## Past
