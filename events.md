@@ -22,6 +22,12 @@ discussion-based. If a particular event has a different format
 
 ## Upcoming
 
+We meet the second Monday of each month from 6:30-8:30 pm at Jacob's Porch
+near the Ohio State Campus. Additionally we have other random meetings needed
+and even some field trips. Let us know that you'd like a heads up when the
+next one is set by joining our
+[newsletter](https://linktr.ee/disclosurecommunity).
+
 {% assign upcoming = site.events | where_exp: "e", "e.date >= site.time" | sort: "date" %}
 {% if upcoming.size > 0 %}
 <ul class="entry-list">
@@ -45,6 +51,10 @@ you&rsquo;d like a heads up when the next one is set.</p>
 
 ## Past
 
+<figure class="past-event-flyer">
+  <img src="{{ '/assets/images/past-event-the-thing.jpeg' | relative_url }}" alt="Flyer for a small-group discussion led by Dr. Sarah Iles Johnston about the thing in Homer's The Odyssey, held at Jacob's Porch.">
+</figure>
+
 {% assign past = site.events | where_exp: "e", "e.date < site.time" | sort: "date" | reverse %}
 {% if past.size > 0 %}
 <ul class="entry-list">
@@ -58,6 +68,4 @@ you&rsquo;d like a heads up when the next one is set.</p>
     </li>
   {% endfor %}
 </ul>
-{% else %}
-<p class="empty-state" style="margin-top:0.5rem;">&mdash;</p>
 {% endif %}

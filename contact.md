@@ -30,6 +30,11 @@ line anyway. We are slowly figuring out how to fold remote folks into
 some sessions, and we are open to helping people in other cities start
 something similar in their own neighborhoods.
 
+## Discord
+
+You are welcome to join our Discord Server to stay connected between
+gatherings. [Click here](https://linktr.ee/disclosurecommunity) for that.
+
 ## A small ask
 
 If you&rsquo;re reaching out because you&rsquo;ve had an experience

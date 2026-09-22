@@ -14,27 +14,25 @@ help convene these conversations and keep the gatherings going.
 
 ---
 
-## Grant Eckhart {#grant-eckhart}
-
-**Co-lead · Pastor · Author**
-
-Pastor at [Jacob's Porch](https://www.jacobsporch.com/), the Ecumenical
-Christian College Ministry at Ohio State. Grant has served as an ordained
-minister in the Lutheran tradition for over 20 years. He writes
-[Ministry in the Weird](https://ministryintheweird.substack.com/),
-thinking through how the church meets a world that is stranger than
-its old categories.
+<div class="leader-profile">
+  <img class="leader-photo" src="{{ '/assets/images/grant-eckhart.jpeg' | relative_url }}" alt="Grant Eckhart standing against a stone wall." width="1200" height="1600" loading="lazy" decoding="async">
+  <div class="leader-profile-copy">
+    <h2 id="grant-eckhart">Grant Eckhart</h2>
+    <p><strong>Co-lead · Pastor · Author</strong></p>
+    <p>Pastor at <a href="https://www.jacobsporch.com/">Jacob's Porch</a>, the Ecumenical Christian College Ministry at Ohio State. Grant has served as an ordained minister in the Lutheran tradition for over 20 years. He writes <a href="https://ministryintheweird.substack.com/">Ministry in the Weird</a>, thinking through how the church meets a world that is stranger than its old categories.</p>
+  </div>
+</div>
 
 ---
 
-## Patrick Dunn {#patrick-dunn}
-
-**Co-lead · Priest · Author**
-
-Priest at [Mud Lotus Sangha](https://www.mudlotussangha.org/).
-Patrick writes [Dharma Between Worlds](https://dharmabetweenworlds.substack.com/),
-a quiet, careful Buddhist engagement with disclosure, contact, and
-what these phenomena ask of practice.
+<div class="leader-profile">
+  <img class="leader-photo" src="{{ '/assets/images/patrick-dunn.png' | relative_url }}" alt="Portrait of Patrick Dunn." width="1071" height="1475" loading="lazy" decoding="async">
+  <div class="leader-profile-copy">
+    <h2 id="patrick-dunn">Patrick Dunn</h2>
+    <p><strong>Co-lead · Priest · Author</strong></p>
+    <p>Priest at <a href="https://www.mudlotussangha.org/">Mud Lotus Sangha</a>. Patrick writes <a href="https://dharmabetweenworlds.substack.com/">Dharma Between Worlds</a>, a quiet, careful Buddhist engagement with disclosure, contact, and what these phenomena ask of practice.</p>
+  </div>
+</div>
 
 ---
 
