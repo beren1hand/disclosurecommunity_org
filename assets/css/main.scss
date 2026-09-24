@@ -224,6 +224,9 @@ body {
   color: $ink;
   letter-spacing: -0.005em;
 }
+.post-content.prose h2 {
+  color: $gold;
+}
 .prose h3 {
   font-family: $serif;
   font-weight: 500;
