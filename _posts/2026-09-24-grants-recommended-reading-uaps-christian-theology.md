@@ -103,3 +103,4 @@ This is my personal recommended reading list. It brings together foundational UA
 - **David Bentley Hart** — *You Are Gods*
 - **Matthew Thiessen** — *Jesus and the Forces of Death: The Gospels’ Portrayal of Ritual Impurity within First-Century Judaism*
 - **David Bentley Hart** — *All Things Are Full of Gods*
+- **Sarah Hinlicky Wilson** — *Catechizing Sphinxes and Other Stories*
